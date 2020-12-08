@@ -6,6 +6,7 @@ This repository contains the database produced by the RIN ConDÉ project. The pr
 * post-doctoral researcher: _Mathieu Goux_,
 * research engineers: _Gwenaëlle Callemein_ (until 2020) and _Prune Decoux_ (since 2020),
 * study engineer: _Morgane Pica_.
+
 We aim to establish a TEI-XML database of Norman customary law, from 12th to 18th century, with lemma and part-of-speech annotation, as well as the internal network of references.
 
 This repository contains three versions of the files:
@@ -24,7 +25,8 @@ Ce repository contient la base de données produite par le projet RIN ConDÉ. Ce
 * post-doctorant : _Mathieu Goux_,
 * ingénieures de recherche : _Gwenaëlle Callemein_ (until 2020) and _Prune Decoux_ (since 2020),
 * ingénieure d'étude : _Morgane Pica_.
- Notre but est d'établir une base de données XML-TEI de la Coutume de Normandie, du 12e au 18e siècle, avec lemmatisation, annotation morpho-syntaxique et du réseau interne de références.
+
+Notre but est d'établir une base de données XML-TEI de la Coutume de Normandie, du 12e au 18e siècle, avec lemmatisation, annotation morpho-syntaxique et du réseau interne de références.
 
 Ce repository contient trois versions des fichiers :
 * une version de "base" en XML-TEI, pensée pour les chercheurs souhaitant explorer l'encodage complet produit par l'équipe,
