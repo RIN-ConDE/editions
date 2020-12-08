@@ -1,0 +1,36 @@
+# Repository description
+(Texte français ci-dessous.)
+
+This repository contains the database produced by the RIN ConDÉ project. The project, funded by the Normandy Region and based in the Caen and Rouen universities, started in december 2018. It is lead by :
+* main researcher: _Pr. Pierre Larrivée_,
+* post-doctoral researcher: _Mathieu Goux_,
+* research engineers: _Gwenaëlle Callemein_ (until 2020) and _Prune Decoux_ (since 2020),
+* study engineer: _Morgane Pica_.
+We aim to establish a TEI-XML database of Norman customary law, from 12th to 18th century, with lemma and part-of-speech annotation, as well as the internal network of references.
+
+This repository contains three versions of the files:
+* a "base" TEI-XML version, intended for researchers who would like to explore the full encoding produced by the team,
+* a "simpler" TEI-XML version derived from the previous one for practical reasons, containing the version currently displayed on the project website: all words are modernized and the facsimile information is absent,
+* a PDF version of the texts, readable and searchable on any PDF viewer.
+
+Not all typos were spotted upon HTR revision. If you would like to report a typo, you're welcome to either use the usual GitHub channels, or write to 'morgane.pica'<at>'unicaen.fr'. In the latter case, please include the name of the work, as well as the full number of the passage, if you're working with PDF files, or the @xml:id value if you're working on the TEI-XML files.
+
+The "base" encoding includes a logical structuration of the text in parts, chapters and sections as well as links with the original structuration of the facsimile images. One can therefore easily reconstruct a facsimile display of the text. We have also included <choice> elements with original and modernized written forms. We intended these informations to allow use of the data by as many disciplines and purposes as possible.
+
+# Description du repository
+
+Ce repository contient la base de données produite par le projet RIN ConDÉ. Ce projet, financé par la Région Normandie et basé aux universités de Caen et Rouen, a commencé en décembre 2018. Il est mené par :
+* porteur du projet : _Pr. Pierre Larrivée_,
+* post-doctorant : _Mathieu Goux_,
+* ingénieures de recherche : _Gwenaëlle Callemein_ (until 2020) and _Prune Decoux_ (since 2020),
+* ingénieure d'étude : _Morgane Pica_.
+ Notre but est d'établir une base de données XML-TEI de la Coutume de Normandie, du 12e au 18e siècle, avec lemmatisation, annotation morpho-syntaxique et du réseau interne de références.
+
+Ce repository contient trois versions des fichiers :
+* une version de "base" en XML-TEI, pensée pour les chercheurs souhaitant explorer l'encodage complet produit par l'équipe,
+* une version "simplifiée" en XML-TEI, dérivée de la précédente pour des raisons de taille des fichiers, contenant la version actuellement affichée sur le site du projet : tous les mots sont modernisés et les informations sur les facsimiles sont absentes,
+* une version PDF des textes, pouvant être lue et recherchée sur tout lecteur de PDF.
+
+Toutes les coquilles n'ont pas été trouvées à la révision de l'HTR. Si vous souhaitez signaler une coquille, vous pouvez soit utiliser les fonctionnalités GitHub habituelles, ou écrire à 'morgane.pica'<at>'unicaen.fr'. Dans le second cas, nous vous remercions de bien vouloir inclure le titre de l'œuvre, ainsi que le numéro complet du passage, si vous travaillez sur PDF, ou la valeur du @xml:id si vous travaillez sur les fichiers XML-TEI.
+
+L'encodage de "base" inclut une structuration logique du texte en parties, chapitres et sections, ainsi que les liens vers la structuration originelle des images facsimiles. L'on peut ainsi facilement reconstruire un affichage facsimile du texte. Nous avons également inclus des éléments <choice> avec les formes originelles et modernisées. Nous pensons que ces informations permettront l'usage de ces données pour autant de disciplines et buts que possible.
