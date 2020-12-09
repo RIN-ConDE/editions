@@ -13,7 +13,7 @@ Il est également possible de lire les corpus directement via le logiciel, si ja
 
 Le nom de domaine est déclaré dans la balise TEI en ouverture de document `xmlns:txm="http://textometrie.org/1.0"`, et il a été rajouté un élément `classDecl` dans le teiheader :
 
-```<classDecl>
+-- <classDecl>
 				
 				<taxonomy id="pos"><bibl><title>Catégories grammaticale du modèle <ref target="http://presto.ens-lyon.fr/wp-content/uploads/2014/05/%C3%89tiquettes_Presto-2014-10-13.pdf">PRESTO (ANR-DFR, ENS Lyon)</ref></title>
 					
@@ -29,7 +29,7 @@ Le nom de domaine est déclaré dans la balise TEI en ouverture de document `xml
 				</bibl>
 				</taxonomy>
 				
-			</classDecl>```
+			</classDecl> -- 
 			
 # TXM-versions for the ConDÉ project
 
@@ -46,7 +46,7 @@ You can also use the TXM-software to read the texts if only the ConDÉ website i
 
 The TXM NameSpace has been declared in the TEI tag at the beginning of the files: `xmlns:txm="http://textometrie.org/1.0"`, and a `classDecl` element has been included in the teiheader tag:
 
-```<classDecl>
+-- <classDecl>
 				
 				<taxonomy id="pos"><bibl><title>Catégories grammaticale du modèle <ref target="http://presto.ens-lyon.fr/wp-content/uploads/2014/05/%C3%89tiquettes_Presto-2014-10-13.pdf">PRESTO (ANR-DFR, ENS Lyon)</ref></title>
 					
@@ -62,4 +62,4 @@ The TXM NameSpace has been declared in the TEI tag at the beginning of the files
 				</bibl>
 				</taxonomy>
 				
-			</classDecl>```
+			</classDecl> -- 
