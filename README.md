@@ -12,7 +12,7 @@ We aim to establish a TEI-XML database of Norman customary law, from 12th to 18t
 This repository contains three versions of the files:
 * a "base" TEI-XML version, intended for researchers who would like to explore the full encoding produced by the team,
 * a "simpler" TEI-XML version derived from the previous one for practical reasons, containing the version currently displayed on the project website: all words are modernized and the facsimile information is absent,
-* a [TXM-compatible](<http://textometrie.ens-lyon.fr/?lang=en>) TEI-XML version , to be used with the Textometrie project software for compatibily purposes,
+* a [TXM-compatible](<http://textometrie.ens-lyon.fr/?lang=en>) TEI-XML version , to be used with the Textometrie project software for compatibility purposes,
 * a PDF version of the texts, readable and searchable on any PDF viewer.
 
 Not all typos were spotted upon HTR revision. If you would like to report a typo, you're welcome to either use the usual GitHub channels, or write to 'morgane.pica'<at>'unicaen.fr'. In the latter case, please include the name of the work, as well as the full number of the passage, if you're working with PDF files, or the @xml:id value if you're working on the TEI-XML files.
