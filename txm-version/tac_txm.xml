@@ -235,7 +235,7 @@
 						</p>
 						<p>
 							
-<w><txm:form/><txm:ana type="token-number">102</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">102</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>E</txm:form><txm:ana type="token-number">103</txm:ana><txm:ana type="#lemma">ET</txm:ana><txm:ana type="#pos">Cc</txm:ana></w>
 <w><txm:form>se</txm:form><txm:ana type="token-number">104</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>la</txm:form><txm:ana type="token-number">105</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
@@ -324,7 +324,7 @@
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">179</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">179</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Se</txm:form><txm:ana type="token-number">180</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 							
 <w><txm:form>aucuns</txm:form><txm:ana type="token-number">181</txm:ana><txm:ana type="#lemma">AUCUN</txm:ana><txm:ana type="#pos">Pi</txm:ana></w>
@@ -353,7 +353,7 @@
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">202</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">202</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Se</txm:form><txm:ana type="token-number">203</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>aucuns</txm:form><txm:ana type="token-number">204</txm:ana><txm:ana type="#lemma">AUCUN</txm:ana><txm:ana type="#pos">Pi</txm:ana></w>
 <w><txm:form>est</txm:form><txm:ana type="token-number">205</txm:ana><txm:ana type="#lemma">ÊTRE</txm:ana><txm:ana type="#pos">Vuc</txm:ana></w>
@@ -499,7 +499,7 @@
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">328</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">328</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>il</txm:form><txm:ana type="token-number">329</txm:ana><txm:ana type="#lemma">IL</txm:ana><txm:ana type="#pos">Pp</txm:ana></w>
 <w><txm:form>ne</txm:form><txm:ana type="token-number">330</txm:ana><txm:ana type="#lemma">NE</txm:ana><txm:ana type="#pos">Rp</txm:ana></w>
 							
@@ -898,7 +898,7 @@
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">665</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">665</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 							<w><txm:form>Encore</txm:form><txm:ana type="token-number">666</txm:ana><txm:ana type="#lemma">ENCORE</txm:ana><txm:ana type="#pos">Rg</txm:ana></w>
 					
 <w><txm:form>a</txm:form><txm:ana type="token-number">667</txm:ana><txm:ana type="#lemma">AVOIR</txm:ana><txm:ana type="#pos">Vuc</txm:ana></w>
@@ -2072,7 +2072,7 @@
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">1661</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">1661</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 							<w><txm:form>Se</txm:form><txm:ana type="token-number">1662</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>il</txm:form><txm:ana type="token-number">1663</txm:ana><txm:ana type="#lemma">IL</txm:ana><txm:ana type="#pos">Pp</txm:ana></w>
 <w><txm:form>auient</txm:form><txm:ana type="token-number">1664</txm:ana><txm:ana type="#lemma">ADVENIR</txm:ana><txm:ana type="#pos">Vvc</txm:ana></w>
@@ -2166,7 +2166,7 @@
 						</p>
 						<p>	
 						
-							<w><txm:form/><txm:ana type="token-number">1741</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+							<w><txm:form/><txm:ana type="token-number">1741</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 							<w><txm:form>Li</txm:form><txm:ana type="token-number">1742</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
 <w><txm:form>orfelins</txm:form><txm:ana type="token-number">1743</txm:ana><txm:ana type="#lemma">ORPHELIN</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
 <w><txm:form>qui</txm:form><txm:ana type="token-number">1744</txm:ana><txm:ana type="#lemma">QUI</txm:ana><txm:ana type="#pos">Pr</txm:ana></w>
@@ -2201,7 +2201,7 @@
 						</p>
 						<p>	
 						
-							<w><txm:form/><txm:ana type="token-number">1770</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+							<w><txm:form/><txm:ana type="token-number">1770</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 							<w><txm:form>Li</txm:form><txm:ana type="token-number">1771</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
 <w><txm:form>fil</txm:form><txm:ana type="token-number">1772</txm:ana><txm:ana type="#lemma">FILS</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
 					
@@ -2967,7 +2967,7 @@
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">2414</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">2414</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Se</txm:form><txm:ana type="token-number">2415</txm:ana><txm:ana type="#lemma">SE</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>aucuns</txm:form><txm:ana type="token-number">2416</txm:ana><txm:ana type="#lemma">AUCUN</txm:ana><txm:ana type="#pos">Pi</txm:ana></w>
 <w><txm:form>est</txm:form><txm:ana type="token-number">2417</txm:ana><txm:ana type="#lemma">ÊTRE</txm:ana><txm:ana type="#pos">Vuc</txm:ana></w>
@@ -3231,7 +3231,7 @@
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">2636</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">2636</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>se</txm:form><txm:ana type="token-number">2637</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>li</txm:form><txm:ana type="token-number">2638</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
 <w><txm:form>puissent</txm:form><txm:ana type="token-number">2639</txm:ana><txm:ana type="#lemma">POUVOIR</txm:ana><txm:ana type="#pos">Vvc</txm:ana></w>
@@ -3327,7 +3327,7 @@
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">2719</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">2719</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Se</txm:form><txm:ana type="token-number">2720</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>quens</txm:form><txm:ana type="token-number">2721</txm:ana><txm:ana type="#lemma">INC</txm:ana><txm:ana type="#pos">Inconnu</txm:ana></w>
 					
@@ -3414,7 +3414,7 @@
 						</p>
 						<p>	
 						
-							<w><txm:form/><txm:ana type="token-number">2795</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+							<w><txm:form/><txm:ana type="token-number">2795</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 							<w><txm:form>Autresi</txm:form><txm:ana type="token-number">2796</txm:ana><txm:ana type="#lemma">AUTRESSI</txm:ana><txm:ana type="#pos">Rg</txm:ana></w>
 <w><txm:form>se</txm:form><txm:ana type="token-number">2797</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>li</txm:form><txm:ana type="token-number">2798</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
@@ -3636,7 +3636,7 @@
 						</p>
 						<p>	
 						
-							<w><txm:form/><txm:ana type="token-number">2981</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+							<w><txm:form/><txm:ana type="token-number">2981</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 							<w><txm:form>E</txm:form><txm:ana type="token-number">2982</txm:ana><txm:ana type="#lemma">ET</txm:ana><txm:ana type="#pos">Cc</txm:ana></w>
 <w><txm:form>en</txm:form><txm:ana type="token-number">2983</txm:ana><txm:ana type="#lemma">EN</txm:ana><txm:ana type="#pos">S</txm:ana></w>
 <w><txm:form>contre</txm:form><txm:ana type="token-number">2984</txm:ana><txm:ana type="#lemma">CONTRE</txm:ana><txm:ana type="#pos">S</txm:ana></w>
@@ -3982,7 +3982,7 @@
 						</p>
 						<p>	
 						
-							<w><txm:form/><txm:ana type="token-number">3268</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+							<w><txm:form/><txm:ana type="token-number">3268</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 							<w><txm:form>Se</txm:form><txm:ana type="token-number">3269</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>li</txm:form><txm:ana type="token-number">3270</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
 <w><txm:form>plaintif</txm:form><txm:ana type="token-number">3271</txm:ana><txm:ana type="#lemma">PLAINTIF</txm:ana><txm:ana type="#pos">Ag</txm:ana></w>
@@ -4021,7 +4021,7 @@
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">3301</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">3301</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 							<w><txm:form>Cist</txm:form><txm:ana type="token-number">3302</txm:ana><txm:ana type="#lemma">CE</txm:ana><txm:ana type="#pos">Dd</txm:ana></w>
 <w><txm:form>troi</txm:form><txm:ana type="token-number">3303</txm:ana><txm:ana type="#lemma">TROIS</txm:ana><txm:ana type="#pos">Mc</txm:ana></w>
 <w><txm:form>renquenoissant</txm:form><txm:ana type="token-number">3304</txm:ana><txm:ana type="#lemma">REQUÉRIR</txm:ana><txm:ana type="#pos">Ga</txm:ana></w>
@@ -4210,7 +4210,7 @@
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">3459</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">3459</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Porce</txm:form><txm:ana type="token-number">3460</txm:ana><txm:ana type="#lemma">INC</txm:ana><txm:ana type="#pos">Inconnu</txm:ana></w>
 <w><txm:form>fu</txm:form><txm:ana type="token-number">3461</txm:ana><txm:ana type="#lemma">ÊTRE</txm:ana><txm:ana type="#pos">Vuc</txm:ana></w>
 <w><txm:form>il</txm:form><txm:ana type="token-number">3462</txm:ana><txm:ana type="#lemma">IL</txm:ana><txm:ana type="#pos">Pp</txm:ana></w>
@@ -4401,7 +4401,7 @@
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">3615</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">3615</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>E</txm:form><txm:ana type="token-number">3616</txm:ana><txm:ana type="#lemma">ET</txm:ana><txm:ana type="#pos">Cc</txm:ana></w>
 <w><txm:form>se</txm:form><txm:ana type="token-number">3617</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 					
@@ -4561,7 +4561,7 @@
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">3744</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">3744</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 							<w><txm:form>Autresi</txm:form><txm:ana type="token-number">3745</txm:ana><txm:ana type="#lemma">AUTRESSI</txm:ana><txm:ana type="#pos">Rg</txm:ana></w>
 <w><txm:form>est</txm:form><txm:ana type="token-number">3746</txm:ana><txm:ana type="#lemma">ÊTRE</txm:ana><txm:ana type="#pos">Vuc</txm:ana></w>
 <w><txm:form>il</txm:form><txm:ana type="token-number">3747</txm:ana><txm:ana type="#lemma">IL</txm:ana><txm:ana type="#pos">Pp</txm:ana></w>
@@ -4650,7 +4650,7 @@
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">3813</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">3813</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>il</txm:form><txm:ana type="token-number">3814</txm:ana><txm:ana type="#lemma">IL</txm:ana><txm:ana type="#pos">Pp</txm:ana></w>
 <w><txm:form>est</txm:form><txm:ana type="token-number">3815</txm:ana><txm:ana type="#lemma">ÊTRE</txm:ana><txm:ana type="#pos">Vuc</txm:ana></w>
 <w><txm:form>costume</txm:form><txm:ana type="token-number">3816</txm:ana><txm:ana type="#lemma">COUTUME</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
@@ -4683,7 +4683,7 @@
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">3841</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">3841</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Li</txm:form><txm:ana type="token-number">3842</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
 <w><txm:form>lai</txm:form><txm:ana type="token-number">3843</txm:ana><txm:ana type="#lemma">LAI</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
 <w><txm:form>se</txm:form><txm:ana type="token-number">3844</txm:ana><txm:ana type="#lemma">SE</txm:ana><txm:ana type="#pos">Pp</txm:ana></w>
@@ -4717,7 +4717,7 @@
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">3870</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">3870</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>il</txm:form><txm:ana type="token-number">3871</txm:ana><txm:ana type="#lemma">IL</txm:ana><txm:ana type="#pos">Pp</txm:ana></w>
 <w><txm:form>a</txm:form><txm:ana type="token-number">3872</txm:ana><txm:ana type="#lemma">AVOIR</txm:ana><txm:ana type="#pos">Vuc</txm:ana></w>
 <w><txm:form>souant</txm:form><txm:ana type="token-number">3873</txm:ana><txm:ana type="#lemma">SOUER</txm:ana><txm:ana type="#pos">Ga</txm:ana></w>
@@ -5365,7 +5365,7 @@
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">4390</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">4390</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Se</txm:form><txm:ana type="token-number">4391</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>li</txm:form><txm:ana type="token-number">4392</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
 <w><txm:form>sires</txm:form><txm:ana type="token-number">4393</txm:ana><txm:ana type="#lemma">SIRE</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
@@ -5427,7 +5427,7 @@
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">4441</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">4441</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>E</txm:form><txm:ana type="token-number">4442</txm:ana><txm:ana type="#lemma">ET</txm:ana><txm:ana type="#pos">Cc</txm:ana></w>
 <w><txm:form>se</txm:form><txm:ana type="token-number">4443</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>aucuns</txm:form><txm:ana type="token-number">4444</txm:ana><txm:ana type="#lemma">AUCUN</txm:ana><txm:ana type="#pos">Pi</txm:ana></w>
@@ -5990,7 +5990,7 @@
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">4908</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">4908</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Se</txm:form><txm:ana type="token-number">4909</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>aucun</txm:form><txm:ana type="token-number">4910</txm:ana><txm:ana type="#lemma">AUCUN</txm:ana><txm:ana type="#pos">Di</txm:ana></w>
 					
@@ -6242,7 +6242,7 @@
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">5126</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">5126</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Se</txm:form><txm:ana type="token-number">5127</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>li</txm:form><txm:ana type="token-number">5128</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
 					
@@ -6297,7 +6297,7 @@
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">5173</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">5173</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Se</txm:form><txm:ana type="token-number">5174</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>li</txm:form><txm:ana type="token-number">5175</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
 <w><txm:form>uns</txm:form><txm:ana type="token-number">5176</txm:ana><txm:ana type="#lemma">UN</txm:ana><txm:ana type="#pos">Dn</txm:ana></w>
@@ -6336,7 +6336,7 @@
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">5206</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">5206</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Se</txm:form><txm:ana type="token-number">5207</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>la</txm:form><txm:ana type="token-number">5208</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
 <w><txm:form>mere</txm:form><txm:ana type="token-number">5209</txm:ana><txm:ana type="#lemma">MÈRE</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
@@ -6419,7 +6419,7 @@
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">5276</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">5276</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Se</txm:form><txm:ana type="token-number">5277</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>li</txm:form><txm:ana type="token-number">5278</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
 					
@@ -6514,7 +6514,7 @@
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">5350</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">5350</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>de</txm:form><txm:ana type="token-number">5351</txm:ana><txm:ana type="#lemma">DE</txm:ana><txm:ana type="#pos">S</txm:ana></w>
 <w><txm:form>larrecin</txm:form><txm:ana type="token-number">5352</txm:ana><txm:ana type="#lemma">LARCIN</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
 <w><txm:form>de</txm:form><txm:ana type="token-number">5353</txm:ana><txm:ana type="#lemma">DE</txm:ana><txm:ana type="#pos">S</txm:ana></w>
@@ -6571,7 +6571,7 @@
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">5401</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">5401</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Ne</txm:form><txm:ana type="token-number">5402</txm:ana><txm:ana type="#lemma">NI</txm:ana><txm:ana type="#pos">Cc</txm:ana></w>
 <w><txm:form>por</txm:form><txm:ana type="token-number">5403</txm:ana><txm:ana type="#lemma">POUR</txm:ana><txm:ana type="#pos">S</txm:ana></w>
 <w><txm:form>quant</txm:form><txm:ana type="token-number">5404</txm:ana><txm:ana type="#lemma">QUAND</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
@@ -6629,7 +6629,7 @@
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">5451</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">5451</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>se</txm:form><txm:ana type="token-number">5452</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>li</txm:form><txm:ana type="token-number">5453</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
 <w><txm:form>homicides</txm:form><txm:ana type="token-number">5454</txm:ana><txm:ana type="#lemma">HOMICIDÉ</txm:ana><txm:ana type="#pos">Ge</txm:ana></w>
@@ -6895,7 +6895,7 @@
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">5684</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">5684</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Ia</txm:form><txm:ana type="token-number">5685</txm:ana><txm:ana type="#lemma">JÀ</txm:ana><txm:ana type="#pos">Rg</txm:ana></w>
 <w><txm:form>soit</txm:form><txm:ana type="token-number">5686</txm:ana><txm:ana type="#lemma">ÊTRE</txm:ana><txm:ana type="#pos">Vuc</txm:ana></w>
 <w><txm:form>ce</txm:form><txm:ana type="token-number">5687</txm:ana><txm:ana type="#lemma">CE</txm:ana><txm:ana type="#pos">Pd</txm:ana></w>
@@ -7496,7 +7496,7 @@
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">6182</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">6182</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Li</txm:form><txm:ana type="token-number">6183</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
 <w><txm:form>foretier</txm:form><txm:ana type="token-number">6184</txm:ana><txm:ana type="#lemma">INC</txm:ana><txm:ana type="#pos">Inconnu</txm:ana></w>
 <w><txm:form>namenront</txm:form><txm:ana type="token-number">6185</txm:ana><txm:ana type="#lemma">INC</txm:ana><txm:ana type="#pos">Inconnu</txm:ana></w>
@@ -7699,7 +7699,7 @@
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">6347</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">6347</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>La</txm:form><txm:ana type="token-number">6348</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
 <w><txm:form>quarte</txm:form><txm:ana type="token-number">6349</txm:ana><txm:ana type="#lemma">QUART</txm:ana><txm:ana type="#pos">Ag</txm:ana></w>
 <w><txm:form>essoine</txm:form><txm:ana type="token-number">6350</txm:ana><txm:ana type="#lemma">ESSOINE</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
@@ -8070,7 +8070,7 @@ gıst en son lıt se faınt que
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">6652</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">6652</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Se</txm:form><txm:ana type="token-number">6653</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>aucuns</txm:form><txm:ana type="token-number">6654</txm:ana><txm:ana type="#lemma">AUCUN</txm:ana><txm:ana type="#pos">Pi</txm:ana></w>
 <w><txm:form>est</txm:form><txm:ana type="token-number">6655</txm:ana><txm:ana type="#lemma">ÊTRE</txm:ana><txm:ana type="#pos">Vuc</txm:ana></w>
@@ -8176,7 +8176,7 @@ gıst en son lıt se faınt que
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">6736</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">6736</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Tandis</txm:form><txm:ana type="token-number">6737</txm:ana><txm:ana type="#lemma">TANDIS</txm:ana><txm:ana type="#pos">Rg</txm:ana></w>
 <w><txm:form>comme</txm:form><txm:ana type="token-number">6738</txm:ana><txm:ana type="#lemma">COMME</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>assise</txm:form><txm:ana type="token-number">6739</txm:ana><txm:ana type="#lemma">ASSISE</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
@@ -8856,7 +8856,7 @@ gıst en son lıt se faınt que
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">7291</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">7291</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>E</txm:form><txm:ana type="token-number">7292</txm:ana><txm:ana type="#lemma">ET</txm:ana><txm:ana type="#pos">Cc</txm:ana></w>
 <w><txm:form>se</txm:form><txm:ana type="token-number">7293</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>il</txm:form><txm:ana type="token-number">7294</txm:ana><txm:ana type="#lemma">IL</txm:ana><txm:ana type="#pos">Pp</txm:ana></w>
@@ -8897,7 +8897,7 @@ gıst en son lıt se faınt que
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">7325</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">7325</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Se</txm:form><txm:ana type="token-number">7326</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>la</txm:form><txm:ana type="token-number">7327</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
 <w><txm:form>mechine</txm:form><txm:ana type="token-number">7328</txm:ana><txm:ana type="#lemma">MACHINE</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
@@ -9012,7 +9012,7 @@ gıst en son lıt se faınt que
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">7427</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">7427</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Se</txm:form><txm:ana type="token-number">7428</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>aucuns</txm:form><txm:ana type="token-number">7429</txm:ana><txm:ana type="#lemma">AUCUN</txm:ana><txm:ana type="#pos">Pi</txm:ana></w>
 <w><txm:form>prant</txm:form><txm:ana type="token-number">7430</txm:ana><txm:ana type="#lemma">PRENDRE</txm:ana><txm:ana type="#pos">Vvc</txm:ana></w>
@@ -9132,7 +9132,7 @@ gıst en son lıt se faınt que
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">7529</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">7529</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Se</txm:form><txm:ana type="token-number">7530</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>aucuns</txm:form><txm:ana type="token-number">7531</txm:ana><txm:ana type="#lemma">AUCUN</txm:ana><txm:ana type="#pos">Pi</txm:ana></w>
 					
@@ -9261,7 +9261,7 @@ gıst en son lıt se faınt que
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">7639</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">7639</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Se</txm:form><txm:ana type="token-number">7640</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>la</txm:form><txm:ana type="token-number">7641</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
 <w><txm:form>veue</txm:form><txm:ana type="token-number">7642</txm:ana><txm:ana type="#lemma">VEUVE</txm:ana><txm:ana type="#pos">Ag</txm:ana></w>
@@ -9377,7 +9377,7 @@ gıst en son lıt se faınt que
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">7733</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">7733</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Se</txm:form><txm:ana type="token-number">7734</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>aucuns</txm:form><txm:ana type="token-number">7735</txm:ana><txm:ana type="#lemma">AUCUN</txm:ana><txm:ana type="#pos">Pi</txm:ana></w>
 					
@@ -9866,7 +9866,7 @@ gıst en son lıt se faınt que
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">8138</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">8138</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Se</txm:form><txm:ana type="token-number">8139</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>uns</txm:form><txm:ana type="token-number">8140</txm:ana><txm:ana type="#lemma">UN</txm:ana><txm:ana type="#pos">Dn</txm:ana></w>
 <w><txm:form>tres</txm:form><txm:ana type="token-number">8141</txm:ana><txm:ana type="#lemma">TRÈS</txm:ana><txm:ana type="#pos">Rg</txm:ana></w>
@@ -10528,7 +10528,7 @@ gıst en son lıt se faınt que
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">8703</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">8703</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>il</txm:form><txm:ana type="token-number">8704</txm:ana><txm:ana type="#lemma">IL</txm:ana><txm:ana type="#pos">Pp</txm:ana></w>
 <w><txm:form>auient</txm:form><txm:ana type="token-number">8705</txm:ana><txm:ana type="#lemma">ADVENIR</txm:ana><txm:ana type="#pos">Vvc</txm:ana></w>
 <w><txm:form>souant</txm:form><txm:ana type="token-number">8706</txm:ana><txm:ana type="#lemma">SOUER</txm:ana><txm:ana type="#pos">Ga</txm:ana></w>
@@ -10678,7 +10678,7 @@ gıst en son lıt se faınt que
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">8836</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">8836</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Chascuns</txm:form><txm:ana type="token-number">8837</txm:ana><txm:ana type="#lemma">CHACUN</txm:ana><txm:ana type="#pos">Di</txm:ana></w>
 <w><txm:form>puet</txm:form><txm:ana type="token-number">8838</txm:ana><txm:ana type="#lemma">POUVOIR</txm:ana><txm:ana type="#pos">Vvc</txm:ana></w>
 <mod rend="strikethrough">doner</mod>
@@ -10818,7 +10818,7 @@ gıst en son lıt se faınt que
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">8957</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">8957</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Il</txm:form><txm:ana type="token-number">8958</txm:ana><txm:ana type="#lemma">IL</txm:ana><txm:ana type="#pos">Pp</txm:ana></w>
 					
 <w><txm:form>li</txm:form><txm:ana type="token-number">8959</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
@@ -10903,7 +10903,7 @@ gıst en son lıt se faınt que
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">9031</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">9031</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Rentes</txm:form><txm:ana type="token-number">9032</txm:ana><txm:ana type="#lemma">RENTE</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
 <w><txm:form>et</txm:form><txm:ana type="token-number">9033</txm:ana><txm:ana type="#lemma">ET</txm:ana><txm:ana type="#pos">Cc</txm:ana></w>
 <w><txm:form>terres</txm:form><txm:ana type="token-number">9034</txm:ana><txm:ana type="#lemma">TERRE</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
@@ -10947,7 +10947,7 @@ gıst en son lıt se faınt que
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">9068</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">9068</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Il</txm:form><txm:ana type="token-number">9069</txm:ana><txm:ana type="#lemma">IL</txm:ana><txm:ana type="#pos">Pp</txm:ana></w>
 <w><txm:form>ne</txm:form><txm:ana type="token-number">9070</txm:ana><txm:ana type="#lemma">NE</txm:ana><txm:ana type="#pos">Rp</txm:ana></w>
 <w><txm:form>loise</txm:form><txm:ana type="token-number">9071</txm:ana><txm:ana type="#lemma">LOUISE</txm:ana><txm:ana type="#pos">Np</txm:ana></w>
@@ -13844,7 +13844,7 @@ gıst en son lıt se faınt que
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">11521</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">11521</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Se</txm:form><txm:ana type="token-number">11522</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>il</txm:form><txm:ana type="token-number">11523</txm:ana><txm:ana type="#lemma">IL</txm:ana><txm:ana type="#pos">Pp</txm:ana></w>
 <w><txm:form>n</txm:form><txm:ana type="token-number">11524</txm:ana><txm:ana type="#lemma">NE</txm:ana><txm:ana type="#pos">Rp</txm:ana></w>
@@ -13900,7 +13900,7 @@ gıst en son lıt se faınt que
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">11570</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">11570</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Se</txm:form><txm:ana type="token-number">11571</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>homecides</txm:form><txm:ana type="token-number">11572</txm:ana><txm:ana type="#lemma">HOMICIDE</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
 <w><txm:form>ou</txm:form><txm:ana type="token-number">11573</txm:ana><txm:ana type="#lemma">OU</txm:ana><txm:ana type="#pos">Cc</txm:ana></w>
@@ -14107,7 +14107,7 @@ gıst en son lıt se faınt que
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">11745</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">11745</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Des</txm:form><txm:ana type="token-number">11746</txm:ana><txm:ana type="#lemma">UN</txm:ana><txm:ana type="#pos">Dn</txm:ana></w>
 <w><txm:form>clers</txm:form><txm:ana type="token-number">11747</txm:ana><txm:ana type="#lemma">CLERC</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
 					
@@ -14134,7 +14134,7 @@ gıst en son lıt se faınt que
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">11766</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">11766</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Se</txm:form><txm:ana type="token-number">11767</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 					
 <w><txm:form>cels</txm:form><txm:ana type="token-number">11768</txm:ana><txm:ana type="#lemma">INC</txm:ana><txm:ana type="#pos">Inconnu</txm:ana></w>
@@ -14226,7 +14226,7 @@ gıst en son lıt se faınt que
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">11847</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">11847</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Q'</txm:form><txm:ana type="token-number">11848</txm:ana><txm:ana type="#lemma">QUE</txm:ana><txm:ana type="#pos">Rg</txm:ana></w>
 					
 <w><txm:form>taille</txm:form><txm:ana type="token-number">11849</txm:ana><txm:ana type="#lemma">TAILLE</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
@@ -14374,7 +14374,7 @@ gıst en son lıt se faınt que
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">11959</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">11959</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Li</txm:form><txm:ana type="token-number">11960</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
 					
 <w><txm:form>rois</txm:form><txm:ana type="token-number">11961</txm:ana><txm:ana type="#lemma">ROI</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
@@ -14394,7 +14394,7 @@ gıst en son lıt se faınt que
 						</p>
 				<p>
 					
-<w><txm:form/><txm:ana type="token-number">11974</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">11974</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Commande</txm:form><txm:ana type="token-number">11975</txm:ana><txm:ana type="#lemma">COMMANDER</txm:ana><txm:ana type="#pos">Vvc</txm:ana></w>
 					
 <w><txm:form>a</txm:form><txm:ana type="token-number">11976</txm:ana><txm:ana type="#lemma">À</txm:ana><txm:ana type="#pos">S</txm:ana></w>
@@ -14542,7 +14542,7 @@ gıst en son lıt se faınt que
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">12105</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">12105</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Em</txm:form><txm:ana type="token-number">12106</txm:ana><txm:ana type="#lemma">EN</txm:ana><txm:ana type="#pos">S</txm:ana></w>
 					
 <w><txm:form>cest</txm:form><txm:ana type="token-number">12107</txm:ana><txm:ana type="#lemma">CE</txm:ana><txm:ana type="#pos">Dd</txm:ana></w>
@@ -14808,7 +14808,7 @@ anguier</txm:form><txm:ana type="token-number">12152</txm:ana><txm:ana type="#le
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">12328</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">12328</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Comande</txm:form><txm:ana type="token-number">12329</txm:ana><txm:ana type="#lemma">COMMANDER</txm:ana><txm:ana type="#pos">Vvc</txm:ana></w>
 <w><txm:form>a</txm:form><txm:ana type="token-number">12330</txm:ana><txm:ana type="#lemma">À</txm:ana><txm:ana type="#pos">S</txm:ana></w>
 <w><txm:form>a</txm:form><txm:ana type="token-number">12331</txm:ana><txm:ana type="#lemma">À</txm:ana><txm:ana type="#pos">S</txm:ana></w>
@@ -14887,7 +14887,7 @@ anguier</txm:form><txm:ana type="token-number">12152</txm:ana><txm:ana type="#le
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">12396</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">12396</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Comande</txm:form><txm:ana type="token-number">12397</txm:ana><txm:ana type="#lemma">COMMANDER</txm:ana><txm:ana type="#pos">Vvc</txm:ana></w>
 					
 <w><txm:form>a</txm:form><txm:ana type="token-number">12398</txm:ana><txm:ana type="#lemma">À</txm:ana><txm:ana type="#pos">S</txm:ana></w>
@@ -15091,7 +15091,7 @@ anguier</txm:form><txm:ana type="token-number">12152</txm:ana><txm:ana type="#le
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">12566</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">12566</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 							<w><txm:form>Li</txm:form><txm:ana type="token-number">12567</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
 					
 <w><txm:form>rois</txm:form><txm:ana type="token-number">12568</txm:ana><txm:ana type="#lemma">ROI</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
@@ -15235,7 +15235,7 @@ anguier</txm:form><txm:ana type="token-number">12152</txm:ana><txm:ana type="#le
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">12693</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">12693</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>En</txm:form><txm:ana type="token-number">12694</txm:ana><txm:ana type="#lemma">EN</txm:ana><txm:ana type="#pos">S</txm:ana></w>
 <w><txm:form>ceste</txm:form><txm:ana type="token-number">12695</txm:ana><txm:ana type="#lemma">CE</txm:ana><txm:ana type="#pos">Dd</txm:ana></w>
 <w><txm:form>Cause</txm:form><txm:ana type="token-number">12696</txm:ana><txm:ana type="#lemma">CAUSE</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
@@ -15349,7 +15349,7 @@ anguier</txm:form><txm:ana type="token-number">12152</txm:ana><txm:ana type="#le
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">12791</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">12791</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Ce</txm:form><txm:ana type="token-number">12792</txm:ana><txm:ana type="#lemma">CE</txm:ana><txm:ana type="#pos">Pd</txm:ana></w>
 <w><txm:form>est</txm:form><txm:ana type="token-number">12793</txm:ana><txm:ana type="#lemma">ÊTRE</txm:ana><txm:ana type="#pos">Vuc</txm:ana></w>
 <w><txm:form>generals</txm:form><txm:ana type="token-number">12794</txm:ana><txm:ana type="#lemma">GENERALS</txm:ana><txm:ana type="#pos">Xe</txm:ana></w>
@@ -15567,7 +15567,7 @@ anguier</txm:form><txm:ana type="token-number">12152</txm:ana><txm:ana type="#le
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">12974</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">12974</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Li</txm:form><txm:ana type="token-number">12975</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
 <w><txm:form>plez</txm:form><txm:ana type="token-number">12976</txm:ana><txm:ana type="#lemma">PLAID</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
 <w><txm:form>sera</txm:form><txm:ana type="token-number">12977</txm:ana><txm:ana type="#lemma">ÊTRE</txm:ana><txm:ana type="#pos">Vuc</txm:ana></w>
@@ -15585,7 +15585,7 @@ anguier</txm:form><txm:ana type="token-number">12152</txm:ana><txm:ana type="#le
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">12988</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">12988</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Se</txm:form><txm:ana type="token-number">12989</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>h</txm:form><txm:ana type="token-number">12990</txm:ana><txm:ana type="#lemma">H</txm:ana><txm:ana type="#pos">Xa</txm:ana></w>
 <w><txm:form>donne</txm:form><txm:ana type="token-number">12991</txm:ana><txm:ana type="#lemma">DONNER</txm:ana><txm:ana type="#pos">Vvc</txm:ana></w>
@@ -15687,7 +15687,7 @@ anguier</txm:form><txm:ana type="token-number">12152</txm:ana><txm:ana type="#le
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">13080</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">13080</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Selonc</txm:form><txm:ana type="token-number">13081</txm:ana><txm:ana type="#lemma">INC</txm:ana><txm:ana type="#pos">Inconnu</txm:ana></w>
 					
 <w><txm:form>le</txm:form><txm:ana type="token-number">13082</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
@@ -15767,7 +15767,7 @@ anguier</txm:form><txm:ana type="token-number">12152</txm:ana><txm:ana type="#le
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">13146</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">13146</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>li</txm:form><txm:ana type="token-number">13147</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
 <w><txm:form>euesqes</txm:form><txm:ana type="token-number">13148</txm:ana><txm:ana type="#lemma">INC</txm:ana><txm:ana type="#pos">Inconnu</txm:ana></w>
 					
@@ -15807,7 +15807,7 @@ anguier</txm:form><txm:ana type="token-number">12152</txm:ana><txm:ana type="#le
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">13178</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">13178</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Se</txm:form><txm:ana type="token-number">13179</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>li</txm:form><txm:ana type="token-number">13180</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
 <w><txm:form>euesques</txm:form><txm:ana type="token-number">13181</txm:ana><txm:ana type="#lemma">ÉVÊQUE</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
@@ -15982,7 +15982,7 @@ anguier</txm:form><txm:ana type="token-number">12152</txm:ana><txm:ana type="#le
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">13323</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">13323</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Felippes</txm:form><txm:ana type="token-number">13324</txm:ana><txm:ana type="#lemma">PHILIPPE</txm:ana><txm:ana type="#pos">Np</txm:ana></w>
 <w><txm:form>rois</txm:form><txm:ana type="token-number">13325</txm:ana><txm:ana type="#lemma">ROI</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
 <w><txm:form>de</txm:form><txm:ana type="token-number">13326</txm:ana><txm:ana type="#lemma">DE</txm:ana><txm:ana type="#pos">S</txm:ana></w>
@@ -16885,7 +16885,7 @@ anguier</txm:form><txm:ana type="token-number">12152</txm:ana><txm:ana type="#le
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">14114</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">14114</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>L</txm:form><txm:ana type="token-number">14115</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Pp</txm:ana></w>
 <w><txm:form>en</txm:form><txm:ana type="token-number">14116</txm:ana><txm:ana type="#lemma">ON</txm:ana><txm:ana type="#pos">Pp</txm:ana></w>
 					
@@ -17105,7 +17105,7 @@ anguier</txm:form><txm:ana type="token-number">12152</txm:ana><txm:ana type="#le
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">14301</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">14301</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Quant</txm:form><txm:ana type="token-number">14302</txm:ana><txm:ana type="#lemma">QUAND</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>li</txm:form><txm:ana type="token-number">14303</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
 <w><txm:form>mariz</txm:form><txm:ana type="token-number">14304</txm:ana><txm:ana type="#lemma">MARI</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
@@ -17543,7 +17543,7 @@ anguier</txm:form><txm:ana type="token-number">12152</txm:ana><txm:ana type="#le
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">14693</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">14693</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>fame</txm:form><txm:ana type="token-number">14694</txm:ana><txm:ana type="#lemma">FEMME</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
 <w><txm:form>ne</txm:form><txm:ana type="token-number">14695</txm:ana><txm:ana type="#lemma">NE</txm:ana><txm:ana type="#pos">Rp</txm:ana></w>
 					
@@ -17654,7 +17654,7 @@ anguier</txm:form><txm:ana type="token-number">12152</txm:ana><txm:ana type="#le
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">14788</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">14788</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Li</txm:form><txm:ana type="token-number">14789</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
 <w><txm:form>homs</txm:form><txm:ana type="token-number">14790</txm:ana><txm:ana type="#lemma">HOMME</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
 					
@@ -17750,7 +17750,7 @@ anguier</txm:form><txm:ana type="token-number">12152</txm:ana><txm:ana type="#le
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">14870</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">14870</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>En</txm:form><txm:ana type="token-number">14871</txm:ana><txm:ana type="#lemma">EN</txm:ana><txm:ana type="#pos">S</txm:ana></w>
 <w><txm:form>cause</txm:form><txm:ana type="token-number">14872</txm:ana><txm:ana type="#lemma">CAUSE</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
 <w><txm:form>de</txm:form><txm:ana type="token-number">14873</txm:ana><txm:ana type="#lemma">DE</txm:ana><txm:ana type="#pos">S</txm:ana></w>
@@ -17865,7 +17865,7 @@ anguier</txm:form><txm:ana type="token-number">12152</txm:ana><txm:ana type="#le
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">14970</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">14970</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Se</txm:form><txm:ana type="token-number">14971</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>fame</txm:form><txm:ana type="token-number">14972</txm:ana><txm:ana type="#lemma">FEMME</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
 <w><txm:form>est</txm:form><txm:ana type="token-number">14973</txm:ana><txm:ana type="#lemma">ÊTRE</txm:ana><txm:ana type="#pos">Vuc</txm:ana></w>
@@ -17982,7 +17982,7 @@ anguier</txm:form><txm:ana type="token-number">12152</txm:ana><txm:ana type="#le
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">15072</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">15072</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Se</txm:form><txm:ana type="token-number">15073</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>li</txm:form><txm:ana type="token-number">15074</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
 					
@@ -18529,7 +18529,7 @@ anguier</txm:form><txm:ana type="token-number">12152</txm:ana><txm:ana type="#le
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">15551</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">15551</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Ceste</txm:form><txm:ana type="token-number">15552</txm:ana><txm:ana type="#lemma">CE</txm:ana><txm:ana type="#pos">Dd</txm:ana></w>
 					
 <w><txm:form>cause</txm:form><txm:ana type="token-number">15553</txm:ana><txm:ana type="#lemma">CAUSE</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
@@ -18559,7 +18559,7 @@ anguier</txm:form><txm:ana type="token-number">12152</txm:ana><txm:ana type="#le
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">15575</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">15575</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Fame</txm:form><txm:ana type="token-number">15576</txm:ana><txm:ana type="#lemma">FEMME</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
 					
 <w><txm:form>ne</txm:form><txm:ana type="token-number">15577</txm:ana><txm:ana type="#lemma">NE</txm:ana><txm:ana type="#pos">Rp</txm:ana></w>
@@ -18644,7 +18644,7 @@ anguier</txm:form><txm:ana type="token-number">12152</txm:ana><txm:ana type="#le
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">15648</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">15648</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Qant</txm:form><txm:ana type="token-number">15649</txm:ana><txm:ana type="#lemma">INC</txm:ana><txm:ana type="#pos">Inconnu</txm:ana></w>
 					
 <w><txm:form>fame</txm:form><txm:ana type="token-number">15650</txm:ana><txm:ana type="#lemma">FEMME</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
@@ -19181,7 +19181,7 @@ anguier</txm:form><txm:ana type="token-number">12152</txm:ana><txm:ana type="#le
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">16104</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">16104</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Les</txm:form><txm:ana type="token-number">16105</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
 <w><txm:form>essoines</txm:form><txm:ana type="token-number">16106</txm:ana><txm:ana type="#lemma">ESSOINE</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
 
@@ -19628,7 +19628,7 @@ anguier</txm:form><txm:ana type="token-number">12152</txm:ana><txm:ana type="#le
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">16497</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">16497</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Se</txm:form><txm:ana type="token-number">16498</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>li</txm:form><txm:ana type="token-number">16499</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
 <w><txm:form>cheualier</txm:form><txm:ana type="token-number">16500</txm:ana><txm:ana type="#lemma">CHEVALIER</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
@@ -19716,7 +19716,7 @@ anguier</txm:form><txm:ana type="token-number">12152</txm:ana><txm:ana type="#le
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">16574</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">16574</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Quant</txm:form><txm:ana type="token-number">16575</txm:ana><txm:ana type="#lemma">QUAND</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 					
 <w><txm:form>li</txm:form><txm:ana type="token-number">16576</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
@@ -20111,7 +20111,7 @@ anguier</txm:form><txm:ana type="token-number">12152</txm:ana><txm:ana type="#le
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">16907</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">16907</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Et</txm:form><txm:ana type="token-number">16908</txm:ana><txm:ana type="#lemma">ET</txm:ana><txm:ana type="#pos">Cc</txm:ana></w>
 <w><txm:form>quant</txm:form><txm:ana type="token-number">16909</txm:ana><txm:ana type="#lemma">QUAND</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>la</txm:form><txm:ana type="token-number">16910</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
@@ -20547,7 +20547,7 @@ anguier</txm:form><txm:ana type="token-number">12152</txm:ana><txm:ana type="#le
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">17274</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">17274</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Li</txm:form><txm:ana type="token-number">17275</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
 					
 <w><txm:form>ainz</txm:form><txm:ana type="token-number">17276</txm:ana><txm:ana type="#lemma">AINS</txm:ana><txm:ana type="#pos">Rg</txm:ana></w>
@@ -20885,7 +20885,7 @@ anguier</txm:form><txm:ana type="token-number">12152</txm:ana><txm:ana type="#le
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">17571</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">17571</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Cil</txm:form><txm:ana type="token-number">17572</txm:ana><txm:ana type="#lemma">CIL</txm:ana><txm:ana type="#pos">Pd</txm:ana></w>
 <w><txm:form>qui</txm:form><txm:ana type="token-number">17573</txm:ana><txm:ana type="#lemma">QUI</txm:ana><txm:ana type="#pos">Pr</txm:ana></w>
 					
@@ -21213,7 +21213,7 @@ ra</txm:form><txm:ana type="token-number">17628</txm:ana><txm:ana type="#lemma">
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">17837</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">17837</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Li</txm:form><txm:ana type="token-number">17838</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
 <w><txm:form>oir</txm:form><txm:ana type="token-number">17839</txm:ana><txm:ana type="#lemma">HOIR</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
 					
@@ -21632,7 +21632,7 @@ gneurs</txm:form><txm:ana type="token-number">17858</txm:ana><txm:ana type="#lem
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">18196</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">18196</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Se</txm:form><txm:ana type="token-number">18197</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>cil</txm:form><txm:ana type="token-number">18198</txm:ana><txm:ana type="#lemma">CIL</txm:ana><txm:ana type="#pos">Pd</txm:ana></w>
 <w><txm:form>que</txm:form><txm:ana type="token-number">18199</txm:ana><txm:ana type="#lemma">QUE</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
@@ -21707,7 +21707,7 @@ gneurs</txm:form><txm:ana type="token-number">17858</txm:ana><txm:ana type="#lem
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">18258</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">18258</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Li</txm:form><txm:ana type="token-number">18259</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
 <w><txm:form>rois</txm:form><txm:ana type="token-number">18260</txm:ana><txm:ana type="#lemma">ROI</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
 <w><txm:form>ou</txm:form><txm:ana type="token-number">18261</txm:ana><txm:ana type="#lemma">OU</txm:ana><txm:ana type="#pos">Cc</txm:ana></w>
@@ -22092,7 +22092,7 @@ gneurs</txm:form><txm:ana type="token-number">17858</txm:ana><txm:ana type="#lem
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">18589</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">18589</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Li</txm:form><txm:ana type="token-number">18590</txm:ana><txm:ana type="#lemma">LE</txm:ana><txm:ana type="#pos">Da</txm:ana></w>
 <w><txm:form>rois</txm:form><txm:ana type="token-number">18591</txm:ana><txm:ana type="#lemma">ROI</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
 <w><txm:form>ou</txm:form><txm:ana type="token-number">18592</txm:ana><txm:ana type="#lemma">OU</txm:ana><txm:ana type="#pos">Cc</txm:ana></w>
@@ -22586,7 +22586,7 @@ gneurs</txm:form><txm:ana type="token-number">17858</txm:ana><txm:ana type="#lem
 						</p>
 						<p>	
 						
-<w><txm:form/><txm:ana type="token-number">19011</txm:ana><txm:ana type="#lemma">CAPITULUM</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
+<w><txm:form/><txm:ana type="token-number">19011</txm:ana><txm:ana type="#lemma">&#8450;</txm:ana><txm:ana type="#pos">Fs</txm:ana></w>
 <w><txm:form>Se</txm:form><txm:ana type="token-number">19012</txm:ana><txm:ana type="#lemma">SI</txm:ana><txm:ana type="#pos">Cs</txm:ana></w>
 <w><txm:form>pluseur</txm:form><txm:ana type="token-number">19013</txm:ana><txm:ana type="#lemma">PLUSIEURS</txm:ana><txm:ana type="#pos">Di</txm:ana></w>
 <w><txm:form>frere</txm:form><txm:ana type="token-number">19014</txm:ana><txm:ana type="#lemma">FRÈRE</txm:ana><txm:ana type="#pos">Nc</txm:ana></w>
