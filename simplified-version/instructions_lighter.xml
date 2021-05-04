@@ -45,6 +45,9 @@
 				</licence>
 			</publicationStmt>
 			<sourceDesc>
+				<bibl xml:id="temoin">
+					<date notBefore="1386" notAfter="1390">[1386-1390]</date>
+				</bibl>
 				<bibl type="transcription" xml:id="besniergenestal">
 					<objectIdentifier>
 						<idno corresp="https://catalogue.bnf.fr/ark:/12148/cb30494983w https://books.google.com/books?id=0HE_AQAAMAAJ" type="notice">http://pi.lib.uchicago.edu/1001/cat/bib/3388179</idno>

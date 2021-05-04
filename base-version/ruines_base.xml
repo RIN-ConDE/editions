@@ -5,8 +5,8 @@
 	<teiHeader xml:lang="fr">
     <fileDesc>
         <titleStmt>
-        	<titre>Les ruines de la coutume de Normandie</titre>
-        	<editor>V. Pannier</editor>
+        	<title>Les ruines de la coutume de Normandie</title>
+        	<author>Victor Pannier</author>
         </titleStmt>
     	<editionStmt>
     		<edition>Édition numérique lemmatisée complète, version "alpha" 0.4</edition>
@@ -58,6 +58,7 @@
         					<country>France</country>
         				</address>
         			</institution>
+        		</objectIdentifier>
         			<title type="main">Les Ruines de la Coutume de Normandie, ou Petit dictionnaire du droit normand restant en vigueur pour les droits acquis, par M. V. Pannier,... 2e édition, précédée d'une notice bibliographique sur les diverses éditions de la Coutume de Normandie, par Ed. Frère</title>
         			<author sameAs="https://catalogue.bnf.fr/ark:/12148/cb10367922d">
         				<persName>Pannier, Victor</persName>
@@ -66,7 +67,6 @@
         			<publisher><persName>A. Le Brument</persName></publisher>
         			<date when="1856">1856</date>
         			<note resp="#bnf">In-16, IV-XXXIV-116 p.</note>
-        		</objectIdentifier>
         	</bibl>
         </sourceDesc>
     </fileDesc>
