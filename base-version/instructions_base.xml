@@ -48,12 +48,55 @@
 				</licence>
 			</publicationStmt>
 			<sourceDesc>
-				<bibl xml:id="temoin">
-					<date notBefore="1386" notAfter="1390">[1386-1390]</date>
-				</bibl>
-				<bibl type="transcription" xml:id="besniergenestal">
+				<bibl type="source" xml:id="temoin" source="https://ccfr.bnf.fr/portailccfr/ark:/06871/004D08A12156">
 					<objectIdentifier>
-						<idno corresp="https://catalogue.bnf.fr/ark:/12148/cb30494983w https://books.google.com/books?id=0HE_AQAAMAAJ" type="notice">http://pi.lib.uchicago.edu/1001/cat/bib/3388179</idno>
+						<idno type="classificationMark">881</idno>
+						<idno type="classificationMark" subtype="older">Y. 176</idno>
+						<institution xml:id="#bmr">
+							<orgName>Bibliothèque Municipale de Rouen</orgName>
+							<address>
+								<settlement type="city">Rouen</settlement>
+								<country>France</country>
+							</address>
+						</institution>
+					</objectIdentifier>
+					<title type="main">Coutume de Normandie, etc.</title>
+					<date notAfter="1390" notBefore="1386" resp="#besniergenestal">1386-1390</date>
+					<note resp="#bmr">
+						<p>Support : papier</p>
+						<p>Importance matérielle : 211 feuillets</p>
+						<p>Dimensions : 280 × 216 mm</p>
+						<p>Reliure parchemin</p>
+						<p>Présentation du contenu : En tête du volume, table de VIIIxx XVIII chapitres.</p>
+						<p>Mention de provenance : Saint-Ouen de Rouen. — Ancien n° Y. 12.</p>
+					</note>
+					<note resp="#mp" xml:lang="fr">
+						<p>L'histoire de ce texte est restituée par Georges Besnier dans son <ref corresp="#besniergenestal-introduction">introduction</ref>. Il présente d'abord le texte lui-même, qu'il estime écrit par un juge seigneurial, et date ainsi en fonction de la chronologie des ordonnances&#160;:</p>
+						<list>
+							<item>L'ouvrage vise, donc est <quote source="#besniergenestal-datation" xml:id="dat-fr-1" corresp="dat-en-1">postérieur au <bibl>chapitre de justice à barons</bibl>.</quote></item>
+							<item><quote source="#besnier-datation" xml:id="dat-fr-2" corresp="dat-en-2">Il est postérieur à la charte aux Normands (1315)</quote>.</item>
+							<item><quote source="#besnier-datation" xml:id="dat-fr-3" corresp="dat-en-3">Aucune allusion n'étant faite au duc de Normandie, l'auteur indiquant au contraire que tout juge représente le Roi, parlant de juridictions royales, il faut conclure que notre ouvrage n'a pas été composé entre 1332-50 ni 1355-64.</quote></item>
+							<item><quote source="#besnier-datation" xml:id="dat-fr-4" corresp="dat-en-4">L'ouvrage cite [...] l'ordonnance de Pâques 1386.</quote></item>
+							<item><quote source="#besnier-datation" xml:id="dat-fr-5" corresp="dat-en-5">Il enseigne [...] l'usage torçonnier, qui fut abrogé par l'ordonnance d'échiquier de 1391.</quote></item>
+							<item>Il préconise de taxer des amendes selon des dispositions antérieures à <quote source="#besniergenestal-datation" xml:id="dat-fr-6" corresp="dat-en-6">une ordonnance enregistrée à l'échiquier des comptes de la Saint-Michel 1390</quote>.</item>
+						</list>
+						<p>Ils relèvent une écriture du XVe siècle, tandis que la reliure et une partie des commentaires marginaux peuvent être datés du XVIe siècle.</p>
+					</note>
+					<note resp="#mp" xml:lang="en">
+						<p>The history of this text is recreated by Georges Besnier in his <ref corresp="#besniergenestal-introduction">introduction</ref>. First he presents the text itself, which he estimates was written by a stately judge, and dates according to the decree chronology:</p>
+						<list>
+							<item>The work aims at, therefore is <quote source="#besniergenestal-datation" xml:id="dat-en-1" corresp="dat-fr-1">subsequent to the <bibl>chapitre de justice à barons</bibl>.</quote></item>
+							<item><quote source="#besnier-datation" xml:id="dat-en-2" corresp="dat-fr-2">It is subsequent to the charte aux Normands (1315)</quote>.</item>
+							<item><quote source="#besnier-datation" xml:id="dat-en-3" corresp="dat-fr-3">No allusion being made to the duke of Normandy, the author indicating on the contrary that any judge represents the king, evoking royal juridictions, one must therefore conclude that our work was composed neither between 1332-50, nor 1355-64.</quote></item>
+							<item><quote source="#besnier-datation" xml:id="dat-en-4" corresp="dat-fr-4">The work quotes [...] the decree of Easter 1386.</quote></item>
+							<item><quote source="#besnier-datation" xml:id="dat-en-5" corresp="dat-fr-5">It teaches [...] the <seg xml:lang="fr">usage torçonnier</seg>, which was abrogated by the 1391 échiquier decree.</quote></item>
+							<item>It recommends to tax fines according to clauses prior to <quote source="#besniergenestal-datation" xml:id="dat-en-6" corresp="dat-fr-6">a decree registered at the 1390 <seg xml:lang="fr">échiquier des comptes de la Saint-Michel</seg></quote>.</item>
+						</list>
+						<p>They are written in a 15th century writing, while the binding and part of the marginal commentaries may be dated to the 16th century.</p>
+					</note>
+				</bibl>
+				<bibl type="transcription" xml:id="besniergenestal" source="http://pi.lib.uchicago.edu/1001/cat/bib/3388179 https://catalogue.bnf.fr/ark:/12148/cb30494983w https://books.google.com/books?id=0HE_AQAAMAAJ">
+					<objectIdentifier>
 						<institution xml:id="uicl">
 							<orgName>University of Chicago Library</orgName>
 							<address>
@@ -64,18 +107,71 @@
 						</institution>
 					</objectIdentifier>
 					<title type="main">Instructions et ensaignemens : style de procéder d'une justice seigneuriale normande (1386-90)</title>
-					<editor corresp="https://catalogue.bnf.fr/ark:/12148/cb13322098j">Georges Besnier</editor>
+					<editor corresp="https://catalogue.bnf.fr/ark:/12148/cb13322098j" xml:id="besnier">Georges Besnier</editor>
 					<editor corresp="https://catalogue.bnf.fr/ark:/12148/cb12327798j">Robert Genestal</editor>
 					<pubPlace>Caen</pubPlace>
 					<publisher>
 						<persName>L. Jouan</persName>
 					</publisher>
 					<date when="1912">1912</date>
-					<note resp="https://catalogue.bnf.fr/ark:/12148/cb30494983w">
+					<note source="https://catalogue.bnf.fr/ark:/12148/cb30494983w">
 						<p>Description matérielle : 1 vol. (78 p.) ; 25 cm</p>
 						<p>Collection : (Bibliothèque d'histoire du droit normand. Première série, Textes / publiée..., par la Société d'histoire du droit normand ; tome 2)</p>
 					</note>
-					<biblScope unit="page" from="27" to="67">Édition du manuscrit</biblScope>
+					<imprint>
+						<biblScope unit="page" from="1" to="26" xml:id="besnier-introduction" resp="#besnier">Introduction</biblScope>
+						<biblScope unit="page" from="27" to="67">Édition du manuscrit</biblScope>
+						<biblScope unit="page" from="6" to="9" xml:id="besnier-datation">Datation du manuscrit.</biblScope>
+						<biblScope unit="page" from="24" to="26" xml:id="besnier-edition">Description des méthodes d'édition.</biblScope>
+					</imprint>
+					<note xml:id="methode-edition" source="#besnier-edition" resp="#gb">
+						<p>Nous transcrivons ici intégralement les deux pages consacrées par Georges Besnier aux méthodes d'édition suivies par lui et Robert Génestal :</p>
+						<quote source="#besnier-edition">
+							<p xml:id="ed-fr-1" corresp="#ed-en-1">Sans doute, à cette époque tardive, l'intérêt philologique que présente un texte analogue n'est pas tel que l'on ne puisse songer à le sacrifier à la meilleure commodité du lecteur. Néanmoins, le souci de conserver le plus exactement possible la physionomie de l'original est aussi bien une discipline pour l'éditeur qu'une garantie pour le lecteur et il ne saurait être question d'y renoncer.</p>
+							<p xml:id="ed-fr-2" corresp="#ed-en-2">Il nous a paru qu'il suffirait de rectifier les graphies de notre manuscrit là où il convient de faciliter la lecture en guidant la prononciation
+								<note xml:id="ed-fr-n1" corresp="#ed-en-n1">Il s'agit, bien entendu, de la prononciation moderne, les variations anciennes des habitudes phonétiques locales n'étant pas encore exactement mesurées.</note>
+								. En essayant de nous inspirer des principes posés par M. Paul Meyer pour les publications de la <orgName>Société des anciens textes français</orgName>
+								<note xml:id="ed-fr-n2" corresp="#ed-en-n2">Voir le <bibl corresp="https://gallica.bnf.fr/ark:/12148/bpt6k6514966s https://catalogue.bnf.fr/ark:/12148/cb32724317s">Bulletin de cette société, 1909,</bibl> p. 64-79. et <bibl>Bibliothèque de l'École des Chartes, t. LXXI, janvier-avril 1910</bibl>, p. 224-333.</note>
+								, nous avons donc pris pour règles&#160;:</p>
+							<p xml:id="ed-fr-3" corresp="#ed-en-3">Distinction de l'i et du j, de l'u et du v :</p>
+							<p xml:id="ed-fr-4" corresp="#ed-en-4">Faculté d'accentuer l'e tonique - ceci moins pour distinguer l'e ouvert de l'e fermé que pour signaler au lecteur les finales muettes et les finales accentiées, entre lesquelles, pour certains mots, des confusions seraient possibles, comme, par exemple, entre juge et jugé
+								<note xml:id="ed-fr-n3" corresp="#ed-en-n3">Remarquons que l'accent ne s'emploie pas pour distinguer les homonymes a, à, la, là, ou, où, des, dès, mes, mès (= mais).</note>
+								. Nous avons également accentué les monosyllabes près, plès, dont la prononciation n'est cependant pas douteuse, mais qu'il y aurait eu quelque affectation à imposer sans accent aux habitudes de nos lecteurs.</p>
+							<p xml:id="ed-fr-5" corresp="#ed-en-5">Distinctions de l's et du z après l'e à la fin des mots&#160;: les scribes employaient indistinctement ces deux graphies avec des prononciations différentes. L'usage actuel attachant à la graphie ez le son é, il nous a paru qu'il ne suffirait pas de ne pas accentuer l'e de cette graphie pour distinguer les finales muettes, et qu'il était légitime d'éviter les confusions qu'eût entraînées le respect servile de formes sans intérêt philologique
+								<note xml:id="ed-fr-n4" corresp="#ed-en-n4">Nous avons hésité pour la distinction de l'i et de l'y dont l'usage n'était pas moins irrégulier&#160;; il eût été commode de distinguer les diphtongues ai, oi, des simples juxtapositions aï, oï, comme par exemple dans oïr, et nous ne sommes pas familiarisés avec l'emploi d'un tréma sur l'y ; de même pour signaler l'i mouillé comme dans ayez (différent de aies). Nous n'avons pas cru cependant qu'il pût y avoir là une gêne réelle pour le lecteur et nous avons préféré conserver les graphies originales.</note>.</p>
+							<p xml:id="ed-fr-6" corresp="#ed-en-6">Dans un même ordre d'idées nous n'avons pas cru devoir affecter de lire 'et' là où le premier de deux t a réellement la forme d'un c, mais où l'étymologie ne justifierait pas ce barbarisme. De même, pour la solution de certaines abréviations dont notre texte ne nous fournissait pas de précédent, nous avons évité des archaïsmes inutiles, par exemple, nous avons lu chūn : chacun et non chascun.</p>
+							<p xml:id="ed-fr-7" corresp="#ed-en-7">On jugera sans doute qu'il y a quelque irrégularité dans l'emploi du locatif eu et de la préposition en&#160;: il nous a paru que le scribe de notre manuscrit différenciait assez nettement les deux graphies pour que nous puissions suivre son choix.</p>
+							<p xml:id="ed-fr-8" corresp="#ed-en-8">Pour la coupe des mots, les apostrophes, la ponctuation, nous avons naturellement ramené à l'usage moderne.</p>
+							<p xml:id="ed-fr-9" corresp="#ed-en-9">Conformément à une pratique qui facilite les références, nous avons numéroté les paragraphes, qui forment d'ailleurs de véritables articles.</p>
+							<p xml:id="ed-fr-10" corresp="#ed-en-10">Enfin, les quelques notes qu'exige l'intelligence externe du texte
+								<note xml:id="ed-fr-n6" corresp="#ed-en-n6">Nous y avons compris les ratures, portant sur un mot entier, qui permettent de mieux se rendre compte des procédés du copiste.</note>
+								nous ont paru devoir être distinguées. On les trouvera sous le texte, appelées par des lettres de l'alphabet, au-dessus des notes du commentaire appelées en chiffres. En principe nous avons préféré ne proposer nos corrections que dans ces notes&#160;; lorsque nous avons cru devoir suppléer un mot ou une lettre, nous nous sommes cependant bornés à les mettre dans le texte entre crochets.</p>
+						</quote>
+					</note>
+					<note xml:id="edition-method" source="#besnier-edition" xml:lang="en" resp="#besnier #mp">
+						<p>Here follows a full translation of the two pages given by Georges Besnier to his and Robert Génestal's edition method.</p>
+						<quote source="#besnier-edition">
+							<p xml:id="ed-en-1" corresp="#ed-fr-1">Beyond any doubt, in this belated time, is the philological significance of a text of this kind not such that one should not think of sacrificing it for the reader's best comfort. However, the care to preserve as exactly as possible the physionomy of the original is as much self-discipline for the editor as a guarantee for the reader and renouncing it should be out of the question.</p>
+							<p xml:id="ed-en-2" corresp="#ed-fr-2">It seemed to us that rectifying the graphies of the manuscript should suffice, where reading should be made easier by guiding pronunciation
+								<note xml:id="ed-en-n1" corresp="#ed-fr-n1">It means, of course, modern pronunciation, the old variations of local phonetic habits not being exactly measured yet.</note>
+								. By attempting to draw inspiration from the principles set down by Mr Paul Meyer for the <orgName>Société des anciens textes français</orgName>'s publications
+								<note xml:id="ed-en-n2" corresp="#ed-fr-n2">See <bibl corresp="https://gallica.bnf.fr/ark:/12148/bpt6k6514966s https://catalogue.bnf.fr/ark:/12148/cb32724317s">the Société's Bulletin, 1909,</bibl> p. 64-79. and <bibl>Bibliothèque de l'École des Chartes, t. LXXI, January-April 1910</bibl>, p. 224-333.</note>
+								, we therefore took as rules:</p>
+							<p xml:id="ed-en-3" corresp="#ed-fr-3">Distinction of the i and the j, the u and the v :</p>
+							<p xml:id="ed-en-4" corresp="#ed-fr-4">Faculty to accent the tonic e - not so much to tell the open and closed e apart than to point out the silent and accented final e, between which confusion may be felt in some words, as for instance between juge and jugé
+								<note xml:id="ed-en-n3" corresp="#ed-fr-n3">Note that the accent is not used to distinguish the homonyms a, à, la, là, ou, où, des, dès, mes, mès (= mais).</note>
+								. We also accented the monosyllables près, plès, whose pronunciation is not subject to doubt, but imposing them without accent to our readers' habits would have shown affectedness.</p>
+							<p xml:id="ed-en-5" corresp="#ed-fr-5">Distinguising the s and z after the e at the end of words: the scribes indistinctly used both graphies with different pronunciations. Current use attaching the sound é to the ez graphy, it seemed to us that not accenting the e in this graphy would not suffice to distinguish silent finals, and that avoiding confusions brought about by slavish respect of forms without any philological interest was legitimate.
+								<note xml:id="ed-en-n4" corresp="#ed-fr-n4">We hesitated about distinguising the i and y, whose use was no less irregular; distinguising diphtongues ai, oi, from simple juxtapositions aï, oï, as i.e. in oïr, would have been convenient, and we are not familiar with using a dieresis on the y; likewise to point out the palatized i as in ayez (contrarily to aies). However we believed there would prove no real bother to the reader and we preferred to preserve the original graphies.</note>.</p>
+							<p xml:id="ed-en-6" corresp="#ed-fr-6">Similarly, we did not believe necessary to read 'et' where the first of two t is really shaped like a c, but where etymology would not justify such barbarism. Likewise, in order to expand of some abbreviations where our text showed no precedent, we avoided useless archaisms, for instance we read chūn : chacun as opposed to chascun.</p>
+							<p xml:id="ed-en-7" corresp="#ed-fr-7">One may doubtless juge that the use of the locative eu and preposition en show some irregularity: it appeared to us that the scribe of our manuscript differenciated both graphies, clearly enough that we could follow his choice.</p>
+							<p xml:id="ed-en-8" corresp="#ed-fr-8">As for word segmentation, apostrophes, punctuation, we naturally brought back to modern use.</p>
+							<p xml:id="ed-en-9" corresp="#ed-fr-9">In accordance with a practice facilitating references, we numbered paragraphs, which moreover form genuine articles.</p>
+							<p xml:id="ed-en-10" corresp="#ed-fr-10">Lastly, the few notes required by the contextual understanding of the text
+								<note xml:id="ed-en-n5" corresp="#ed-fr-n5">We included deletions on full words, which allow a better comprehension of the copist's process.</note>
+								seemed to us in need of being distinguished. They will be found underneath the text, referenced by alphabet letters, above the commentary referenced by numbers. As a rule, we preferred to only propose our corrections in these notes; however when we believed a word or letter needed to be added, we merely included them in the text between square brackets.</p>
+						</quote>
+					</note>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -87,12 +183,14 @@
 				<p>This digital document was extracted and encoded as part of the ConDÉ project. The present document structure therefore corresponds to the encoding model of the project, based on the TEI P5 rules and designed to be compatible with every witness in a long diachrony corpus (13th-19th c.).</p>
 			</projectDesc>
 			<editorialDecl xml:lang="fr">
+				<p>Le <ref corresp="#temoin">texte manuscrit</ref> a été <ref corresp="#besniergenestal">édité en 1912 par Georges Besnier et Robert Génestal</ref>, qui décrivent leur méthode <ref corresp="#besnier-edition">dans leur introduction</ref>. Cette description a été intégralement transcrite <ref corresp="#methode-edition">dans la notice de l'œuvre dans le présent document</ref>.</p>
 				<p><ref corresp="#besniergenestal">L'imprimé original</ref> est conservé à la University of Illinois Chicago Library. Cet imprimé contient le texte du manuscrit original tel qu'édité en 1912. Le texte imprimé a été extrait par HTR sur la base de la numérisation PDF <date when="2019">alors</date> disponible sur <ref corresp="https://books.google.fr/">Google Books</ref>, formaté grâce à l'outil <ref corresp="https://transkribus.eu/Transkribus/">Transkribus</ref> et l'export XML-TEI produit par Transkribus transformé par XSLT pour être conforme au modèle du projet. Le fichier est ainsi enrichi d'informations structurelles visant uniquement à restituer la structure du document original.</p>
 				<p> La lemmatisation a été effectuée grâce au logiciel Analog développé à l'Université de Poitiers par Marie-Hélène Laye, selon les règles établies par le projet <ref corresp="http://presto.ens-lyon.fr/?page_id=197">PRESTO</ref>. Le résultat de la lemmatisation a été désambiguïsé via une première passe automatisée en langage Python puis une révision semi-automatisée en expressions régulières.</p>
 				<p>La présente version du texte contient uniquement l'édition du manuscrit de 1386 faite par Georges Besnier et Robert Génestal en 1912. La structure correspond donc à celle imprimée en 1912 et les informations sur les zones de texte dans les facsimiles numériques ont été jugées non pertinentes. Graphie et ponctuation sont de même intégralement modernisés, les abréviations résolues et non signalées, et les interventions éditoriales invisibles. Les notes de bas de page intéressant l'histoire du droit et non les méthodes d'édition, nous ne les avons pas conservées.</p>
 				<p>Première mise en ligne avec la version 0.4 du corpus, début mai 2021.</p>
 			</editorialDecl>
 			<editorialDecl xml:lang="en">
+				<p>The manuscript was <ref corresp="#besniergenestal">edited in 1912 by Georges Besnier and Robert Génestal</ref> who describe their method <ref corresp="#besnier-edition">in their introduction</ref>. This description was fully translated <ref corresp="#editing-method">in the notice of the work in the present document</ref></p>
 				<p><ref corresp="#besniergenestal">The original printed document</ref> is preserved by the University of Illinois Chicago. This printed book contains the text of the original manuscript, as edited in 1912. The printed text was extracted by HTR, based on the PDF digitisation <date when="2019">then</date> available on <ref corresp="https://books.google.com">Google Books</ref>, formatted with <ref corresp="https://transkribus.eu/Transkribus/">Transkribus</ref> and the TEI-XML export thereby obtained transformed with XSL and Python scripts to match the project model. The file is therefore enriched in structural information only aiming to render this of the original document.</p>
 				<p>Lemmatization was done with Analog, a program developped at the Université de Poitiers by Marie-Hélène Laye, according to the rules established by the <ref corresp="http://presto.ens-lyon.fr/?page_id=197">PRESTO</ref> project. The result of the automatic analysis was disambiguated through an initial Python script, then a semi-automized revision in regular expressions.</p>
 				<p>The present version of the text only contains the edition of the 1386 manuscript made by Georges Besnier and Robert Génestal in 1912. The structure therefore corresponds to this printed in 1912 and the information on text zones in the original images was judged irrelevant. Graphy and punctuation are equally fully modernised, the abreviations expanded and editorial interventions invisible. The footnotes pertaining to law history rather than edition methodology, we did not preserve them.</p>
