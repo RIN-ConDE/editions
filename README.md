@@ -10,7 +10,7 @@ We aim to establish a TEI-XML database of Norman customary law, from 12th to 18t
 
 This repository contains three versions of the files:
 * a "base" TEI-XML version, intended for researchers who would like to explore the full encoding produced by the team,
-* a "simpler" TEI-XML version derived from the previous one for practical reasons, containing the version currently displayed on the project website: all words are modernized and the facsimile information is absent,
+* a "lighter"/"simplified" TEI-XML version derived from the previous one for practical reasons, containing the version currently displayed on the project website: all words are modernized and the facsimile information is absent,
 * a [TXM-compatible](<http://textometrie.ens-lyon.fr/?lang=en>) TEI-XML version , to be used with the Textometrie project software for compatibility purposes,
 * to be added: a PDF version of the texts, readable and searchable on any PDF viewer.
   
@@ -36,13 +36,13 @@ Notre but est d'établir une base de données XML-TEI de la Coutume de Normandie
 
 Ce repository contient trois versions des fichiers :
 * une version de "base" en XML-TEI, pensée pour les chercheurs souhaitant explorer l'encodage complet produit par l'équipe,
-* une version "simplifiée" en XML-TEI, dérivée de la précédente pour des raisons de taille des fichiers, contenant la version actuellement affichée sur le site du projet : tous les mots sont modernisés et les informations sur les facsimiles sont absentes,
+* une version "simplifiée"/"lighter" en XML-TEI, dérivée de la précédente pour des raisons de taille des fichiers, contenant la version actuellement affichée sur le site du projet : tous les mots sont modernisés et les informations sur les facsimiles sont absentes,
 * une version compatible avec le logiciel de textométrie [TXM](http://textometrie.ens-lyon.fr/) en XML-TEI, pour les chercheurs utilisant ce logiciel de textométrie en particulier,
 * à venir : une version PDF des textes, pouvant être lue et recherchée sur tout lecteur de PDF.
   
 Depuis le 4 mai 2021, le dépôt contient également dans le dossier "tools" les transformations XSL permettant de produire, depuis la version 'base', des versions 'lighter' et 'txm'.
 
-Toutes les coquilles n'ont pas été trouvées à la révision de l'HTR. Si vous souhaitez signaler une coquille, vous pouvez soit utiliser les fonctionnalités GitHub habituelles, ou écrire à 'morgane.pica'<at>'unicaen.fr' or  'mathieu.goux'<at>'unicaen.fr'. Dans le second cas, nous vous remercions de bien vouloir inclure le titre de l'œuvre, ainsi que le numéro complet du passage, si vous travaillez sur PDF, ou la valeur du @xml:id si vous travaillez sur les fichiers XML-TEI.
+Toutes les coquilles n'ont pas été trouvées à la révision de l'HTR. Si vous souhaitez signaler une coquille, vous pouvez soit utiliser les fonctionnalités GitHub habituelles, ou écrire à 'morgane.pica'<at>'unicaen.fr' ou  'mathieu.goux'<at>'unicaen.fr'. Dans le second cas, nous vous remercions de bien vouloir inclure le titre de l'œuvre, ainsi que le numéro complet du passage, si vous travaillez sur PDF, ou la valeur du @xml:id si vous travaillez sur les fichiers XML-TEI.
 
 L'encodage de "base" inclut une structuration logique du texte en parties, chapitres et sections, ainsi que les liens vers la structuration originelle des images facsimiles. L'on peut ainsi facilement reconstruire un affichage facsimile du texte. Nous avons également inclus des éléments <choice> avec les formes originelles et modernisées. Nous pensons que ces informations permettront l'usage de ces données pour autant de disciplines et buts que possible.
 
