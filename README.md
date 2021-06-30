@@ -2,7 +2,7 @@
 
 This repository contains the database produced by the RIN ConDÉ project. The project, funded by the Normandy Region and based in the Caen and Rouen universities, started in december 2018. It is lead by :
 * main researcher: _Pr. Pierre Larrivée_,
-* post-doctoral researcher: _Mathieu Goux_ (until 2021) and Zinaïda Geylickman (2021),
+* post-doctoral researcher: _Mathieu Goux_ (until 2021) and _Zinaïda Geylickman_ (2021),
 * research engineers: _Gwenaëlle Callemein_ (until 2020) and _Prune Decoux_ (since 2020),
 * study engineer: _Morgane Pica_.
 
@@ -28,7 +28,7 @@ The links to the available IIIF imges have not been implemented yet: the links a
 
 Ce repository contient la base de données produite par le projet RIN ConDÉ. Ce projet, financé par la Région Normandie et basé aux universités de Caen et Rouen, a commencé en décembre 2018. Il est mené par :
 * porteur du projet : _Pr. Pierre Larrivée_,
-* post-doctorant : _Mathieu Goux_ et Zinaïda Geylickman (2021),
+* post-doctorant : _Mathieu Goux_ et _Zinaïda Geylickman (2021)_,
 * ingénieures de recherche : _Gwenaëlle Callemein_ (until 2020) and _Prune Decoux_ (since 2020),
 * ingénieure d'étude : _Morgane Pica_.
 
