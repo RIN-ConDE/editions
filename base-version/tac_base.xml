@@ -799,7 +799,7 @@
 <w lemma="SEUL" pos="Ag" n="139"><choice><orig>ſ</orig><reg>s</reg></choice>eule</w>
 							<lb facs="#facs_1_r1l22"/>
 <w lemma="SANS" pos="S" n="140"><choice><orig>ſ</orig><reg>s</reg></choice>anz</w>
-<w lemma="INC" pos="Inconnu" n="141">co<choice><orig>ꝛtı</orig><reg>rti</reg></choice>l</w>
+<w lemma="COURTIL" pos="Nc" n="141">co<choice><orig>ꝛtı</orig><reg>rti</reg></choice>l</w>
 <w lemma="." pos="Fs" n="142">.</w>
 <w lemma="LE" pos="Da" n="143">La</w>
 <w lemma="FEMME" pos="Nc" n="144">fame</w>
@@ -1698,8 +1698,8 @@
 <w lemma="QUE" pos="Cs" n="901">que</w>
 <w lemma="LE" pos="Da" n="902">l<choice><orig>ı</orig><reg>i</reg></choice></w>
 <w lemma="CHEVALIER" pos="Nc" n="903">cheual<choice><orig>ıerſ</orig><reg>iers</reg></choice></w>
-<w lemma="INC" pos="Inconnu" n="904">a<choice><orig>ı</orig><reg>i</reg></choice>nz<lb break="no" facs="#facs_3_r2l19"/>nez</w>
-<w lemma="INC" pos="Inconnu" n="905">cho<choice><orig>ıſıſ</orig><reg>isis</reg></choice>e</w>
+<w lemma="AÎNÉ" pos="Nc" n="904">a<choice><orig>ı</orig><reg>i</reg></choice>nz<lb break="no" facs="#facs_3_r2l19"/>nez</w>
+<w lemma="CHOISIR" pos="Vvc" n="905">cho<choice><orig>ıſıſ</orig><reg>isis</reg></choice>e</w>
 <w lemma="SON" pos="Ds" n="906"><choice><orig>ſ</orig><reg>s</reg></choice>a</w>
 <w lemma="PARTIE" pos="Nc" n="907">part<choice><orig>ı</orig><reg>i</reg></choice>e</w>
 <w lemma="." pos="Fs" n="908">.</w>
@@ -1846,7 +1846,7 @@
 <w lemma="." pos="Fs" n="1032">.</w>
 <w lemma="AINS" pos="Rg" n="1033">a<choice><orig>ı</orig><reg>i</reg></choice>nz</w>
 <w lemma="QUE" pos="Cs" n="1034">que</w>
-<w lemma="INC" pos="Inconnu" n="1035">c<choice><orig>ıſ</orig><reg>is</reg></choice>t</w>
+<w lemma="CIST" pos="Dd" n="1035">c<choice><orig>ıſ</orig><reg>is</reg></choice>t</w>
 <w lemma="ÉTABLISSEMENT" pos="Nc" n="1036">e<choice><orig>ſ</orig><reg>s</reg></choice><lb break="no" facs="#facs_4_r1l13"/>tabl<choice><orig>ıſſ</orig><reg>iss</reg></choice>emenz</w>
 <w lemma="ÊTRE" pos="Vuc" n="1037">fu<choice><orig>ſ</orig><reg>s</reg></choice>t</w>
 <w lemma="FAIRE" pos="Ge" n="1038">fez</w>
@@ -2366,7 +2366,7 @@
 <w lemma="GARDER" pos="Vvc" n="1466">gar<choice><orig></orig><reg>d</reg></choice>er<choice><am>ō</am><expan>on</expan></choice>t</w>
 					<lb facs="#facs_5_r2l11"/>
 <w lemma="SI" pos="Cs" n="1467"><choice><orig>ſı</orig><reg>si</reg></choice></w>
-<w lemma="INC" pos="Inconnu" n="1468">co<choice><orig>ſı</orig><reg>si</reg></choice>n</w>
+<w lemma="COUSIN" pos="Nc" n="1468">co<choice><orig>ſı</orig><reg>si</reg></choice>n</w>
 <w lemma="." pos="Fs" n="1469">.</w>
 <w lemma="INC" pos="Inconnu" n="1470">Nan<choice><orig>ı</orig><reg>i</reg></choice>l</w>
 <w lemma="." pos="Fs" n="1471">.</w>
@@ -2385,7 +2385,7 @@
 <w lemma="SON" pos="Ds" n="1482"><choice><orig>ſ</orig><reg>s</reg></choice>a</w>
 <w lemma="MOURIR" pos="Ge" n="1483">mo<choice><orig>ꝛ</orig><reg>r</reg></choice>t</w>
 <w lemma="ET" pos="Cc" n="1484"><choice><am>⁊</am><expan>et</expan></choice></w>
-<w lemma="INC" pos="Inconnu" n="1485">couo<choice><orig>ı</orig><reg>i</reg></choice>tent</w>
+<w lemma="CONVOITER" pos="Vvc" n="1485">couo<choice><orig>ı</orig><reg>i</reg></choice>tent</w>
 <w lemma="SON" pos="Ds" n="1486"><choice><orig>ſ</orig><reg>s</reg></choice>on</w>
 					<lb facs="#facs_5_r2l14"/>
 <w lemma="HÉRITAGE" pos="Nc" n="1487">her<choice><orig>ı</orig><reg>i</reg></choice>tage</w>
@@ -2407,7 +2407,7 @@
 <w lemma="INC" pos="Inconnu" n="1501">e<choice><orig>ſchı</orig><reg>schi</reg></choice>u<choice><am> ͬ</am><expan>er</expan></choice></w>
 					<lb facs="#facs_5_r2l17"/>
 <w lemma="TEL" pos="Di" n="1502">tel</w>
-<w lemma="INC" pos="Inconnu" n="1503">cruelte</w>
+<w lemma="CRUAUTÉ" pos="Nc" n="1503">cruelte</w>
 <w lemma="ÊTRE" pos="Vuc" n="1504">fu</w>
 <w lemma="IL" pos="Pp" n="1505"><choice><orig>ı</orig><reg>i</reg></choice>l</w>
 <w lemma="ÉTABLIR" pos="Ge" n="1506">e<choice><orig>ſtablı</orig><reg>stabli</reg></choice></w>
@@ -2821,8 +2821,8 @@
 <w lemma="AUTRE" pos="Ag" n="1847">autres</w>
 <w lemma="." pos="Fs" n="1848">.</w>
 <w lemma="ET" pos="Cc" n="1849">E</w>
-<w lemma="INC" pos="Inconnu" n="1850">c<choice><orig>ıſ</orig><reg>is</reg></choice>t</w>
-<w lemma="INC" pos="Inconnu" n="1851">iuge<lb break="no" facs="#facs_6_r2l28"/>gemenz</w>
+<w lemma="CIST" pos="Dd" n="1850">c<choice><orig>ıſ</orig><reg>is</reg></choice>t</w>
+<w lemma="JUGEMENT" pos="Nc" n="1851">iuge<lb break="no" facs="#facs_6_r2l28"/>gemenz</w>
 <w lemma="ÊTRE" pos="Vuc" n="1852">e<choice><orig>ſ</orig><reg>s</reg></choice>t</w>
 <w lemma="TRÉS+FAUX" pos="Rg+Ag" n="1853">tre<choice><orig>ſfauſ</orig><reg>sfaus</reg></choice></w>
 <w lemma="." pos="Fs" n="1854">.</w>
@@ -2979,7 +2979,7 @@
 <w lemma="." pos="Fs" n="1981">.</w>
 <w lemma="LE" pos="Da" n="1982">l<choice><orig>ı</orig><reg>i</reg></choice></w>
 					<lb facs="#facs_7_r1l28"/>
-<w lemma="INC" pos="Inconnu" n="1983">mueble<choice><orig>ſ</orig><reg>s</reg></choice></w>
+<w lemma="MEUBLE" pos="Nc" n="1983">mueble<choice><orig>ſ</orig><reg>s</reg></choice></w>
 <w lemma="NE" pos="Rp" n="1984">ne</w>
 <w lemma="ÊTRE" pos="Vuc" n="1985"><choice><orig>ſ</orig><reg>s</reg></choice>era</w>
 <w lemma="PAS" pos="Rp" n="1986">pa<choice><orig>ſ</orig><reg>s</reg></choice></w>
@@ -2993,7 +2993,7 @@
 <w lemma="POUVOIR" pos="Vvc" n="1993">puet</w>
 <w lemma="DONNER" pos="Vvn" n="1994"><choice><orig></orig><reg>d</reg></choice>onner</w>
 <w lemma="SON" pos="Ds" n="1995"><choice><orig>ſ</orig><reg>s</reg></choice>on</w>
-<w lemma="INC" pos="Inconnu" n="1996">mueble</w>
+<w lemma="MEUBLE" pos="Nc" n="1996">mueble</w>
 <w lemma="." pos="Fs" n="1997">.</w>
 					<lb facs="#facs_7_r1l31"/>
 <w lemma="À" pos="S" n="1998">a</w>
@@ -3006,7 +3006,7 @@
 <w lemma="SI" pos="Cs" n="2005"><choice><orig>ſ</orig><reg>s</reg></choice>e</w>
 <w lemma="LE" pos="Da" n="2006">l<choice><orig>ı</orig><reg>i</reg></choice></w>
 					<lb facs="#facs_7_r2l1"/>
-<w lemma="INC" pos="Inconnu" n="2007">mueble<choice><orig>ſ</orig><reg>s</reg></choice></w>
+<w lemma="MEUBLE" pos="Nc" n="2007">mueble<choice><orig>ſ</orig><reg>s</reg></choice></w>
 <w lemma="ÊTRE" pos="Vuc" n="2008">e<choice><orig>ſ</orig><reg>s</reg></choice>t</w>
 <w lemma="COMMUN" pos="Ag" n="2009"><choice><am></am><expan>com</expan></choice>mun<choice><orig>ſ</orig><reg>s</reg></choice></w>
 <w lemma="À+LE" pos="S+Da" n="2010">a<choice><orig>ſ</orig><reg>s</reg></choice></w>
@@ -3152,7 +3152,7 @@
 <w lemma="PARENT" pos="Nc" n="2126">paranz</w>
 <w lemma="OU" pos="Cc" n="2127">ou</w>
 <w lemma="DE" pos="S" n="2128"><choice><orig></orig><reg>d</reg></choice>e</w>
-<w lemma="INC" pos="Inconnu" n="2129">mueble</w>
+<w lemma="MEUBLE" pos="Nc" n="2129">mueble</w>
 					<lb facs="#facs_7_r2l25"/>
 <w lemma="OU" pos="Cc" n="2130">ou</w>
 					<w lemma="DE" pos="S" n="2131"><choice><orig></orig><reg>d</reg></choice></w><w lemma="HÉRITAGE" pos="Nc" n="2132">er<choice><orig>ı</orig><reg>i</reg></choice>tage</w>
@@ -3620,7 +3620,8 @@
 <w lemma="PRENDRE" pos="Vvn" n="2528">p<choice><orig>ꝛ</orig><reg>r</reg></choice>an<choice><am></am><expan>dre</expan></choice></w>
 
 					<lb facs="#facs_9_r1l13"/>
-<w lemma="INC" pos="Inconnu" n="2529"><choice><orig></orig><reg>d</reg></choice>aucun</w>
+<w lemma="DE" pos="S" n="2529"><choice><orig></orig><reg>d</reg></choice></w>
+<w lemma="AUCUN" pos="Pi" n="2529">aucun</w>
 <w lemma="NE" pos="Rp" n="2530">ne</w>
 <w lemma="POUR" pos="S" n="2531">po<choice><orig>ꝛ</orig><reg>r</reg></choice></w>
 <w lemma="TREÜ" pos="Nc" n="2532">treu</w>
@@ -3840,7 +3841,7 @@
 <w lemma="SEIGNEUR" pos="Nc" n="2712"><choice><orig>ſ</orig><reg>s</reg></choice>egneur</w>
 <w lemma="SELON" pos="S" n="2713"><choice><orig>ſ</orig><reg>s</reg></choice>elonc</w>
 <w lemma="LE" pos="Da" n="2714">la</w>
-<w lemma="INC" pos="Inconnu" n="2715">co<choice><orig>ſ</orig><reg>s</reg></choice>tv<lb break="no" facs="#facs_9_r2l19"/>me</w>
+<w lemma="COUTUME" pos="Nc" n="2715">co<choice><orig>ſ</orig><reg>s</reg></choice>tv<lb break="no" facs="#facs_9_r2l19"/>me</w>
 <w lemma="DE+LE" pos="S+Da" n="2716"><choice><orig></orig><reg>d</reg></choice>el</w>
 <w lemma="PAYS" pos="Nc" n="2717">pais</w>
 <w lemma="." pos="Fs" n="2718">.</w>
@@ -3862,7 +3863,7 @@
 <w lemma="TERRE" pos="Nc" n="2730"><choice><am>t</am><expan>ter</expan></choice>re</w>
 					<lb facs="#facs_9_r2l22"/>
 <w lemma="PAR" pos="S" n="2731"><choice><am>p̲</am><expan>par</expan></choice></w>
-<w lemma="INC" pos="Inconnu" n="2732">couo<choice><orig>ıtıſ</orig><reg>itis</reg></choice>e</w>
+<w lemma="CONVOITISE" pos="Nc" n="2732">couo<choice><orig>ıtıſ</orig><reg>itis</reg></choice>e</w>
 <w lemma="À" pos="S" n="2733">a</w>
 <w lemma="SON" pos="Ds" n="2734"><choice><orig>ſ</orig><reg>s</reg></choice>on</w>
 <w lemma="HOMME" pos="Nc" n="2735">home</w>
@@ -4238,7 +4239,7 @@
 <w lemma="ET" pos="Cc" n="3041"><choice><am>⁊</am><expan>et</expan></choice></w>
 <w lemma="LE" pos="Da" n="3042">l<choice><orig>ı</orig><reg>i</reg></choice></w>
 <w lemma="PRÊTRE" pos="Nc" n="3043">p<choice><orig>ꝛeſ</orig><reg>res</reg></choice>tres</w>
-<w lemma="INC" pos="Inconnu" n="3044">muert</w>
+<w lemma="MOURIR" pos="Vvc" n="3044">muert</w>
 <w lemma="." pos="Fs" n="3045">.</w>
 <w lemma="ET" pos="Cc" n="3046"><choice><am>⁊</am><expan>et</expan></choice></w>
 <w lemma="LE" pos="Da" n="3047">l<choice><orig>ı</orig><reg>i</reg></choice></w>
@@ -4249,7 +4250,7 @@
 <w lemma="APRÈS" pos="S" n="3052">a<lb break="no" facs="#facs_10_r2l27"/>p<choice><orig>ꝛeſ</orig><reg>res</reg></choice></w>
 <w lemma="IL" pos="Pp" n="3053">lu<choice><orig>ı</orig><reg>i</reg></choice></w>
 <w lemma="ÊTRE" pos="Vuc" n="3054">e<choice><orig>ſ</orig><reg>s</reg></choice>t</w>
-<w lemma="INC" pos="Inconnu" n="3055">couo<choice><orig>ı</orig><reg>i</reg></choice>tens</w>
+<w lemma="CONVOITER" pos="Ga" n="3055">couo<choice><orig>ı</orig><reg>i</reg></choice>tens</w>
 					<w lemma=":" pos="Fw" n="3056">:</w>
 <w lemma="ET" pos="Cc" n="3057"><choice><am>⁊</am><expan>et</expan></choice></w>
 					<lb facs="#facs_10_r2l28"/>
@@ -4334,7 +4335,7 @@
 <w lemma="DE" pos="S" n="3128"><choice><orig></orig><reg>d</reg></choice>e</w>
 <w lemma="TOUT" pos="Di" n="3129">toz</w>
 <w lemma="SON" pos="Ds" n="3130"><choice><orig>ſeſ</orig><reg>ses</reg></choice></w>
-<w lemma="INC" pos="Inconnu" n="3131">chat<choice><orig>ı</orig><reg>i</reg></choice>ex</w>
+<w lemma="CHATEL" pos="Nc" n="3131">chat<choice><orig>ı</orig><reg>i</reg></choice>ex</w>
 					<lb facs="#facs_11_r1l8"/>
 <w lemma="SI" pos="Cs" n="3132"><choice><orig>ſ</orig><reg>s</reg></choice>e</w>
 <w lemma="IL" pos="Pp" n="3133"><choice><orig>ı</orig><reg>i</reg></choice>l</w>
@@ -4798,8 +4799,8 @@
 <w lemma="ÊTRE" pos="Vuc" n="3509">e<choice><orig>ſ</orig><reg>s</reg></choice>t</w>
 <w lemma="QUAND" pos="Cs" n="3510">quant</w>
 					<lb facs="#facs_12_r1l30"/>
-<w lemma="INC" pos="Inconnu" n="3511">alcun<choice><orig>ſ</orig><reg>s</reg></choice></w>
-<w lemma="INC" pos="Inconnu" n="3512">muert</w>
+<w lemma="AUCUN" pos="Pi" n="3511">alcun<choice><orig>ſ</orig><reg>s</reg></choice></w>
+<w lemma="MOURIR" pos="Vvc" n="3512">muert</w>
 <w lemma="SANS" pos="S" n="3513"><choice><orig>ſ</orig><reg>s</reg></choice>anz</w>
 <w lemma="PROPRE" pos="Nc" n="3514"><choice><am>pᶶ</am><expan>pro</expan></choice>p<choice><orig>ꝛ</orig><reg>r</reg></choice>e</w>
 					<lb facs="#facs_12_r1l31"/>
@@ -5551,7 +5552,7 @@
 <w lemma="INC" pos="Inconnu" n="4124">pue<choice><am>ē</am><expan>en</expan></choice>t</w>
 					<lb facs="#facs_14_r1l28"/>
 <w lemma="BIEN" pos="Rg" n="4125">b<choice><orig>ı</orig><reg>i</reg></choice>en</w>
-<w lemma="INC" pos="Inconnu" n="4126">iug<choice><orig>ı</orig><reg>i</reg></choice>er</w>
+<w lemma="JUGER" pos="Vvn" n="4126">iug<choice><orig>ı</orig><reg>i</reg></choice>er</w>
 <w lemma="IL" pos="Pp" n="4127">li</w>
 <w lemma="UN" pos="Dn" n="4128">un<choice><orig>ſ</orig><reg>s</reg></choice></w>
 <w lemma="LE" pos="Da" n="4129">l</w>
@@ -5678,7 +5679,7 @@
 <w lemma="JURER" pos="Vvn" n="4220"><choice><orig>ı</orig><reg>i</reg></choice>urer</w>
 <w lemma="QUE" pos="Cs" n="4221"><choice><am>q¯</am><expan>que</expan></choice></w>
 <w lemma="IL" pos="Pp" n="4222"><choice><orig>ı</orig><reg>i</reg></choice>l</w>
-<w lemma="INC" pos="Inconnu" n="4223">tan<choice><orig>ꝛ</orig><reg>dr</reg></choice>ont</w>
+<w lemma="TENIR" pos="Vvc" n="4223">tan<choice><orig>ꝛ</orig><reg>dr</reg></choice>ont</w>
 <w lemma="LOYAL" pos="Ag" n="4224">leal</w>
 					<lb facs="#facs_14_r2l22"/>
 <w lemma="JUSTICE" pos="Nc" n="4225"><choice><orig>ıuſtı</orig><reg>iusti</reg></choice>ce</w>
@@ -5901,7 +5902,8 @@
 <w lemma="COMPTER" pos="Ga" n="4402"><choice><am>tā</am><expan>contan</expan></choice>z</w>
 					<lb facs="#facs_15_r1l24"/>
 <w lemma="ÊTRE" pos="Vuc" n="4403">e<choice><orig>ſ</orig><reg>s</reg></choice>t</w>
-<w lemma="INC" pos="Inconnu" n="4404"><choice><orig></orig><reg>d</reg></choice>autre</w>
+<w lemma="DE" pos="S" n="4404"><choice><orig></orig><reg>d</reg></choice></w>
+<w lemma="AUTRE" pos="Di" n="2529">autre</w>
 <w lemma="SEIGNEUR" pos="Nc" n="4405"><choice><orig>ſ</orig><reg>s</reg></choice>egneur</w>
 <w lemma="QUE" pos="Cs" n="4406">que</w>
 					<lb facs="#facs_15_r1l25"/>
@@ -6110,7 +6112,7 @@
 <w lemma="ÊTRE" pos="Vuc" n="4577">e<choice><orig>ſ</orig><reg>s</reg></choice>t</w>
 					<lb facs="#facs_15_r2l23"/>
 <w lemma="CAUSE" pos="Nc" n="4578">cau<choice><orig>ſ</orig><reg>s</reg></choice>e</w>
-<w lemma="INC" pos="Inconnu" n="4579">c<choice><orig>ı</orig><reg>i</reg></choice>teaine</w>
+<w lemma="CITOYEN" pos="Ag" n="4579">c<choice><orig>ı</orig><reg>i</reg></choice>teaine</w>
 <w lemma="IL" pos="Pp" n="4580"><choice><orig>ı</orig><reg>i</reg></choice>l</w>
 <w lemma="." pos="Fs" n="4581">.</w>
 <w lemma="FAIRE" pos="Vvc" n="4582">fera</w>
@@ -6124,7 +6126,7 @@
 <w lemma="SI" pos="Cs" n="4589"><choice><orig>ſ</orig><reg>s</reg></choice>e</w>
 <w lemma="ELLE" pos="Pp" n="4590">elle</w>
 <w lemma="ÊTRE" pos="Vuc" n="4591">e<choice><orig>ſ</orig><reg>s</reg></choice>t</w>
-<w lemma="INC" pos="Inconnu" n="4592">cr<choice><orig>ı</orig><reg>i</reg></choice>min<lb break="no" facs="#facs_15_r2l26"/>nal</w>
+<w lemma="CRIMINEL" pos="Ag" n="4592">cr<choice><orig>ı</orig><reg>i</reg></choice>min<lb break="no" facs="#facs_15_r2l26"/>nal</w>
 <w lemma="IL" pos="Pp" n="4593"><choice><orig>ı</orig><reg>i</reg></choice>l</w>
 <w lemma="IL" pos="Pp" n="4594">le</w>
 <w lemma="FAIRE" pos="Vvc" n="4595">fera</w>
@@ -6303,7 +6305,7 @@
 					<lb facs="#facs_16_r1l21"/>
 <w lemma="ET" pos="Cc" n="4742"><choice><am>⁊</am><expan>et</expan></choice></w>
 <w lemma="IL" pos="Pp" n="4743"><choice><orig>ı</orig><reg>i</reg></choice>l</w>
-<w lemma="INC" pos="Inconnu" n="4744">muert</w>
+<w lemma="MOURIR" pos="Vvc" n="4744">muert</w>
 <w lemma="AINSI" pos="Rg" n="4745">e<choice><orig>ınſſı</orig><reg>inssi</reg></choice></w>
 <w lemma=":" pos="Fw" n="4746">:</w>
 <w lemma="SI" pos="Cs" n="4747"><choice><orig>ſı</orig><reg>si</reg></choice></w>
@@ -6460,7 +6462,7 @@
 <w lemma="À" pos="S" n="4864">a</w>
 					<lb facs="#facs_16_r2l20"/>
 <w lemma="SON" pos="Ds" n="4865"><choice><orig>ſ</orig><reg>s</reg></choice>on</w>
-<w lemma="INC" pos="Inconnu" n="4866">co<choice><orig>ſı</orig><reg>si</reg></choice>n</w>
+<w lemma="COUSIN" pos="Nc" n="4866">co<choice><orig>ſı</orig><reg>si</reg></choice>n</w>
 <w lemma="PARTIE" pos="Nc" n="4867">part<choice><orig>ı</orig><reg>i</reg></choice>e</w>
 <w lemma="DE" pos="S" n="4868"><choice><orig></orig><reg>d</reg></choice>e</w>
 <w lemma="TERRE" pos="Nc" n="4869">terre</w>
@@ -6481,7 +6483,7 @@
 <w lemma="FAIRE" pos="Ge" n="4882">fet</w>
 <w lemma="HOMMAGE" pos="Nc" n="4883">homage</w>
 					<lb facs="#facs_16_r2l23"/>
-<w lemma="INC" pos="Inconnu" n="4884">muert</w>
+<w lemma="MOURIR" pos="Vvc" n="4884">muert</w>
 <w lemma="SANS" pos="S" n="4885"><choice><orig>ſ</orig><reg>s</reg></choice>anz</w>
 <w lemma="INC" pos="Inconnu" n="4886">oirs</w>
 <w lemma="." pos="Fs" n="4887">.</w>
@@ -6505,7 +6507,7 @@
 <w lemma="INC" pos="Inconnu" n="4903">p<choice><orig>ꝛochıenſ</orig><reg>rochiens</reg></choice></w>
 <w lemma="PARENT" pos="Nc" n="4904">pa<lb break="no" facs="#facs_16_r2l27"/>ranz</w>
 <w lemma="OU" pos="Cc" n="4905">ou</w>
-<w lemma="INC" pos="Inconnu" n="4906">co<choice><orig>ſınſ</orig><reg>sins</reg></choice></w>
+<w lemma="COUSIN" pos="Nc" n="4906">co<choice><orig>ſınſ</orig><reg>sins</reg></choice></w>
 <w lemma="." pos="Fs" n="4907">.</w>
 						</p>
 						<p>	
@@ -7775,7 +7777,7 @@
 <w lemma="TOUT" pos="Di" n="5991">toz</w>
 					<lb facs="#facs_20_r1l3"/>
 <w lemma="LEUR" pos="Ds" n="5992">leur</w>
-<w lemma="INC" pos="Inconnu" n="5993">chat<choice><orig>ı</orig><reg>i</reg></choice>ex</w>
+<w lemma="CHATEL" pos="Nc" n="5993">chat<choice><orig>ı</orig><reg>i</reg></choice>ex</w>
 <w lemma="." pos="Fs" n="5994">.</w>
 <w lemma="ET" pos="Cc" n="5995"><choice><am>⁊</am><expan>et</expan></choice></w>
 <w lemma="LE" pos="Da" n="5996">l<choice><orig>ı</orig><reg>i</reg></choice></w>
@@ -8075,7 +8077,7 @@
 <w lemma="." pos="Fs" n="6225">.</w>
 <w lemma="EN" pos="S" n="6226">en</w>
 <w lemma="CAUSE" pos="Nc" n="6227">cau<choice><orig>ſ</orig><reg>s</reg></choice>e</w>
-<w lemma="INC" pos="Inconnu" n="6228">c<choice><orig>ı</orig><reg>i</reg></choice>te<lb break="no" facs="#facs_20_r2l23"/>aine</w>
+<w lemma="CITOYEN" pos="Ag" n="6228">c<choice><orig>ı</orig><reg>i</reg></choice>te<lb break="no" facs="#facs_20_r2l23"/>aine</w>
 <w lemma="." pos="Fs" n="6229">.</w>
 <w lemma="ET" pos="Cc" n="6230"><choice><am>⁊</am><expan>et</expan></choice></w>
 <w lemma="QUAND" pos="Cs" n="6231">quant</w>
@@ -8108,7 +8110,7 @@
 <w lemma="ET" pos="Cc" n="6256"><choice><am>⁊</am><expan>et</expan></choice></w>
 <w lemma="LEUR" pos="Ds" n="6257">leur</w>
 					<lb facs="#facs_20_r2l28"/>
-<w lemma="INC" pos="Inconnu" n="6258">chat<choice><orig>ı</orig><reg>i</reg></choice>ex</w>
+<w lemma="CHATEL" pos="Nc" n="6258">chat<choice><orig>ı</orig><reg>i</reg></choice>ex</w>
 <w lemma="." pos="Fs" n="6259">.</w>
 				</p>
 			</div>
@@ -8875,7 +8877,7 @@ gı<choice><orig>ſt en ſon lıt ſ</orig><reg>st en son lıt s</reg></choice>e
 					<lb facs="#facs_23_r1l4"/>
 <w lemma="INC" pos="Inconnu" n="6875">vveue<choice><orig>ſ</orig><reg>s</reg></choice></w>
 <w lemma="LEUR" pos="Ds" n="6876">leur</w>
-<w lemma="INC" pos="Inconnu" n="6877"><choice><orig></orig><reg>d</reg></choice>oeres</w>
+<w lemma="DOUAIRE" pos="Nc" n="6877"><choice><orig></orig><reg>d</reg></choice>oeres</w>
 <w lemma="." pos="Fs" n="6878">.</w>
 <w lemma="ET" pos="Cc" n="6879"><choice><am>⁊</am><expan>et</expan></choice></w>
 <w lemma="LEUR" pos="Ds" n="6880">leur</w>
@@ -9129,7 +9131,7 @@ gı<choice><orig>ſt en ſon lıt ſ</orig><reg>st en son lıt s</reg></choice>e
 <w lemma="AUCUN" pos="Pi" n="7080">aucun<choice><orig>ſ</orig><reg>s</reg></choice></w>
 <w lemma="INC" pos="Inconnu" n="7081">v<choice><orig>ſerı</orig><reg>seri</reg></choice>ers</w>
 					<lb facs="#facs_23_r2l16"/>
-<w lemma="INC" pos="Inconnu" n="7082">muert</w>
+<w lemma="MOURIR" pos="Vvc" n="7082">muert</w>
 <w lemma="." pos="Fs" n="7083">.</w>
 <w lemma="ET" pos="Cc" n="7084"><choice><am>⁊</am><expan>et</expan></choice></w>
 <w lemma="IL" pos="Pp" n="7085"><choice><orig>ı</orig><reg>i</reg></choice>l</w>
@@ -9162,7 +9164,7 @@ gı<choice><orig>ſt en ſon lıt ſ</orig><reg>st en son lıt s</reg></choice>e
 <w lemma="JOUR" pos="Nc" n="7109"><choice><orig>ıoꝛ</orig><reg>ior</reg></choice></w>
 <w lemma="QUE" pos="Cs" n="7110">que</w>
 <w lemma="IL" pos="Pp" n="7111"><choice><orig>ı</orig><reg>i</reg></choice>l</w>
-<w lemma="INC" pos="Inconnu" n="7112">muert</w>
+<w lemma="MOURIR" pos="Vvc" n="7112">muert</w>
 <w lemma="." pos="Fs" n="7113">.</w>
 <w lemma="LE" pos="Da" n="7114">l<choice><orig>ı</orig><reg>i</reg></choice></w>
 <w lemma="DEVOIR" pos="Ge" n="7115"><choice><orig></orig><reg>d</reg></choice><choice><am>ꝰ</am><expan>us</expan></choice></w>
@@ -9170,7 +9172,7 @@ gı<choice><orig>ſt en ſon lıt ſ</orig><reg>st en son lıt s</reg></choice>e
 <w lemma="AVOIR" pos="Vun" n="7116">aura</w>
 <w lemma="TOUT" pos="Di" n="7117">toz</w>
 <w lemma="SON" pos="Ds" n="7118"><choice><orig>ſeſ</orig><reg>ses</reg></choice></w>
-<w lemma="INC" pos="Inconnu" n="7119">chat<choice><orig>ı</orig><reg>i</reg></choice>ex</w>
+<w lemma="CHATEL" pos="Nc" n="7119">chat<choice><orig>ı</orig><reg>i</reg></choice>ex</w>
 <w lemma="." pos="Fs" n="7120">.</w>
 <w lemma="EN" pos="S" n="7121">en</w>
 <w lemma="QUI" pos="Pr" n="7122"><choice><am>qͥ</am><expan>qui</expan></choice></w>
@@ -9483,7 +9485,7 @@ gı<choice><orig>ſt en ſon lıt ſ</orig><reg>st en son lıt s</reg></choice>e
 <w lemma="BATTRE" pos="Ge" n="7383">batue</w>
 <w lemma="ET" pos="Cc" n="7384"><choice><am>⁊</am><expan>et</expan></choice></w>
 					<lb facs="#facs_24_r2l13"/>
-<w lemma="INC" pos="Inconnu" n="7385">chac<choice><orig>ı</orig><reg>i</reg></choice>ee</w>
+<w lemma="CHATEL" pos="Nc" n="7385">chac<choice><orig>ı</orig><reg>i</reg></choice>ee</w>
 <w lemma="HORS" pos="S" n="7386">ho<choice><orig>ꝛ</orig><reg>r</reg></choice>s</w>
 <w lemma="." pos="Fs" n="7387">.</w>
 <w lemma="INC" pos="Inconnu" n="7388">po<choice><orig>ꝛqoı</orig><reg>rqoi</reg></choice></w>
@@ -9608,7 +9610,7 @@ gı<choice><orig>ſt en ſon lıt ſ</orig><reg>st en son lıt s</reg></choice>e
 <w lemma="FUSTER" pos="Ge" n="7491">fu<choice><orig>ſ</orig><reg>s</reg></choice>tee</w>
 <w lemma="." pos="Fs" n="7492">.</w>
 <w lemma="ET" pos="Cc" n="7493"><choice><am>⁊</am><expan>et</expan></choice></w>
-<w lemma="INC" pos="Inconnu" n="7494">chac<choice><orig>ı</orig><reg>i</reg></choice>ee</w>
+<w lemma="CHATEL" pos="Nc" n="7494">chac<choice><orig>ı</orig><reg>i</reg></choice>ee</w>
 <w lemma="HORS" pos="S" n="7495">ho<choice><orig>ꝛſ</orig><reg>rs</reg></choice></w>
 <w lemma="." pos="Fs" n="7496">.</w>
 <w lemma="ET" pos="Cc" n="7497"><choice><am>⁊</am><expan>et</expan></choice></w>
@@ -9775,7 +9777,7 @@ gı<choice><orig>ſt en ſon lıt ſ</orig><reg>st en son lıt s</reg></choice>e
 <w lemma="FUSTER" pos="Ge" n="7634">fu<choice><orig>ſ</orig><reg>s</reg></choice>tee</w>
 					<lb facs="#facs_25_r2l2"/>
 <w lemma="ET" pos="Cc" n="7635"><choice><am>⁊</am><expan>et</expan></choice></w>
-<w lemma="INC" pos="Inconnu" n="7636">chac<choice><orig>ı</orig><reg>i</reg></choice>ee</w>
+<w lemma="CHATEL" pos="Nc" n="7636">chac<choice><orig>ı</orig><reg>i</reg></choice>ee</w>
 <w lemma="HORS" pos="S" n="7637">ho<choice><orig>ꝛ</orig><reg>r</reg></choice>s</w>
 <w lemma="." pos="Fs" n="7638">.</w>
 						</p>
@@ -10222,7 +10224,7 @@ gı<choice><orig>ſt en ſon lıt ſ</orig><reg>st en son lıt s</reg></choice>e
 <w lemma=":" pos="Fw" n="8004">:</w>
 <w lemma="ET" pos="Cc" n="8005"><choice><am>⁊</am><expan>et</expan></choice></w>
 <w lemma="DE" pos="S" n="8006"><choice><orig></orig><reg>d</reg></choice>e</w>
-<w lemma="INC" pos="Inconnu" n="8007">cels</w>
+<w lemma="CELUI" pos="Pd" n="8007">cels</w>
 					<lb facs="#facs_26_r2l8"/>
 <w lemma="QUI" pos="Pr" n="8008">qu<choice><orig>ı</orig><reg>i</reg></choice></w>
 <w lemma="ÊTRE" pos="Vuc" n="8009"><choice><orig>ſ</orig><reg>s</reg></choice>ont</w>
@@ -10232,7 +10234,7 @@ gı<choice><orig>ſt en ſon lıt ſ</orig><reg>st en son lıt s</reg></choice>e
 					<lb facs="#facs_26_r2l9"/>
 <w lemma="CRIME" pos="Nc" n="8013">cr<choice><orig>ı</orig><reg>i</reg></choice>me</w>
 <w lemma="." pos="Fs" n="8014">.</w>
-<w lemma="INC" pos="Inconnu" n="8015">C<choice><orig>ıſ</orig><reg>is</reg></choice>t</w>
+<w lemma="CIST" pos="Dd" n="8015">c<choice><orig>ıſ</orig><reg>is</reg></choice>t</w>
 <w lemma="PLAID" pos="Nc" n="8016">plez</w>
 <w lemma="ET" pos="Cc" n="8017"><choice><am>⁊</am><expan>et</expan></choice></w>
 <w lemma="CE" pos="Dd" n="8018">ce<choice><orig>ſ</orig><reg>s</reg></choice></w>
@@ -10447,7 +10449,7 @@ gı<choice><orig>ſt en ſon lıt ſ</orig><reg>st en son lıt s</reg></choice>e
 <w lemma="PAUVRE" pos="Ag" n="8188">poure</w>
 <w lemma="DE" pos="S" n="8189"><choice><orig></orig><reg>d</reg></choice>e</w>
 <w lemma="CAUSE" pos="Nc" n="8190">cau<choice><orig>ſ</orig><reg>s</reg></choice>e</w>
-<w lemma="INC" pos="Inconnu" n="8191">c<choice><orig>ıteaı</orig><reg>iteai</reg></choice>ne</w>
+<w lemma="CITOYEN" pos="Ag" n="8191">c<choice><orig>ıteaı</orig><reg>iteai</reg></choice>ne</w>
 <w lemma="." pos="Fs" n="8192">.</w>
 					<lb facs="#facs_27_r1l14"/>
 <w lemma="IL" pos="Pp" n="8193"><choice><orig>ı</orig><reg>i</reg></choice>l</w>
@@ -10455,7 +10457,7 @@ gı<choice><orig>ſt en ſon lıt ſ</orig><reg>st en son lıt s</reg></choice>e
 <w lemma="DE" pos="S" n="8195"><choice><orig></orig><reg>d</reg></choice>e</w>
 <w lemma="TOUT" pos="Di" n="8196">toz</w>
 <w lemma="SON" pos="Ds" n="8197"><choice><orig>ſeſ</orig><reg>ses</reg></choice></w>
-<w lemma="INC" pos="Inconnu" n="8198">cha<lb break="no" facs="#facs_27_r1l15"/>tex</w>
+<w lemma="CHATEL" pos="Nc" n="8198">cha<lb break="no" facs="#facs_27_r1l15"/>tex</w>
 <w lemma="." pos="Fs" n="8199">.</w>
 <w lemma="ET" pos="Cc" n="8200">E</w>
 <w lemma="SI" pos="Cs" n="8201"><choice><orig>ſ</orig><reg>s</reg></choice>e</w>
@@ -10541,13 +10543,13 @@ gı<choice><orig>ſt en ſon lıt ſ</orig><reg>st en son lıt s</reg></choice>e
 <w lemma="DE+LE" pos="S+Da" n="8265"><choice><orig>eſ</orig><reg>des</reg></choice></w>
 <w lemma="CHÂTEAU" pos="Nc" n="8266">chatex</w>
 <w lemma="À" pos="S" n="8267">a</w>
-<w lemma="INC" pos="Inconnu" n="8268">cels</w>
+<w lemma="CELUI" pos="Pd" n="8268">cels</w>
 					<lb facs="#facs_27_r1l29"/>
 <w lemma="QUI" pos="Pr" n="8269">qui</w>
 <w lemma="EN" pos="S" n="8270">en</w>
 <w lemma="INC" pos="Inconnu" n="8271">la<choice><orig>ſıſ</orig><reg>sis</reg></choice>e</w>
 <w lemma="ÊTRE" pos="Vuc" n="8272"><choice><orig>ſ</orig><reg>s</reg></choice>ont</w>
-<w lemma="INC" pos="Inconnu" n="8273">chao<choice><orig>ı</orig><reg>i</reg></choice>t</w>
+<w lemma="CHATEL" pos="Nc" n="8273">chao<choice><orig>ı</orig><reg>i</reg></choice>t</w>
 					<lb facs="#facs_27_r2l1"/>
 <w lemma="EN" pos="S" n="8274">en</w>
 <w lemma="LE" pos="Da" n="8275">la</w>
@@ -10954,7 +10956,7 @@ gı<choice><orig>ſt en ſon lıt ſ</orig><reg>st en son lıt s</reg></choice>e
 <w lemma="." pos="Fs" n="8623">.</w>
 <w lemma="ET" pos="Cc" n="8624"><choice><am>⁊</am><expan>et</expan></choice></w>
 					<lb facs="#facs_28_r2l5"/>
-<w lemma="INC" pos="Inconnu" n="8625">muert</w>
+<w lemma="MOURIR" pos="Vvc" n="8625">muert</w>
 <w lemma="AINSI" pos="Rg" n="8626">e<choice><orig>ınſſı</orig><reg>inssi</reg></choice></w>
 <w lemma="." pos="Fs" n="8627">.</w>
 <w lemma="ET" pos="Cc" n="8628">E</w>
@@ -11284,7 +11286,7 @@ gı<choice><orig>ſt en ſon lıt ſ</orig><reg>st en son lıt s</reg></choice>e
 					<lb facs="#facs_29_r3l2"/>
 <w lemma="LE" pos="Da" n="8910">le<choice><orig>ſ</orig><reg>s</reg></choice></w>
 <w lemma="ÉGLISE" pos="Nc" n="8911"><choice><orig>ẏglıſ</orig><reg>yglis</reg></choice>es</w>
-<w lemma="INC" pos="Inconnu" n="8912">tan<choice><orig>ꝛoı</orig><reg>droi</reg></choice>ent</w>
+<w lemma="TENIR" pos="Vvc" n="8912">tan<choice><orig>ꝛoı</orig><reg>droi</reg></choice>ent</w>
 <w lemma="À" pos="S" n="8913">a</w>
 <w lemma="PAR" pos="S" n="8914">par</w>
 					<lb facs="#facs_29_r3l3"/>
@@ -11889,7 +11891,7 @@ gı<choice><orig>ſt en ſon lıt ſ</orig><reg>st en son lıt s</reg></choice>e
 <w lemma="SON" pos="Ds" n="9430"><choice><orig>ſ</orig><reg>s</reg></choice>on</w>
 <w lemma="HOMME" pos="Nc" n="9431">home</w>
 <w lemma="ET" pos="Cc" n="9432"><choice><am>⁊</am><expan>et</expan></choice></w>
-<w lemma="INC" pos="Inconnu" n="9433">iug<choice><orig>ı</orig><reg>i</reg></choice>er</w>
+<w lemma="JUGER" pos="Vvn" n="9433">iug<choice><orig>ı</orig><reg>i</reg></choice>er</w>
 <w lemma="PAR" pos="S" n="9434">par</w>
 <w lemma="SON" pos="Ds" n="9435"><choice><orig>ſ</orig><reg>s</reg></choice>a</w>
 					<lb facs="#facs_31_r1l4"/>
@@ -12115,7 +12117,7 @@ gı<choice><orig>ſt en ſon lıt ſ</orig><reg>st en son lıt s</reg></choice>e
 <w lemma="IL" pos="Pp" n="9621"><choice><orig>ı</orig><reg>i</reg></choice>l</w>
 					<w lemma="À+LE" pos="S+Da" n="9622">au<choice><am> ᪲</am><expan>ra</expan></choice></w>
 					<lb facs="#facs_31_r2l8"/>
-<w lemma="INC" pos="Inconnu" n="9623">co<choice><orig>ſ</orig><reg>s</reg></choice>pe</w>
+<w lemma="COUPER" pos="Ge" n="9623">co<choice><orig>ſ</orig><reg>s</reg></choice>pe</w>
 <w lemma="NE" pos="Rp" n="9624">ne</w>
 <w lemma="ÊTRE" pos="Vuc" n="9625"><choice><orig>ſ</orig><reg>s</reg></choice>era</w>
 <w lemma="REMUER" pos="Ge" n="9626">remue</w>
@@ -12634,7 +12636,7 @@ gı<choice><orig>ſt en ſon lıt ſ</orig><reg>st en son lıt s</reg></choice>e
 <w lemma="COUR" pos="Nc" n="10052">co<choice><orig>ꝛ</orig><reg>r</reg></choice>t</w>
 <w lemma="À+LE" pos="S+Da" n="10053">al</w>
 <w lemma="CHEVALIER" pos="Nc" n="10054">cheual<choice><orig>ı</orig><reg>i</reg></choice>ers</w>
-<w lemma="INC" pos="Inconnu" n="10055">cel<choice><orig>ſ</orig><reg>s</reg></choice></w>
+<w lemma="CELUI" pos="Pd" n="10055">cel<choice><orig>ſ</orig><reg>s</reg></choice></w>
 <w lemma="QUI" pos="Pr" n="10056"><choice><am>qͥ</am><expan>qui</expan></choice></w>
 					<lb facs="#facs_33_r1l11"/>
 <w lemma="NE" pos="Rp" n="10057">n</w>
@@ -12658,7 +12660,8 @@ gı<choice><orig>ſt en ſon lıt ſ</orig><reg>st en son lıt s</reg></choice>e
 <w lemma="AUCUN" pos="Pi" n="10072">au<lb break="no" facs="#facs_33_r1l14"/>cun<choice><orig>ſ</orig><reg>s</reg></choice></w>
 <w lemma="ÊTRE" pos="Vuc" n="10073">fu<choice><orig>ſ</orig><reg>s</reg></choice>t</w>
 <w lemma="RESTER" pos="Ge" n="10074">re<choice><orig>ſ</orig><reg>s</reg></choice>tez</w>
-<w lemma="INC" pos="Inconnu" n="10075"><choice><orig></orig><reg>d</reg></choice>aucune</w>
+<w lemma="DE" pos="S" n="10075"><choice><orig></orig><reg>d</reg></choice></w>
+	<w lemma="AUCUN" pos="Di" n="2529">aucune</w>
 					<lb facs="#facs_33_r1l15"/>
 <w lemma="CHOSE" pos="Nc" n="10076">cho<choice><orig>ſ</orig><reg>s</reg></choice>e</w>
 <w lemma="." pos="Fs" n="10077">.</w>
@@ -12937,7 +12940,8 @@ gı<choice><orig>ſt en ſon lıt ſ</orig><reg>st en son lıt s</reg></choice>e
 <w lemma="DE" pos="S" n="10316"><choice><orig></orig><reg>d</reg></choice>e</w>
 <w lemma="PLET" pos="Nc" n="10317">pl<lb break="no" facs="#facs_33_r2l24"/>ez</w>
 					<lb facs="#facs_34_r1l10"/>
-<w lemma="INC" pos="Inconnu" n="10318">Dacu<choice><orig>ſ</orig><reg>s</reg></choice>ement</w>
+<w lemma="DE" pos="S" n="10318">D</w>
+	<w lemma="ACCUSEMENT" pos="Nc" n="10318">acu<choice><orig>ſ</orig><reg>s</reg></choice>ement</w>
 <w lemma="DE" pos="S" n="10319"><choice><orig></orig><reg>d</reg></choice>e</w>
 					<lb facs="#facs_34_r1l11"/>
 <w lemma="SERGENT" pos="Nc" n="10320"><choice><orig>ſ</orig><reg>s</reg></choice>erg<choice><am>ē</am><expan>en</expan></choice>t</w>
@@ -13318,7 +13322,7 @@ gı<choice><orig>ſt en ſon lıt ſ</orig><reg>st en son lıt s</reg></choice>e
 <w lemma="QUI" pos="Pr" n="10639">qu<choice><orig>ı</orig><reg>i</reg></choice></w>
 <w lemma="SI" pos="Cs" n="10640"><choice><orig>ſı</orig><reg>si</reg></choice></w>
 <w lemma="INC" pos="Inconnu" n="10641"><choice><orig>eſ</orig><reg>des</reg></choice>leal<lb break="no" facs="#facs_35_r1l14"/>ment</w>
-<w lemma="INC" pos="Inconnu" n="10642">iugero<choice><orig>ı</orig><reg>i</reg></choice>ent</w>
+<w lemma="JUGER" pos="Vvc" n="10642">iugero<choice><orig>ı</orig><reg>i</reg></choice>ent</w>
 <w lemma="." pos="Fs" n="10643">.</w>
 <w lemma="ÊTRE" pos="Vuc" n="10644">fu<choice><orig>ſſ</orig><reg>ss</reg></choice><choice><am>ē</am><expan>en</expan></choice>t</w>
 					<lb facs="#facs_35_r1l15"/>
@@ -13900,7 +13904,7 @@ gı<choice><orig>ſt en ſon lıt ſ</orig><reg>st en son lıt s</reg></choice>e
 <w lemma="IL" pos="Pp" n="11113"><c facs="#facs_36_r2l15">I</c>l</w>
 <w lemma="INC" pos="Inconnu" n="11114"><choice><orig>ıſ</orig><reg>dis</reg></choice>trent</w>
 <w lemma="QUE" pos="Cs" n="11115">que</w>
-<w lemma="INC" pos="Inconnu" n="11116">c<choice><orig>ıſ</orig><reg>is</reg></choice>t</w>
+<w lemma="CIST" pos="Dd" n="11116">c<choice><orig>ıſ</orig><reg>is</reg></choice>t</w>
 <w lemma="PLAID" pos="Nc" n="11117">plet</w>
 					<lb facs="#facs_36_r2l17"/>
 <w lemma="APPARTENIR" pos="Vvc" n="11118">a<choice><am>p̲</am><expan>par</expan></choice>t<choice><orig>ı</orig><reg>i</reg></choice>enent</w>
@@ -14661,7 +14665,7 @@ gı<choice><orig>ſt en ſon lıt ſ</orig><reg>st en son lıt s</reg></choice>e
 <w lemma="⸿" pos="Fs" n="11766">&#11839;</w>
 <w lemma="SI" pos="Cs" n="11767">Se</w>
 					<lb facs="#facs_38_r2l8"/>
-<w lemma="INC" pos="Inconnu" n="11768">cel<choice><orig>ſ</orig><reg>s</reg></choice></w>
+<w lemma="CELUI" pos="Pd" n="11768">cel<choice><orig>ſ</orig><reg>s</reg></choice></w>
 <w lemma="QUI" pos="Pr" n="11769">qu<choice><orig>ı</orig><reg>i</reg></choice></w>
 <w lemma="FUIR" pos="Vvc" n="11770">fuient</w>
 <w lemma="AVOIR" pos="Vuc" n="11771">a</w>
@@ -15227,7 +15231,7 @@ angu<choice><orig>ı</orig><reg>i</reg></choice>er</w>
 					<lb facs="#facs_40_r1l11"/>
 <w lemma="GÉ" pos="Np" n="12243">ge</w>
 <w lemma="." pos="Fs" n="12244">.</w>
-<w lemma="INC" pos="Inconnu" n="12245">C<choice><orig>ıſ</orig><reg>is</reg></choice>t</w>
+<w lemma="CIST" pos="Dd" n="12245">c<choice><orig>ıſ</orig><reg>is</reg></choice>t</w>
 <w lemma="RECONNAÎTRE" pos="Ga" n="12246">requeno<choice><orig>ıſſ</orig><reg>iss</reg></choice>ant</w>
 					<lb facs="#facs_40_r1l12"/>
 <w lemma="NOMMER" pos="Vvc" n="12247">nont</w>
@@ -15471,7 +15475,7 @@ angu<choice><orig>ı</orig><reg>i</reg></choice>er</w>
 <w lemma="DEVANT" pos="Rg" n="12447"><choice><orig></orig><reg>d</reg></choice>evant</w>
 <w lemma="." pos="Fs" n="12448">.</w>
 					<lb facs="#facs_40_r2l17"/>
-<w lemma="INC" pos="Inconnu" n="12449">C<choice><orig>ıſ</orig><reg>is</reg></choice>t</w>
+<w lemma="CIST" pos="Dd" n="12449">c<choice><orig>ıſ</orig><reg>is</reg></choice>t</w>
 <w lemma="METTRE" pos="Vvc" n="12450">me<choice><orig>ıſ</orig><reg>is</reg></choice>mes</w>
 <w lemma="INC" pos="Inconnu" n="12451">re<choice><am>q¯</am><expan>que</expan></choice>no<choice><orig>ıſſ</orig><reg>iss</reg></choice><choice><am>ā</am><expan>an</expan></choice>z</w>
 					<lb facs="#facs_40_r2l18"/>
@@ -17424,7 +17428,7 @@ angu<choice><orig>ı</orig><reg>i</reg></choice>er</w>
 <w lemma="DEDANS" pos="S" n="14124"><choice><orig>e</orig><reg>ded</reg></choice>anz</w>
 <w lemma="ÂGE" pos="Nc" n="14125">aage</w>
 <w lemma="NE" pos="Rp" n="14126">ne</w>
-<w lemma="INC" pos="Inconnu" n="14127">mue<choice><orig>ı</orig><reg>i</reg></choice>t</w>
+<w lemma="MOURIR" pos="Vvc" n="14127">mue<choice><orig>ı</orig><reg>i</reg></choice>t</w>
 					<lb facs="#facs_46_r1l11"/>
 <w lemma="PLAID" pos="Nc" n="14128">plet</w>
 <w lemma="AINS" pos="Rg" n="14129">a<choice><orig>ı</orig><reg>i</reg></choice>nz</w>
@@ -17485,7 +17489,7 @@ angu<choice><orig>ı</orig><reg>i</reg></choice>er</w>
 				<head>
 					<lb facs="#facs_46_r1l18"/>
 <w lemma="DE" pos="S" n="14176"><choice><orig></orig><reg>d</reg></choice>e</w>
-<w lemma="INC" pos="Inconnu" n="14177"><choice><orig></orig><reg>d</reg></choice>oe<lb break="no" facs="#facs_46_r1l19"/>res</w>
+<w lemma="DOUAIRE" pos="Nc" n="14177"><choice><orig></orig><reg>d</reg></choice>oe<lb break="no" facs="#facs_46_r1l19"/>res</w>
 
 				</head>
 				<p>
@@ -17591,11 +17595,11 @@ angu<choice><orig>ı</orig><reg>i</reg></choice>er</w>
 <w lemma="LE" pos="Da" n="14265">la</w>
 <w lemma="FEMME" pos="Nc" n="14266">fa<lb break="no" facs="#facs_46_r2l6"/>me</w>
 <w lemma="ÊTRE" pos="Vuc" n="14267"><choice><orig>ſ</orig><reg>s</reg></choice>era</w>
-<w lemma="INC" pos="Inconnu" n="14268"><choice><orig></orig><reg>d</reg></choice>oee</w>
+<w lemma="DOUER" pos="Ge" n="14268"><choice><orig></orig><reg>d</reg></choice>oee</w>
 <w lemma="ET" pos="Cc" n="14269"><choice><am>⁊</am><expan>et</expan></choice></w>
-<w lemma="INC" pos="Inconnu" n="14270">tan<choice><orig></orig><reg>d</reg></choice>ra</w>
+<w lemma="TENIR" pos="Vvc" n="14270">tan<choice><orig></orig><reg>d</reg></choice>ra</w>
 <w lemma="SON" pos="Ds" n="14271"><choice><orig>ſ</orig><reg>s</reg></choice>on</w>
-<w lemma="INC" pos="Inconnu" n="14272"><choice><orig></orig><reg>d</reg></choice>oe<lb break="no" facs="#facs_46_r2l7"/>re</w>
+<w lemma="DOUAIRE" pos="Nc" n="14272"><choice><orig></orig><reg>d</reg></choice>oe<lb break="no" facs="#facs_46_r2l7"/>re</w>
 <w lemma="TANT" pos="Rg" n="14273">tant</w>
 <w lemma="COMME" pos="Cs" n="14274"><choice><am></am><expan>com</expan></choice>m</w>
 <w lemma="ELLE" pos="Pp" n="14275">elle</w>
@@ -17809,7 +17813,7 @@ angu<choice><orig>ı</orig><reg>i</reg></choice>er</w>
 <w lemma="LE" pos="Da" n="14458">l<choice><orig>ı</orig><reg>i</reg></choice></w>
 <w lemma="INC" pos="Inconnu" n="14459">u<choice><orig>ı</orig><reg>i</reg></choice>nt</w>
 <w lemma="ÊTRE" pos="Vuc" n="14460">fu</w>
-<w lemma="INC" pos="Inconnu" n="14461"><choice><orig></orig><reg>d</reg></choice>oee</w>
+<w lemma="DOUER" pos="Ge" n="14461"><choice><orig></orig><reg>d</reg></choice>oee</w>
 					<lb facs="#facs_47_r1l10"/>
 <w lemma="DE" pos="S" n="14462"><choice><orig></orig><reg>d</reg></choice>e</w>
 <w lemma="CELUI" pos="Pd" n="14463">cel</w>
@@ -17925,7 +17929,7 @@ angu<choice><orig>ı</orig><reg>i</reg></choice>er</w>
 <w lemma="LE" pos="Da" n="14563">la</w>
 <w lemma="CHOSE" pos="Nc" n="14564">cho<lb break="no" facs="#facs_47_r1l26"/><choice><orig>ſ</orig><reg>s</reg></choice>e</w>
 <w lemma="OU" pos="Cc" n="14565">ou</w>
-<w lemma="INC" pos="Inconnu" n="14566">chan<choice><orig>ı</orig><reg>i</reg></choice>a</w>
+<w lemma="CHATEL" pos="Nc" n="14566">chan<choice><orig>ı</orig><reg>i</reg></choice>a</w>
 <w lemma="OU" pos="Cc" n="14567">ou</w>
 <w lemma="INC" pos="Inconnu" n="14568">enga<choice><orig>ı</orig><reg>i</reg></choice>a</w>
 <w lemma="." pos="Fs" n="14569">.</w>
@@ -18074,9 +18078,9 @@ angu<choice><orig>ı</orig><reg>i</reg></choice>er</w>
 <w lemma="DEVOIR" pos="Vvc" n="14696"><choice><orig>oı</orig><reg>doi</reg></choice>t</w>
 <w lemma="PAS" pos="Rp" n="14697">pa<choice><orig>ſ</orig><reg>s</reg></choice></w>
 <w lemma="ÊTRE" pos="Vun" n="14698">e<choice><orig>ſ</orig><reg>s</reg></choice>tre</w>
-<w lemma="INC" pos="Inconnu" n="14699"><choice><orig></orig><reg>d</reg></choice>oee</w>
+<w lemma="DOUER" pos="Ge" n="14699"><choice><orig></orig><reg>d</reg></choice>oee</w>
 <w lemma="EN+LE" pos="S+Da" n="14700">el</w>
-<w lemma="INC" pos="Inconnu" n="14701">che<lb break="no" facs="#facs_47_r2l21"/>uel</w>
+<w lemma="CHEVEL" pos="Nc" n="14701">che<lb break="no" facs="#facs_47_r2l21"/>uel</w>
 <w lemma="MANOIR" pos="Nc" n="14702">mano<choice><orig>ı</orig><reg>i</reg></choice>r</w>
 <w lemma="." pos="Fs" n="14703">.</w>
 <w lemma="SI" pos="Cs" n="14704"><choice><orig>ſ</orig><reg>s</reg></choice>e</w>
@@ -18108,7 +18112,7 @@ angu<choice><orig>ı</orig><reg>i</reg></choice>er</w>
 <w lemma="POUVOIR" pos="Vvc" n="14727">puet</w>
 <w lemma="ÊTRE" pos="Vun" n="14728">e<choice><orig>ſ</orig><reg>s</reg></choice>tre</w>
 					<lb facs="#facs_47_r2l26"/>
-<w lemma="INC" pos="Inconnu" n="14729"><choice><orig></orig><reg>d</reg></choice>oee</w>
+<w lemma="DOUER" pos="Ge" n="14729"><choice><orig></orig><reg>d</reg></choice>oee</w>
 <w lemma="EN+LE" pos="S+Da" n="14730">el</w>
 <w lemma="INC" pos="Inconnu" n="14731">meno<choice><orig>ı</orig><reg>i</reg></choice>r</w>
 <w lemma="." pos="Fs" n="14732">.</w>
@@ -18394,9 +18398,9 @@ angu<choice><orig>ı</orig><reg>i</reg></choice>er</w>
 <w lemma="FEMME" pos="Nc" n="14972">fame</w>
 <w lemma="ÊTRE" pos="Vuc" n="14973"><choice><am>;̶</am><expan>est</expan></choice></w>
 					<lb facs="#facs_48_r2l14"/>
-<w lemma="INC" pos="Inconnu" n="14974"><choice><orig></orig><reg>d</reg></choice>oee</w>
+<w lemma="DOUER" pos="Ge" n="14974"><choice><orig></orig><reg>d</reg></choice>oee</w>
 <w lemma="DE" pos="S" n="14975"><choice><orig></orig><reg>d</reg></choice>e</w>
-<w lemma="INC" pos="Inconnu" n="14976">mueble</w>
+<w lemma="MEUBLE" pos="Nc" n="14976">mueble</w>
 <w lemma="ELLE" pos="Pp" n="14977">elle</w>
 <w lemma="DEVOIR" pos="Vvc" n="14978"><choice><orig>oı</orig><reg>doi</reg></choice>t</w>
 <w lemma="AVOIR" pos="Vvn" n="14979">a<lb break="no" facs="#facs_48_r2l15"/>uo<choice><orig>ı</orig><reg>i</reg></choice>r</w>
@@ -18404,7 +18408,7 @@ angu<choice><orig>ı</orig><reg>i</reg></choice>er</w>
 <w lemma="SON" pos="Ds" n="14981"><choice><orig>ſ</orig><reg>s</reg></choice>on</w>
 <w lemma="DOUAIRE" pos="Nc" n="14982"><choice><orig></orig><reg>d</reg></choice>oere</w>
 <w lemma="DE+LE" pos="S+Da" n="14983"><choice><orig></orig><reg>d</reg></choice>el</w>
-<w lemma="INC" pos="Inconnu" n="14984">mueble</w>
+<w lemma="MEUBLE" pos="Nc" n="14984">mueble</w>
 					<lb facs="#facs_48_r2l16"/>
 <w lemma="EMPRÈS" pos="S" n="14985">emp<choice><orig>ꝛeſ</orig><reg>res</reg></choice></w>
 <w lemma="LE" pos="Da" n="14986">la</w>
@@ -18415,7 +18419,7 @@ angu<choice><orig>ı</orig><reg>i</reg></choice>er</w>
 					<lb facs="#facs_48_r2l17"/>
 <w lemma="SI" pos="Cs" n="14991"><choice><orig>ſ</orig><reg>s</reg></choice>e</w>
 <w lemma="LE" pos="Da" n="14992">l<choice><orig>ı</orig><reg>i</reg></choice></w>
-<w lemma="INC" pos="Inconnu" n="14993">mueble<choice><orig>ſ</orig><reg>s</reg></choice></w>
+<w lemma="MEUBLE" pos="Nc" n="14993">mueble<choice><orig>ſ</orig><reg>s</reg></choice></w>
 <w lemma="INC" pos="Inconnu" n="14994"><choice><orig>ſoſfı</orig><reg>sosfi</reg></choice>t</w>
 <w lemma="." pos="Fs" n="14995">.</w>
 <w lemma="ET" pos="Cc" n="14996"><choice><am>⁊</am><expan>et</expan></choice></w>
@@ -18443,7 +18447,7 @@ angu<choice><orig>ı</orig><reg>i</reg></choice>er</w>
 <w lemma="ET" pos="Cc" n="15015"><choice><am>⁊</am><expan>et</expan></choice></w>
 <w lemma="SI" pos="Cs" n="15016"><choice><orig>ſ</orig><reg>s</reg></choice>e</w>
 <w lemma="LE" pos="Da" n="15017">l<choice><orig>ı</orig><reg>i</reg></choice></w>
-<w lemma="INC" pos="Inconnu" n="15018">muebles</w>
+<w lemma="MEUBLE" pos="Nc" n="15018">muebles</w>
 					<lb facs="#facs_48_r2l21"/>
 <w lemma="NE" pos="Rp" n="15019">ne</w>
 <w lemma="INC" pos="Inconnu" n="15020"><choice><orig>ſoffı</orig><reg>soffi</reg></choice>t</w>
@@ -18477,7 +18481,7 @@ angu<choice><orig>ı</orig><reg>i</reg></choice>er</w>
 <w lemma="LE" pos="Da" n="15045">l<choice><orig>ı</orig><reg>i</reg></choice></w>
 <w lemma="PLAID" pos="Nc" n="15046">plez</w>
 <w lemma="DE+LE" pos="S+Da" n="15047"><choice><orig></orig><reg>d</reg></choice>el</w>
-<w lemma="INC" pos="Inconnu" n="15048">mue<lb break="no" facs="#facs_48_r2l25"/>ble</w>
+<w lemma="MOURIR" pos="Vvc" n="15048">mue<lb break="no" facs="#facs_48_r2l25"/>ble</w>
 <w lemma="QUI" pos="Pr" n="15049">qu<choice><orig>ı</orig><reg>i</reg></choice></w>
 <w lemma="ÊTRE" pos="Vuc" n="15050">e<choice><orig>ſ</orig><reg>s</reg></choice>t</w>
 <w lemma="DONNER" pos="Ge" n="15051"><choice><orig></orig><reg>d</reg></choice>onez</w>
@@ -19289,7 +19293,7 @@ angu<choice><orig>ı</orig><reg>i</reg></choice>er</w>
 <w lemma="JOUR" pos="Nc" n="15746"><choice><orig>ıoꝛ</orig><reg>ior</reg></choice></w>
 <w lemma=":" pos="Fw" n="15747">:</w>
 <w lemma="QUI" pos="Pr" n="15748">qu<choice><orig>ı</orig><reg>i</reg></choice></w>
-<w lemma="INC" pos="Inconnu" n="15749">c<choice><am>ō</am><expan>on</expan></choice><lb break="no" facs="#facs_50_r2l28"/>t<choice><orig>ı</orig><reg>i</reg></choice>egne</w>
+<w lemma="CONTENIR" pos="Vvc" n="15749">c<choice><am>ō</am><expan>on</expan></choice><lb break="no" facs="#facs_50_r2l28"/>t<choice><orig>ı</orig><reg>i</reg></choice>egne</w>
 <w lemma="À+LE" pos="S+Da" n="15750">a<choice><orig>ſ</orig><reg>s</reg></choice></w>
 <w lemma="MOINS" pos="Rg" n="15751">mo<choice><orig>ınſ</orig><reg>ins</reg></choice></w>
 <w lemma="xv" pos="Mc" n="15752"><choice><orig>·xv·</orig><reg>xv</reg></choice></w>
@@ -19358,7 +19362,7 @@ angu<choice><orig>ı</orig><reg>i</reg></choice>er</w>
 <w lemma="EN" pos="S" n="15809">en</w>
 <w lemma="NON" pos="Rg" n="15810">non</w>
 <w lemma="DE" pos="S" n="15811"><choice><orig></orig><reg>d</reg></choice>e</w>
-<w lemma="INC" pos="Inconnu" n="15812">mueble</w>
+<w lemma="MEUBLE" pos="Nc" n="15812">mueble</w>
 <w lemma="." pos="Fs" n="15813">.</w>
 <w lemma="ET" pos="Cc" n="15814"><choice><am>⁊</am><expan>et</expan></choice></w>
 <w lemma="UN" pos="Dn" n="15815">un<choice><orig>ſ</orig><reg>s</reg></choice></w>
@@ -22570,7 +22574,7 @@ gneurs</w>
 					<lb facs="#facs_59_r2l13"/>
 <w lemma="QUE" pos="Cs" n="18550">que</w>
 <w lemma="AUCUN" pos="Pi" n="18551">aucun<choice><orig>ſ</orig><reg>s</reg></choice></w>
-<w lemma="INC" pos="Inconnu" n="18552">chalenge</w>
+<w lemma="CHATEL" pos="Nc" n="18552">chalenge</w>
 					<lb facs="#facs_59_r2l14"/>
 <w lemma="SON" pos="Ds" n="18553"><choice><orig>ſ</orig><reg>s</reg></choice>on</w>
 <w lemma="HÉRITAGE" pos="Nc" n="18554">her<choice><orig>ı</orig><reg>i</reg></choice>tage</w>
