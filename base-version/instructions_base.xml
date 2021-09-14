@@ -2605,7 +2605,7 @@
 							<w lemma="TOUT" pos="Di" n="2273">tous</w>
 							<w lemma="LE" pos="Da" n="2274">les</w>
 							<w lemma="CONSEIL" pos="Nc" n="2275">conseux</w>
-							<w lemma="ESTER/ÊTRE" pos="Ga" n="2276">estans</w>
+							<w lemma="ÊTRE" pos="Ga" n="2276">estans</w>
 							<w lemma="EN" pos="S" n="2277">en</w>
 							<w lemma="LE" pos="Da" n="2278">la</w>
 							<w lemma="COUR" pos="Nc" n="2279">court</w>
@@ -2691,7 +2691,7 @@
 							<w lemma="'" pos="Fw" n="2359">'</w>
 							<w lemma="IL" pos="Pp" n="2360">il</w>
 							<w lemma="EN" pos="Pp" n="2361">en</w>
-							<w lemma="AMAISNIER/AMENER" pos="Vvc" n="2362">amaine</w>
+							<w lemma="AMENER" pos="Vvc" n="2362">amaine</w>
 							<w lemma="PLUSIEURS" pos="Pi" n="2363">plusieurs</w>
 							<w lemma="," pos="Fw" n="2364">,</w>
 							<w lemma="LE" pos="Da" n="2365">le</w>
@@ -3846,7 +3846,7 @@
 							<w lemma="MOBILIER" pos="Ag" n="3486">mobilières</w>
 							<w lemma="ET" pos="Cc" n="3487">et</w>
 							<w lemma="DE" pos="S" n="3488">de</w>
-							<w lemma="SIMPLE/SIMPLET" pos="Ag" n="3489">simples</w>
+							<w lemma="SIMPLE" pos="Ag" n="3489">simples</w>
 							<w lemma="INJURE" pos="Nc" n="3490">injures</w>
 							<w lemma="," pos="Fw" n="3491">,</w>
 							<w lemma="DONT" pos="Pr" n="3492">dont</w>
@@ -4064,7 +4064,7 @@
 							<w lemma="EN" pos="S" n="3696">en</w>
 							<w lemma="CAS" pos="Nc" n="3697">cas</w>
 							<w lemma="DE" pos="Dp" n="3698">de</w>
-							<w lemma="DÉLAI/DÉLAIS" pos="Nc" n="3699">delays</w>
+							<w lemma="DÉLAI" pos="Nc" n="3699">delays</w>
 							<w lemma="DE" pos="S" n="3700">d</w>
 							<w lemma="'" pos="Fw" n="3701">'</w>
 							<w lemma="HÉRITAGE" pos="Nc" n="3702"
@@ -4458,7 +4458,7 @@
 							<w lemma="COMMANDEMENT" pos="Nc" n="4082">commandement</w>
 							<w lemma="QUE" pos="Cs" n="4083">que</w>
 							<w lemma="ILS" pos="Pp" n="4084">ils</w>
-							<w lemma="ALLER/VOIR/VOYER" pos="Vvc" n="4085">voient</w>
+							<w lemma="ALLER" pos="Vvc" n="4085">voient</w>
 							<w lemma="ARRIÈRE" pos="Rg" n="4086">arrière</w>
 							<w lemma="," pos="Fw" n="4087">,</w>
 							<w lemma="POUR" pos="S" n="4088">pour</w>
@@ -4811,7 +4811,7 @@
 							<w lemma="EN" pos="S" n="4424">en</w>
 							<w lemma="CAS" pos="Nc" n="4425">cas</w>
 							<w lemma="DE" pos="Dp" n="4426">de</w>
-							<w lemma="DÉLAI/DÉLAIS" pos="Nc" n="4427">delays</w>
+							<w lemma="DÉLAI" pos="Nc" n="4427">delays</w>
 							<w lemma="DE" pos="Dp" n="4428">de</w>
 							<w lemma="FIEF" pos="Nc" n="4429">fief</w>
 							<w lemma="," pos="Fw" n="4430">,</w>
@@ -4834,7 +4834,7 @@
 							<w lemma="ARRÉRAGE" pos="Nc" n="4447">arreraiges</w>
 							<w lemma="DE" pos="S" n="4448">de</w>
 							<w lemma="TROIS" pos="Mc" n="4449">trois</w>
-							<w lemma="ANNÉE/ÂNÉE" pos="Nc" n="4450">années</w>
+							<w lemma="ANNÉE" pos="Nc" n="4450">années</w>
 							<w lemma="ÉCHOIR" pos="Ge" n="4451">escheux</w>
 							<w lemma="À+LE" pos="S+Da" n="4452">au</w>
 							<w lemma="DEVANT" pos="S" n="4453">devant</w>
@@ -5364,7 +5364,7 @@
 							<w lemma="PRENDRE" pos="Ga" n="4952">prenant</w>
 							<w lemma="BON" pos="Ag" n="4953">bon</w>
 							<w lemma="PLEIGE" pos="Nc" n="4954">pleiges</w>
-							<w lemma="ESTER/ÊTRE" pos="Ga" n="4955">estans</w>
+							<w lemma="ÊTRE" pos="Ga" n="4955">estans</w>
 							<w lemma="ET" pos="Cc" n="4956">et</w>
 							<w lemma="RESÉANT" pos="Ag">resseans</w>
 							<w lemma="DE+LE" pos="S+Da" n="4958">du</w>
@@ -5831,7 +5831,7 @@
 							<w lemma="PAR" pos="S" n="5391">par</w>
 							<w lemma="AJOURNEMENT" pos="Nc" n="5392">adjournement</w>
 							<w lemma="DE" pos="Dp" n="5393">de</w>
-							<w lemma="DÉLAI/DÉLAIS" pos="Nc" n="5394">delays</w>
+							<w lemma="DÉLAI" pos="Nc" n="5394">delays</w>
 							<w lemma="DE" pos="S" n="5395">d</w>
 							<w lemma="'" pos="Fw" n="5396">'</w>
 							<w lemma="HÉRITAGE" pos="Nc" n="5397"
@@ -6067,7 +6067,7 @@
 							<w lemma="IL" pos="Pp" n="5615">les</w>
 							<w lemma="GARDER" pos="Vvc" n="5616">garde</w> [Fol. 119]<w
 								lemma="DE" pos="S" n="5617">de</w>
-							<w lemma="FORCER/FOURCHER" pos="Vvc" n="5618">forche</w>
+							<w lemma="FORCE" pos="Vvc" n="5618">forche</w>
 							<w lemma="ET" pos="Cc" n="5619">et</w>
 							<w lemma="DE" pos="Dp" n="5620">de</w>
 							<w lemma="VIOLENCE" pos="Nc" n="5621">viollence</w>
@@ -6430,9 +6430,9 @@
 							<w lemma="," pos="Fw" n="5955">,</w>
 							<w lemma="FORS" pos="S" n="5956">fors</w>
 							<w lemma="SEULEMENT" pos="Rg">sceullement</w>
-							<w lemma="INC" pos="Inconnu" n="5958">appropos</w>
+							<w lemma="À+PROPOS" pos="S+Nc" n="5958">appropos</w>
 							<w lemma="DE" pos="Dp" n="5959">de</w>
-							<w lemma="PAIEMENT/PAYEMENT" pos="Nc" n="5960">paiement</w>
+							<w lemma="PAIEMENT" pos="Nc" n="5960">paiement</w>
 							<w lemma="," pos="Fw" n="5961">,</w>
 							<w lemma="À+LEQUEL" pos="S+Pr" n="5962">ouquel</w>
 							<w lemma="CAS" pos="Nc" n="5963">cas</w>
@@ -6661,7 +6661,7 @@
 						<p> 67. — <w lemma="ITEM" pos="Rg" n="6172">Item</w>
 							<w lemma="POUR" pos="S" n="6173">pour</w>
 							<w lemma="UN" pos="Dn" n="6174">ung</w>
-							<w lemma="DÉLAI/DÉLAIS" pos="Nc" n="6175">delay</w>
+							<w lemma="DÉLAI" pos="Nc" n="6175">delay</w>
 							<w lemma="," pos="Fw" n="6176">,</w>
 							<w lemma="POUR" pos="S" n="6177">pour</w>
 							<w lemma="UN" pos="Dn" n="6178">un</w>
@@ -6825,7 +6825,7 @@
 							<w lemma="QUE" pos="Cs" n="6319">que</w>
 							<w lemma="UN" pos="Dn" n="6320">une</w>
 							<w lemma="PERSONNE" pos="Nc" n="6321">personne</w>
-							<w lemma="SEUL/SEULE" pos="Ag" n="6322">seulle</w>
+							<w lemma="SEUL" pos="Ag" n="6322">seulle</w>
 							<w lemma="." pos="Fs" n="6323">.</w>
 						</p>
 					</div>
@@ -6877,7 +6877,7 @@
 							<w lemma="DE" pos="Dp" n="6367">de</w>
 							<w lemma="PARTIE" pos="Nc" n="6368">partie</w>
 							<w lemma="AVOIR" pos="Vuc" n="6369">a</w>
-							<w lemma="TAIL/TAL/TAUD/TAUX" pos="Nc" n="6370">taux</w>
+							<w lemma="TAUX" pos="Nc" n="6370">taux</w>
 							<w lemma="RAISONNABLE" pos="Ag" n="6371">raisonnable</w>
 							<w lemma="." pos="Fs" n="6372">.</w>
 						</p>
@@ -7494,7 +7494,7 @@
 							<w lemma="'" pos="Fw" n="6925">'</w>
 							<w lemma="ÉTABLISSEMENT" pos="Nc" n="6926">establissement</w>
 							<w lemma="DE+LE" pos="S+Da" n="6927">du</w>
-							<w lemma="ROI/ROIS" pos="Nc" n="6928">roy</w>
+							<w lemma="ROI" pos="Nc" n="6928">roy</w>
 							<w lemma="LOUIS" pos="Np" n="6929">Loys</w>
 							<w lemma="TRANSCRIRE" pos="Vvc" n="6930">transcrips</w>
 							<w lemma="EN" pos="S" n="6931">en</w>
@@ -8208,7 +8208,7 @@
 							<w lemma="SERGENT" pos="Nc" n="7606">sergent</w>
 							<w lemma="DEVOIR" pos="Vvc" n="7607">doit</w>
 							<w lemma="METTRE" pos="Vvn" n="7608">mettre</w>
-							<w lemma="APART/APPART" pos="Nc" n="7609">appart</w>
+							<w lemma="À+PART" pos="S+Nc" n="7609">appart</w>
 							<w lemma="UN" pos="Dp" n="7610">des</w>
 							<w lemma="GENS" pos="Nc" n="7611">gens</w>
 							<w lemma="JUSQUE" pos="S" n="7612">jusques</w>
@@ -8229,7 +8229,7 @@
 							<w lemma="," pos="Fw" n="7627">,</w>
 							<w lemma="ICELUI" pos="Pd" n="7628">iceulx</w>
 							<w lemma="METTRE" pos="Ge" n="7629">mis</w>
-							<w lemma="APART/APPART" pos="Nc" n="7630">appart</w>
+							<w lemma="À+PART" pos="S+Nc" n="7630">appart</w>
 							<w lemma="," pos="Fw" n="7631">,</w>
 							<w lemma="LE" pos="Da" n="7632">le</w>
 							<w lemma="SERGENT" pos="Nc" n="7633">sergent</w>
@@ -8469,7 +8469,7 @@
 							<w lemma="SAINT" pos="Np" n="7857">Saint</w>
 							<w lemma="OUEN" pos="Np" n="7858">Oen</w>
 							<w lemma="DE" pos="S" n="7859">de</w>
-							<w lemma="ROUEN/ROUËN" pos="Np" n="7860">Rouen</w>
+							<w lemma="ROUEN" pos="Np" n="7860">Rouen</w>
 							<w lemma="," pos="Fw" n="7861">,</w>
 							<w lemma="AVOIR" pos="Vuc" n="7862">a</w>
 							<w lemma="CAUSE" pos="Nc" n="7863">cause</w>
@@ -8484,7 +8484,7 @@
 							<w lemma="PLUSIEURS" pos="Di" n="7871">plusieurs</w>
 							<w lemma="RENTE" pos="Nc" n="7872">rentes</w>
 							<w lemma="," pos="Fw" n="7873">,</w>
-							<w lemma="FAISANCE/FAISANCES" pos="Nc" n="7874">faisances</w>
+							<w lemma="FAISANCE" pos="Nc" n="7874">faisances</w>
 							<w lemma="ET" pos="Cc" n="7875">et</w>
 							<w lemma="REDEVANCE" pos="Nc" n="7876">redevances</w>
 							<w lemma=";" pos="Fw" n="7877">;</w>
@@ -9193,7 +9193,7 @@
 							<w lemma="'" pos="Fw" n="8546">'</w>
 							<w lemma="EN" pos="Pp" n="8547">en</w>
 							<w lemma="FAIRE" pos="Vvn" n="8548">faire</w>
-							<w lemma="PAIEMENT/PAYEMENT" pos="Nc" n="8549">paiement</w>
+							<w lemma="PAIEMENT" pos="Nc" n="8549">paiement</w>
 							<w lemma="ET" pos="Cc" n="8550">et</w>
 							<w lemma="SATISFAIRE" pos="Vvc" n="8551">satisfacion</w>
 							<w lemma="." pos="Fs" n="8552">.</w>
@@ -9210,7 +9210,7 @@
 							<w lemma="DEVOIR" pos="Vvc" n="8563"
 								>devez</w>
 							<w lemma="FAIRE" pos="Vvn" n="8564">faire</w>
-							<w lemma="PAIEMENT/PAYEMENT" pos="Nc" n="8565">paiement</w>
+							<w lemma="PAIEMENT" pos="Nc" n="8565">paiement</w>
 							<w lemma="ET" pos="Cc" n="8566">et</w>
 							<w lemma="SATISFAIRE" pos="Vvc" n="8567">satisfacion</w>
 							<w lemma=";" pos="Fw" n="8568">;</w>
@@ -9228,7 +9228,7 @@
 							<w lemma="," pos="Fw" n="8579">,</w>
 							<w lemma="VÉRIFIER" pos="Vvc" n="8580">veriffier</w>
 							<w lemma="OU" pos="Cc" n="8581">ou</w>
-							<w lemma="ENSAIGNER/ENSEIGNER" pos="Vvn" n="8582">enseigner</w>
+							<w lemma="ENSEIGNER" pos="Vvn" n="8582">enseigner</w>
 							<w lemma="TANT" pos="Rg" n="8583">tant</w>
 							<w lemma="DE" pos="S" n="8584">de</w>
 							<w lemma="FAIT" pos="Nc" n="8585">fait</w>
@@ -9314,7 +9314,7 @@
 							<w lemma="VOUS" pos="Pp" n="8658">vous</w>
 							<w lemma="EN" pos="Pp" n="8659">en</w>
 							<w lemma="FAIRE" pos="Vvc" n="8660">feroye</w>
-							<w lemma="PAIEMENT/PAYEMENT" pos="Nc" n="8661">paiement</w>
+							<w lemma="PAIEMENT" pos="Nc" n="8661">paiement</w>
 							<w lemma="ET" pos="Cc" n="8662">et</w>
 							<w lemma="SATISFAIRE" pos="Vvc" n="8663">satisfacion</w>
 							<w lemma="," pos="Fw" n="8664">,</w>
@@ -9350,7 +9350,7 @@
 							<w lemma="JE" pos="Pp" n="8693">je</w>
 							<w lemma="VOUS" pos="Pp" n="8694">vous</w>
 							<w lemma="FAIRE" pos="Vvc" n="8695">fis</w>
-							<w lemma="PAIEMENT/PAYEMENT" pos="Nc" n="8696">paiement</w>
+							<w lemma="PAIEMENT" pos="Nc" n="8696">paiement</w>
 							<w lemma="PRÉSENTEMENT" pos="Rg" n="8697">presentement</w>
 							<w lemma="ET" pos="Cc" n="8698">et</w>
 							<w lemma="SATISFAIRE" pos="Vvc" n="8699">satisfacion</w>
@@ -9412,7 +9412,7 @@
 							<w lemma="AVOIR" pos="Vuc" n="8750">a</w>
 							<w lemma="EN" pos="Pp" n="8751">en</w>
 							<w lemma="FAIRE" pos="Vvn" n="8752">faire</w>
-							<w lemma="PAIEMENT/PAYEMENT" pos="Nc" n="8753">paiement</w>
+							<w lemma="PAIEMENT" pos="Nc" n="8753">paiement</w>
 							<w lemma="ET" pos="Cc" n="8754">et</w>
 							<w lemma="SATISFAIRE" pos="Vvc" n="8755">satisfacion</w>
 							<w lemma="," pos="Fw" n="8756">,</w>
@@ -9967,7 +9967,7 @@
 							<w lemma="TROUVER" pos="Vvc" n="9274">treuve</w>
 							<w lemma="LORS" pos="Rg" n="9275">lors</w>
 							<w lemma="AUCUN" pos="Pi" n="9276">aucun</w>
-							<w lemma="ESTER/ÊTRE" pos="Ga" n="9277">estant</w>
+							<w lemma="ÊTRE" pos="Ga" n="9277">estant</w>
 							<w lemma="EN" pos="S" n="9278">en</w>
 							<w lemma="JUGEMENT" pos="Nc" n="9279">jugement</w>
 							<w lemma="," pos="Fw" n="9280">,</w>
@@ -10231,7 +10231,7 @@
 									><choice><sic>[s]</sic><corr>s</corr></choice></w>
 							<w lemma="EN" pos="Pp" n="9523">en</w>
 							<w lemma="FAIRE" pos="Vvn" n="9523">faire</w>
-							<w lemma="PAIEMENT/PAYEMENT" pos="Nc" n="9524">paiement</w>
+							<w lemma="PAIEMENT" pos="Nc" n="9524">paiement</w>
 							<w lemma="," pos="Fw" n="9525">,</w>
 							<w lemma="CONNAÎTRE" pos="Ge" n="9526">congnu</w>
 							<w lemma="ET" pos="Cc" n="9527">et</w>
@@ -10304,7 +10304,7 @@
 							<w lemma="PAS" pos="Rg" n="9587">pas</w>
 							<w lemma="PROUVER" pos="Vvn" n="9588">prouver</w>
 							<w lemma="LE" pos="Da" n="9589">le</w>
-							<w lemma="PAIEMENT/PAYEMENT" pos="Nc" n="9590">paiement</w>
+							<w lemma="PAIEMENT" pos="Nc" n="9590">paiement</w>
 							<w lemma="," pos="Fw" n="9591">,</w>
 							<w lemma="NE" pos="Rp" n="9592">ne</w>
 							<w lemma="BESOIN" pos="Nc" n="9593">besoign</w>
@@ -10488,7 +10488,7 @@
 							<w lemma="DE" pos="S" n="9757">de</w>
 							<w lemma="PROUVER" pos="Vvn" n="9758">prouver</w>
 							<w lemma="LE" pos="Da" n="9759">les</w>
-							<w lemma="PAIEMENT/PAYEMENT" pos="Nc" n="9760">paiemens</w>
+							<w lemma="PAIEMENT" pos="Nc" n="9760">paiemens</w>
 							<w lemma="DE" pos="S" n="9761">de</w>
 							<w lemma="CE" pos="Pd" n="9762">ce</w>
 							<w lemma="QUE" pos="Pr" n="9763">qu</w>
@@ -10525,7 +10525,7 @@
 							<w lemma="EN" pos="Pp" n="9792">en</w>
 							<w lemma="FAIRE" pos="Vvn" n="9793">faire</w>
 							<w lemma="LE" pos="Da" n="9794">le</w>
-							<w lemma="PAIEMENT/PAYEMENT" pos="Nc" n="9795">paiement</w>
+							<w lemma="PAIEMENT" pos="Nc" n="9795">paiement</w>
 							<w lemma="," pos="Fw" n="9796">,</w>
 							<w lemma="ET CAETERA" pos="Xa" n="9797">etc</w>
 							<w lemma="." pos="Fs" n="9798">.</w>
@@ -10571,7 +10571,7 @@
 							<w lemma="EN" pos="S" n="9834">en</w>
 							<w lemma="TANT" pos="Rg" n="9835">tant</w>
 							<w lemma="COMME" pos="Cs" n="9836">comme</w>
-							<w lemma="MONTER/MONTRER" pos="Vvc" n="9837">montera</w>
+							<w lemma="MONTER" pos="Vvc" n="9837">montera</w>
 							<w lemma="SON" pos="Ds" n="9838">son</w>
 							<w lemma="FAIT" pos="Nc" n="9839">fait</w>
 							<w lemma="PERSONNEL" pos="Ag" n="9840">personnel</w>
@@ -10632,7 +10632,7 @@
 							<w lemma="EN" pos="S" n="9892">en</w>
 							<w lemma="AUTRE" pos="Di" n="9893">autres</w>
 							<w lemma="CAS" pos="Nc" n="9894">cas</w>
-							<w lemma="MOBILIAIRE/MOBILIER" pos="Ag" n="9895">mobiliaires</w>
+							<w lemma="MOBILIAIRE" pos="Ag" n="9895">mobiliaires</w>
 							<w lemma="ESPÉCIALEMENT" pos="Rg" n="9896">especialment</w>
 							<w lemma="JUSQUE" pos="S" n="9897">jusques</w>
 							<w lemma="AVOIR" pos="Vuc" n="9898">a</w>
