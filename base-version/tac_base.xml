@@ -9721,7 +9721,7 @@ gı<choice><orig>ſt en ſon lıt ſ</orig><reg>st en son lıt s</reg></choice>e
 					<lb facs="#facs_25_r1l18"/>
 <w lemma="VUE" pos="Nc" n="7566">ueu</w>
 <w lemma="LE" pos="Da" n="7567">le</w>
-<w lemma="FAIT" pos="Nc" n="7568">fet</w>
+<w lemma="FAIRE" pos="Ge" n="7568">fet</w>
 <w lemma="." pos="Fs" n="7569">.</w>
 <w lemma="ET" pos="Cc" n="7570"><choice><am>⁊</am><expan>et</expan></choice></w>
 <w lemma="AVOIR" pos="Vuc" n="7571">a<choice><orig>ı</orig><reg>i</reg></choice>t</w>
@@ -11094,7 +11094,7 @@ gı<choice><orig>ſt en ſon lıt ſ</orig><reg>st en son lıt s</reg></choice>e
 <w lemma="EN" pos="S" n="8716"><choice><am>ē</am><expan>en</expan></choice></w>
 					<lb facs="#facs_28_r2l22"/>
 <w lemma="AUMÔNE" pos="Nc" n="8717">almo<choice><orig>ſ</orig><reg>s</reg></choice>ne</w>
-<w lemma="PAR+DEVANT" pos="S+Rg" n="8718">par<choice><orig></orig><reg>d</reg></choice>euant</w>
+<w lemma="PARDEVANT" pos="S" n="8718">par<choice><orig></orig><reg>d</reg></choice>euant</w>
 <w lemma="ÉVÊQUE" pos="Nc" n="8719">e<choice><orig>ſ</orig><reg>s</reg></choice><lb break="no" facs="#facs_28_r2l23"/>ue<choice><orig>ſ</orig><reg>s</reg></choice>ques</w>
 <w lemma="ET" pos="Cc" n="8720"><choice><am>⁊</am><expan>et</expan></choice></w>
 <w lemma="INC" pos="Inconnu" n="8721">par<choice><orig></orig><reg>d</reg></choice>euant</w>
@@ -18690,7 +18690,7 @@ angu<choice><orig>ı</orig><reg>i</reg></choice>er</w>
 <w lemma="CONTRE" pos="S" n="15189"><choice><am></am><expan>con</expan></choice>tre</w>
 					<lb facs="#facs_49_r1l22"/>
 <w lemma="SON" pos="Ds" n="15190"><choice><orig>ſ</orig><reg>s</reg></choice>om</w>
-<w lemma="FAIT" pos="Nc" n="15191">fet</w>
+<w lemma="FAIRE" pos="Ge" n="15191">fet</w>
 <w lemma="." pos="Fs" n="15192">.</w>
 <w lemma="MAIS" pos="Cc" n="15193">me<choice><orig>ſ</orig><reg>s</reg></choice></w>
 <w lemma="APRÉS" pos="S" n="15194">ap<choice><orig>ꝛeſ</orig><reg>res</reg></choice></w>
@@ -23188,7 +23188,7 @@ gneurs</w>
 <w lemma="DAMNER" pos="Ge" n="19036"><choice><orig></orig><reg>d</reg></choice><choice><am>ā</am><expan>an</expan></choice>p<lb break="no" facs="#facs_61_r1l12"/>ne</w>
 <w lemma="POUR" pos="S" n="19037">po<choice><orig>ꝛ</orig><reg>r</reg></choice></w>
 <w lemma="LE" pos="Da" n="19038">le</w>
-<w lemma="FAIT" pos="Nc" n="19039">fet</w>
+<w lemma="FAIRE" pos="Ge" n="19039">fet</w>
 <w lemma="LEUR" pos="Ds" n="19040">leur</w>
 <w lemma="FRÈRE" pos="Nc" n="19041">frere</w>
 <w lemma="." pos="Fs" n="19042">.</w>
