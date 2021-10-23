@@ -5703,7 +5703,7 @@
 <w lemma="IL" pos="Pp" n="4984">il</w>
 <w lemma="INC" pos="Inconnu" n="4985">sunt</w>
 <w n="4986">i</w>
-<w n="4987">puissent</w>
+					<w lemma="POUVOIR" pos="Vvc" n="4987">puissent</w>
 <w lemma="AVENIR|AVENIR|ADVENIR|AVENIR" pos="Ag|Nc|Vvc|Vvn" n="4988">auenir</w>
 							<lb facs="#facs_25_r1l13" /><w lemma="INC" pos="Inconnu" n="4989">soufisamment</w>
 <w lemma="POUR" pos="S" n="4990">por</w>
@@ -19415,7 +19415,7 @@
 							<note type="manchette">
 								<p>
 									<lb facs="#morisse_facs_23_r4l1" />
-									<w n="17689">À</w>
+									<w lemma="À" pos="S" n="17689">À</w>
 									<w lemma="RÉSOUDRE" pos="Vvn" n="17690">resoudre</w>
 									<lb facs="#morisse_facs_23_r4l2" />
 									<w lemma="APRÈS" pos="S" n="17691">après</w>
@@ -20003,7 +20003,7 @@
 							<w lemma="DÉCÉDER" pos="Ge" n="18189">decedé</w>
 							<w lemma="." pos="Fs" n="18190">.</w>
 							<lb facs="#morisse_facs_24_r3l9" />
-							<w n="18191">À</w>
+							<w lemma="À" pos="S" n="18191">À</w>
 							<w lemma="RÉSOUDRE" pos="Vvn" n="18192">resoudre</w>
 							<w lemma="." pos="Fs" n="18193">.</w>
 						</p>
@@ -56883,7 +56883,7 @@
 <w lemma="ÉVÊQUE" pos="Nc" n="53481">eves<choice><am>q̄</am><expan>que</expan></choice>z</w>
 									<lb facs="#facs_225_r2l63" /><w lemma="OU" pos="Cc" n="53482">ou</w>
 <w lemma="LE" pos="Da" n="53483">l</w>
-<w kemma="ARCHEVÊQUE" pos="Nc" n="53484">archeves<choice><am>q̄</am><expan>que</expan></choice>z</w>
+<w lemma="ARCHEVÊQUE" pos="Nc" n="53484">archeves<choice><am>q̄</am><expan>que</expan></choice>z</w>
 <w lemma="LE" pos="Da" n="53485">les</w>
 									<lb facs="#facs_225_r2l64" /><w lemma="INC" pos="Inconnu" n="53486">enortera</w>
 <w lemma="." pos="Fs" n="53487">.</w>
@@ -56908,7 +56908,7 @@
 <w lemma="ÉVÊQUE" pos="Nc" n="53506">esve<choice><am>q̄</am><expan>que</expan></choice>z</w>
 <w lemma="OU" pos="Cc" n="53507">ou</w>
 <w lemma="LE" pos="Da" n="53508">l</w>
-<w kemma="ARCHEVÊQUE" pos="Nc" n="53509">archevesque</w>
+<w lemma="ARCHEVÊQUE" pos="Nc" n="53509">archevesque</w>
 									<lb facs="#facs_225_line_1584795728356_3624" /><w lemma="ET" pos="Cc" n="53510"><choice><am>⁊</am><expan>et</expan></choice></w>
 <w lemma="IL" pos="Pp" n="53511">li</w>
 <w lemma="BAILLIF" pos="Nc" n="53512">baillif</w>
@@ -57072,7 +57072,7 @@
 <w lemma="DONNER" pos="Ge" n="53670">donnee</w>
 									<lb facs="#facs_226_r1l15" /><w lemma="DE" pos="S" n="53671">de</w>
 <w lemma="LE" pos="Da" n="53672">l</w>
-<w kemma="ARCHEVÊQUE" pos="Nc" n="53673">archeves<choice><am>q̄</am><expan>que</expan></choice>z</w>
+<w lemma="ARCHEVÊQUE" pos="Nc" n="53673">archeves<choice><am>q̄</am><expan>que</expan></choice>z</w>
 <w lemma="OU" pos="Cc" n="53674">ou</w>
 <w lemma="DE" pos="S" n="53675">de</w>
 									<lb facs="#facs_226_r1l16" /><w lemma="LE" pos="Da" n="53676">l</w>
@@ -57349,7 +57349,7 @@
 <w lemma="DE" pos="S" n="53944">de</w>
 <w lemma="CAUX" pos="Np" n="53945">Caux</w>
 								<lb facs="#facs_227_r1l9" /><w lemma="LE" pos="Da" n="53946">l</w>
-<w kemma="ARCHEVÊQUE" pos="Nc" n="53947">archeves<choice><am>q̄</am><expan>que</expan></choice>z</w>
+<w lemma="ARCHEVÊQUE" pos="Nc" n="53947">archeves<choice><am>q̄</am><expan>que</expan></choice>z</w>
 <w lemma="SE" pos="Pp" cert="medium" n="53948">se</w>
 <w lemma="DÉFAILLIR" pos="Ge" n="53949">defalli</w>
 								<lb facs="#facs_227_r1l10" /><w lemma="AVOIR" pos="Vuc" cert="medium" n="53950">a</w>
@@ -57369,7 +57369,7 @@
 								<lb facs="#facs_227_r1l14" /><w lemma="ET" pos="Cc" n="53964"><choice><am>⁊</am><expan>et</expan></choice></w>
 <w lemma="QUE" pos="Cs" n="53965"><choice><am>q̄</am><expan>que</expan></choice></w>
 <w lemma="LE" pos="Da" n="53966">l</w>
-<w kemma="ARCHEVÊQUE" pos="Nc" n="53967">archeves<choice><am>q̄</am><expan>que</expan></choice>z</w>
+<w lemma="ARCHEVÊQUE" pos="Nc" n="53967">archeves<choice><am>q̄</am><expan>que</expan></choice>z</w>
 <w lemma="INC" pos="Inconnu" n="53968">ni<lb break="no" facs="#facs_227_r1l16" />seroit</w>
 <w lemma="PLUS" pos="Rg" n="53969">pluz</w>
 <w lemma="ATTENDRE" pos="Ge" n="53970">atendu</w>
@@ -58372,7 +58372,7 @@
 <w lemma="SI" pos="Cs" n="54943">si</w>
 <w lemma="QUE" pos="Cs" n="54944">que</w>
 <w lemma="LE" pos="Da" n="54945">l</w>
-<w kemma="ARCHEVÊQUE" pos="Nc" n="54946">archeves<choice><am>q̄</am><expan>que</expan></choice></w>
+<w lemma="ARCHEVÊQUE" pos="Nc" n="54946">archeves<choice><am>q̄</am><expan>que</expan></choice></w>
 <w lemma="OU" pos="Cc" n="54947">ou</w>
 <w lemma="LE" pos="Da" n="54948">l</w>
 <w lemma="ÉVÊQUE" pos="Nc" n="54949">evesque</w>
