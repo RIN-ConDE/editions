@@ -6314,10 +6314,10 @@
 								<w lemma="DÉLIVRANCE" pos="Nc" n="5565">delivrance</w>
 								<w lemma="DE" pos="S" n="5566">de</w>
 								<w lemma="LE" pos="Da" n="5567">l</w>
-	<w lemma="'" pos="Fw" n="5568">'</w>
+	<w lemma="’" pos="Fw" n="5568">’</w>
 								<w lemma="EFFET" pos="Nc" n="5569">effet</w>
 								<w lemma="DE" pos="S" n="5570">d</w>
-								<w lemma="'" pos="Fw" n="5571">'</w>
+								<w lemma="’" pos="Fw" n="5571">’</w>
 								<w lemma="ICELLE|ICELUI|ICELUI" pos="Pd" n="5572">icelle</w>
 								<w lemma="." pos="Fs" n="5573">.</w>
 							</p>
@@ -6337,7 +6337,7 @@
 									<w lemma="ET_CAETERA" pos="Xa" n="5584">etc</w>
 									<w lemma="," pos="Fw" n="5585">,</w>
 									<w lemma="QUE" pos="Cs" n="5586">qu</w>
-									<w lemma="'" pos="Fw" n="5587">'</w>
+									<w lemma="’" pos="Fw" n="5587">’</w>
 									<w lemma="IL" pos="Pp" n="5588">il</w>
 									<w lemma="FAIRE" pos="Vvc" n="5589">fait</w>
 									<w lemma="À" pos="S" n="5590">à</w>
@@ -6383,7 +6383,7 @@
 									<w lemma="ET" pos="Cc" n="5627">Et</w>
 									<w lemma="SE" pos="Pp" cert="medium" n="5628">se</w>
 									<w lemma="LE" pos="Da" n="5629">l</w>
-	<w lemma="'" pos="Fw" n="5630">'</w>
+	<w lemma="’" pos="Fw" n="5630">’</w>
 									<w lemma="EXÉCUTER" pos="Ga" n="5631">executant</w>
 									<w lemma="SE" pos="Pp" cert="medium" n="5632">se</w>
 									<w lemma="DÉFAUT" pos="Nc" n="5633">deffault</w>
@@ -6407,7 +6407,7 @@
 									<w lemma="AUTRE" pos="Di" cert="medium" n="5649">autre</w>
 	<w lemma="EXÉCUTION" pos="Nc" n="5650">execucion</w>
 									<w lemma="SE" pos="Cs" n="5651">s</w>
-									<w lemma="'" pos="Fw" n="5652">'</w>
+									<w lemma="’" pos="Fw" n="5652">’</w>
 									<w lemma="IL" pos="Pp" n="5653">il</w>
 									<w lemma="VOULOIR" pos="Vvc" n="5654">veult</w>
 									<w lemma="EN" pos="S" cert="medium" n="5655">en</w>
@@ -6431,11 +6431,11 @@
 									<w lemma="CONTESTER" pos="Ge" n="5672">contesté</w>
 									<lb facs="#morisse_facs_1_r3l8" />
 									<w lemma="LE" pos="Da" n="5673">l</w>
-	<w lemma="'" pos="Fw" n="5674">'</w>
+	<w lemma="’" pos="Fw" n="5674">’</w>
 									<w lemma="UN" pos="Dn" n="5675">un</w>
 									<w lemma="VERS" pos="S" n="5676">vers</w>
 									<w lemma="LE" pos="Da" n="5677">l</w>
-	<w lemma="'" pos="Fw" n="5678">'</w>
+	<w lemma="’" pos="Fw" n="5678">’</w>
 									<w lemma="AUTRE" pos="Pi" cert="medium" n="5679">autre</w>
 	<w lemma="." pos="Fs" n="5680">.</w>
 									<w lemma="IL" pos="Pp" n="5681">Il</w>
@@ -6447,18 +6447,18 @@
 									<w lemma="TANT" pos="Rg" n="5687">tant</w>
 									<w lemma="À" pos="S" n="5688">à</w>
 									<w lemma="LE" pos="Da" n="5689">l</w>
-	<w lemma="'" pos="Fw" n="5690">'</w>
+	<w lemma="’" pos="Fw" n="5690">’</w>
 									<w lemma="EXÉCUTER" pos="Ga" n="5691">executant</w>
 									<lb facs="#morisse_facs_1_r3l9" />
 									<w lemma="QUE" pos="Cs" n="5692">que</w>
 									<w lemma="LE" pos="Da" n="5693">l</w>
-	<w lemma="'" pos="Fw" n="5694">'</w>
+	<w lemma="’" pos="Fw" n="5694">’</w>
 									<w lemma="EXÉCUTER" pos="Ge" n="5695">executé</w>
 									<w lemma="ET" pos="Cc" n="5696">et</w>
 									<w lemma="," pos="Fw" n="5697">,</w>
 									<w lemma="SE" pos="Pp" cert="medium" n="5698">se</w>
 									<w lemma="LE" pos="Da" n="5699">l</w>
-	<w lemma="'" pos="Fw" n="5700">'</w>
+	<w lemma="’" pos="Fw" n="5700">’</w>
 									<w lemma="EXÉCUTER" pos="Ga" n="5701">executant</w>
 									<w lemma="ÊTRE" pos="Vuc" n="5702">est</w>
 									<w lemma="METTRE" pos="Ge" n="5703">mis</w>
@@ -6466,7 +6466,7 @@
 	<w lemma="AMENDE" pos="Nc" n="5705">amende</w>
 									<w lemma="," pos="Fw" n="5706">,</w>
 									<w lemma="LE" pos="Da" n="5707">l</w>
-	<w lemma="'" pos="Fw" n="5708">'</w>
+	<w lemma="’" pos="Fw" n="5708">’</w>
 									<w lemma="EXÉCUTER" pos="Ge" n="5709">executé</w>
 									<w lemma="AVOIR" pos="Vuc" n="5710">aura</w>
 									<lb facs="#morisse_facs_1_r3l10" />
@@ -6491,7 +6491,7 @@
 									<w lemma="," pos="Fw" n="5728">,</w>
 									<w lemma="SE" pos="Pp" cert="medium" n="5729">se</w>
 									<w lemma="LE" pos="Da" n="5730">l</w>
-	<w lemma="'" pos="Fw" n="5731">'</w>
+	<w lemma="’" pos="Fw" n="5731">’</w>
 									<w lemma="EXÉCUTER" pos="Ge" n="5732">executé</w>
 									<w lemma="ÊTRE" pos="Vuc" n="5733">est</w>
 									<w lemma="METTRE" pos="Ge" n="5734">mis</w>
@@ -6504,7 +6504,7 @@
 									<lb facs="#morisse_facs_1_r3l12" />
 									<w lemma="DE" pos="S" n="5741">de</w>
 									<w lemma="LE" pos="Da" n="5742">l</w>
-	<w lemma="'" pos="Fw" n="5743">'</w>
+	<w lemma="’" pos="Fw" n="5743">’</w>
 									<w lemma="OPPOSITION" pos="Nc" n="5744">opposition</w>
 									<w lemma="ET" pos="Cc" n="5745">et</w>
 									<w lemma="DE" pos="S" n="5746">de</w>
@@ -6524,7 +6524,7 @@
 									<w lemma="DÉLIVRER" pos="Ge" n="5759">delivré</w>
 									<w lemma="À" pos="S" n="5760">à</w>
 									<w lemma="LE" pos="Da" n="5761">l</w>
-	<w lemma="'" pos="Fw" n="5762">'</w>
+	<w lemma="’" pos="Fw" n="5762">’</w>
 									<w lemma="EXÉCUTER" pos="Ga" n="5763">executant</w>
 									<w lemma="," pos="Fw" n="5764">,</w>
 									<w lemma="AVEC" pos="S" n="5765">avec</w>
@@ -6538,7 +6538,7 @@
 <lb facs="#morisse_facs_1_r4l1" />
 <w lemma="EN" pos="S" cert="medium" n="5768">En</w>
 <w lemma="LE" pos="Da" n="5769">l</w>
-<w lemma="'" pos="Fw" n="5770">'</w>
+<w lemma="’" pos="Fw" n="5770">’</w>
 <w lemma="ÉCHIQUIER" pos="Nc" n="5771">Eschiquier</w>
 <w lemma="DE" pos="S" n="5772">de</w>
 <w lemma="PÂQUES" pos="Np" n="5773">Pasques</w>
@@ -6562,14 +6562,14 @@
 <w lemma="DE" pos="S" n="5790">de</w>
 <w lemma="PONT" pos="Nc" n="5791">Pont</w>
 <w lemma="LE" pos="Da" n="5792">l</w>
-<w lemma="'" pos="Fw" n="5793">'</w>
+<w lemma="’" pos="Fw" n="5793">’</w>
 <w lemma="ÉVÊQUE" pos="Nc" n="5794">Evesque</w>
 <w lemma="," pos="Fw" n="5795">,</w>
 <w lemma="ENTRE" pos="S" n="5796">entre</w>
 <w lemma="GUILLAUME" pos="Nc|Np" n="5797">Guillaume</w>
 <w lemma="INC" pos="Inconnu" n="5798">Lenquy</w>
 <w lemma="DE" pos="S" n="5799">d</w>
-<w lemma="'" pos="Fw" n="5800">'</w>
+<w lemma="’" pos="Fw" n="5800">’</w>
 <w lemma="UN" pos="Dn" n="5801">une</w>
 <w lemma="PART" pos="Nc" n="5802">part</w>
 <w lemma="ET" pos="Cc" n="5803">et</w>
@@ -6577,7 +6577,7 @@
 <w lemma="INC" pos="Inconnu" n="5805">Legouez</w>
 <lb facs="#morisse_facs_1_r4l3" />
 <w lemma="DE" pos="S" n="5806">d</w>
-<w lemma="'" pos="Fw" n="5807">'</w>
+<w lemma="’" pos="Fw" n="5807">’</w>
 <w lemma="AUTRE" pos="Di" cert="medium" n="5808">autre</w>
 <w lemma="PART" pos="Nc" n="5809">part</w>
 <w lemma="." pos="Fs" n="5810">.</w>
@@ -6646,7 +6646,7 @@
 <w lemma="DE" pos="S" n="5869">de</w>
 <w lemma="CE" pos="Pd" n="5870">ce</w>
 	<w lemma="QUE" pos="Pr" cert="medium" n="5871">qu</w>
-<w lemma="'" pos="Fw" n="5872">'</w>
+<w lemma="’" pos="Fw" n="5872">’</w>
 <w lemma="IL" pos="Pp" n="5873">il</w><add rend="over-line">
 <w lemma="IL" pos="Pp" n="5874">lui</w></add>
 <w lemma="DEVOIR" pos="Vvc" n="5875">devoit</w>
@@ -6657,7 +6657,7 @@
 <w lemma="À+LE" pos="S" n="5879">au</w>
 <w lemma="SERGENT" pos="Nc" n="5880">sergent</w>
 <w lemma="QUE" pos="Pr" cert="medium" n="5881">qu</w>
-<w lemma="'" pos="Fw" n="5882">'</w>
+<w lemma="’" pos="Fw" n="5882">’</w>
 <w lemma="IL" pos="Pp" n="5883">il</w>
 <w lemma="RENDRE" pos="Vvc" n="5884">rendist</w>
 <w lemma="LE" pos="Da" n="5885">les</w>
@@ -6719,7 +6719,7 @@
 <lb facs="#morisse_facs_2_r1l1" />
 <w lemma="INC" pos="Inconnu" n="5936">Legouez</w>
 <w lemma="SE" pos="Pp" cert="medium" n="5937">s</w>
-<w lemma="'" pos="Fw" n="5938">'</w>
+<w lemma="’" pos="Fw" n="5938">’</w>
 <w lemma="OPPOSER" pos="Vvc" n="5939">opposa</w>
 <w lemma="," pos="Fw" n="5940">,</w>
 <w lemma="DIRE" pos="Ga" n="5941">disant</w>
@@ -6739,7 +6739,7 @@
 <w lemma="," pos="Fw" n="5955">,</w>
 <w lemma="VOIR" pos="Ge" n="5956">veu</w>
 <w lemma="QUE" pos="Cs" n="5957">qu</w>
-<w lemma="'" pos="Fw" n="5958">'</w>
+<w lemma="’" pos="Fw" n="5958">’</w>
 <w lemma="IL" pos="Pp" n="5959">il</w>
 <w lemma="IL" pos="Pp" cert="medium" n="5960">les</w>
 <w lemma="AVOIR" pos="Vuc" n="5961">avoit</w>
@@ -6752,10 +6752,10 @@
 <w lemma="," pos="Fw" n="5967">,</w>
 <w lemma="PAR" pos="S" n="5968">par</w>
 <w lemma="LE" pos="Da" n="5969">l</w>
-<w lemma="'" pos="Fw" n="5970">'</w>
+<w lemma="’" pos="Fw" n="5970">’</w>
 <w lemma="ACHAT" pos="Nc" n="5971">achat</w>
 <w lemma="QUE" pos="Pr" cert="medium" n="5972">qu</w>
-<w lemma="'" pos="Fw" n="5973">'</w>
+<w lemma="’" pos="Fw" n="5973">’</w>
 <w lemma="IL" pos="Pp" n="5974">il</w>
 <w lemma="EN" pos="Pp" cert="medium" n="5975">en</w>
 <w lemma="AVOIR" pos="Vuc" n="5976">avoit</w>
@@ -6767,14 +6767,14 @@
 <w lemma="," pos="Fw" n="5982">,</w>
 <w lemma="PAR" pos="S" n="5983">par</w>
 <w lemma="LE" pos="Da" n="5984">l</w>
-<w lemma="'" pos="Fw" n="5985">'</w>
+<w lemma="’" pos="Fw" n="5985">’</w>
 <w lemma="AUTORITÉ" pos="Nc" n="5986">auctorité</w>
 <w lemma="DE" pos="S" n="5987">de</w>
 <w lemma="JUSTICE" pos="Nc" n="5988">justice</w>
 <lb facs="#morisse_facs_2_r1l3" />
 <w lemma="ET" pos="Cc" n="5989">et</w>
 <w lemma="NE" pos="Rp" n="5990">n</w>
-<w lemma="'" pos="Fw" n="5991">'</w>
+<w lemma="’" pos="Fw" n="5991">’</w>
 <w lemma="ÊTRE" pos="Ga" n="5992">estant</w>
 <w lemma="EN" pos="S" cert="medium" n="5993">en</w>
 <w lemma="RIEN" pos="Nc" n="5994">riens</w>
@@ -6786,7 +6786,7 @@
 <w lemma="INC" pos="Inconnu" n="6000">Lenqui</w>
 <w lemma="DIRE" pos="Vvc" n="6001">dist</w>
 <w lemma="QUE" pos="Cs" n="6002">qu</w>
-<w lemma="'" pos="Fw" n="6003">'</w>
+<w lemma="’" pos="Fw" n="6003">’</w>
 <w lemma="IL" pos="Pp" n="6004">il</w>
 <w lemma="AVOIR" pos="Vuc" n="6005">avoit</w>
 <w lemma="PAYER" pos="Ge" n="6006">paié</w>
@@ -6803,7 +6803,7 @@
 <w lemma="À+LE" pos="S" n="6016">au</w>
 <w lemma="SERGENT" pos="Nc" n="6017">sergent</w>
 <w lemma="QUE" pos="Pr" cert="medium" n="6018">qu</w>
-<w lemma="'" pos="Fw" n="6019">'</w>
+<w lemma="’" pos="Fw" n="6019">’</w>
 <w lemma="IL" pos="Pp" n="6020">il</w>
 <w lemma="ÊTRE" pos="Vuc" n="6021">feust</w>
 <w lemma="RESTITUER" pos="Ge" n="6022">restitué</w>
@@ -6816,11 +6816,11 @@
 <w lemma="POUR" pos="S" n="6028">pour</w>
 <w lemma="CE" pos="Pd" n="6029">ce</w>
 	<w lemma="QUE" pos="Pr" cert="medium" n="6030">qu</w>
-<w lemma="'" pos="Fw" n="6031">'</w>
+<w lemma="’" pos="Fw" n="6031">’</w>
 <w lemma="IL" pos="Pp" n="6032">il</w>
 <w lemma="NE" pos="Rp" n="6033">ne</w>
 <w lemma="LE" pos="Da" n="6034">l</w>
-<w lemma="'" pos="Fw" n="6035">'</w>
+<w lemma="’" pos="Fw" n="6035">’</w>
 <w lemma="AVOIR" pos="Vuc" n="6036">avoit</w>
 <w lemma="FAIRE" pos="Ge" n="6037">fait</w>
 <w lemma="," pos="Fw" n="6038">,</w>
@@ -6840,7 +6840,7 @@
 <lb facs="#morisse_facs_2_r1l6" />
 <w lemma="CONSIDÉRER" pos="Ge" n="6052">consideré</w>
 <w lemma="QUE" pos="Cs" n="6053">qu</w>
-<w lemma="'" pos="Fw" n="6054">'</w>
+<w lemma="’" pos="Fw" n="6054">’</w>
 <w lemma="IL" pos="Pp" n="6055">il</w>
 <w lemma="ÊTRE" pos="Vuc" n="6056">estoit</w>
 <w lemma="EN" pos="Pp" cert="medium" n="6057">en</w>
@@ -6853,7 +6853,7 @@
 <w lemma="VENTÉ|VENTER|VENTE|VENTER" pos="Ag|Ge|Nc|Vvc" n="6064">vente</w>
 <w lemma="NE" pos="Rp" n="6065">ne</w>
 <w lemma="LE" pos="Da" n="6066">l</w>
-<w lemma="'" pos="Fw" n="6067">'</w>
+<w lemma="’" pos="Fw" n="6067">’</w>
 <w lemma="ACHAT" pos="Nc" n="6068">achat</w>
 <w lemma="PRÉJUDICIER" pos="Vvn" n="6069">prejudicier</w>
 <w lemma="," pos="Fw" n="6070">,</w>
@@ -6879,7 +6879,7 @@
 <w lemma="INC" pos="Inconnu" n="6088">reprouché</w>
 <w lemma="EN" pos="S" cert="medium" n="6089">en</w>
 <w lemma="LE" pos="Da" n="6090">l</w>
-<w lemma="'" pos="Fw" n="6091">'</w>
+<w lemma="’" pos="Fw" n="6091">’</w>
 <w lemma="ÉCHIQUIER" pos="Nc" n="6092">Eschiquier</w>
 <w lemma="LE" pos="Da" n="6093">le</w>
 <w lemma="JUGEMENT" pos="Nc" n="6094">jugement</w>
@@ -6916,13 +6916,13 @@
 <w lemma="ÊTRE" pos="Vun" n="6123">estre</w>
 <w lemma="ET" pos="Cc" n="6124">et</w>
 <w lemma="LE" pos="Da" n="6125">l</w>
-<w lemma="'" pos="Fw" n="6126">'</w>
+<w lemma="’" pos="Fw" n="6126">’</w>
 <w lemma="AMENDER" pos="Vvc" n="6127">amenda</w>
 <w lemma="INC" pos="Inconnu" n="6128">Legouez</w>
 <w lemma="ET" pos="Cc" n="6129">et</w>
 <w lemma="PAR" pos="S" n="6130">par</w>
 <w lemma="LE" pos="Da" n="6131">l</w>
-<w lemma="'" pos="Fw" n="6132">'</w>
+<w lemma="’" pos="Fw" n="6132">’</w>
 <w lemma="AMENDE" pos="Nc" n="6133">amende</w>
 <w lemma="ÊTRE" pos="Vuc" n="6134">fut</w>
 <w lemma="DIT|DIRE|DIT|DIRE" pos="Ag|Ge|Nc|Vvc" n="6135">dit</w>
@@ -6930,7 +6930,7 @@
 <w lemma="BON" pos="Ag" n="6137">bonne</w>
 <w lemma="CAUSE" pos="Nc" n="6138">cause</w>
 <w lemma="LE" pos="Da" n="6139">l</w>
-<w lemma="'" pos="Fw" n="6140">'</w>
+<w lemma="’" pos="Fw" n="6140">’</w>
 <w lemma="ARRÊT" pos="Nc" n="6141">arrest</w>
 <w lemma="ET" pos="Cc" n="6142">et</w>
 <w lemma="À" pos="S" n="6143">à</w>
@@ -7166,7 +7166,7 @@
 								<w lemma="," pos="Fw" n="6351">,</w>
 								<w lemma="BIEN" pos="Rg" n="6352">bien</w>
 								<w lemma="QUE" pos="Cs" n="6353">qu</w>
-								<w lemma="'" pos="Fw" n="6354">'</w>
+								<w lemma="’" pos="Fw" n="6354">’</w>
 								<w lemma="IL" pos="Pp" n="6355">il</w>
 								<lb facs="#morisse_facs_3_r4l6" />
 								<w lemma="EXCÉDÉ|EXCÉDER|EXCÉDER" pos="Ag|Ge|Vvc" n="6356">excede</w>
@@ -7207,7 +7207,7 @@
 								<lb facs="#morisse_facs_3_r4l11" />
 								<w lemma="IL" pos="Pp" n="6387">il</w>
 								<w lemma="NE" pos="Rp" n="6388">n</w>
-								<w lemma="'" pos="Fw" n="6389">'</w>
+								<w lemma="’" pos="Fw" n="6389">’</w>
 								<w lemma="Y" pos="Pp" n="6390">i</w>
 								<w lemma="AVOIR" pos="Vuc" n="6391">auroit</w>
 								<w lemma="DE" pos="S" n="6392">de</w>
@@ -7229,12 +7229,12 @@
 								<lb facs="#morisse_facs_3_r4l14" />
 								<w lemma="RAISONNABLE" pos="Ag" n="6406">raisonnable</w>
 								<w lemma="QUE" pos="Cs" n="6407">qu</w>
-								<w lemma="'" pos="Fw" n="6408">'</w>
+								<w lemma="’" pos="Fw" n="6408">’</w>
 								<w lemma="IL" pos="Pp" n="6409">il</w>
 								<w lemma="ÊTRE" pos="Vuc" n="6410">soit</w>
 								<w lemma="DÉCHARGÉ|DÉCHARGER" pos="Ag|Ge" n="6411">desch<lb break="no" facs="#morisse_facs_3_r4l15" />argé</w>
 								<w lemma="DE" pos="S" n="6412">d</w>
-								<w lemma="'" pos="Fw" n="6413">'</w>
+								<w lemma="’" pos="Fw" n="6413">’</w>
 								<w lemma="ICELUI" pos="Pd" n="6414">iceluy</w>
 								<w lemma="," pos="Fw" n="6415">,</w>
 								<w lemma="QUITTER" pos="Ga" n="6416">quittant</w>
@@ -7243,7 +7243,7 @@
 								<w lemma="BÊTE" pos="Nc" n="6418">beste</w>
 								<w lemma="POURVU" pos="Cs" n="6419">pourveu</w>
 								<w lemma="QUE" pos="Cs" n="6420">qu</w>
-								<w lemma="'" pos="Fw" n="6421">'</w>
+								<w lemma="’" pos="Fw" n="6421">’</w>
 								<w lemma="IL" pos="Pp" n="6422">elle</w>
 								<w lemma="NE" pos="Rp" n="6423">ne</w>
 								<w lemma="ÊTRE" pos="Vuc" n="6424">soit</w>
@@ -7291,7 +7291,7 @@
 								<w lemma="LEUR" pos="Ds" n="6457">leurs</w>
 								<w lemma="BÊTE" pos="Nc" n="6458">bestes</w>
 								<w lemma="NE" pos="Rp" n="6459">n</w>
-								<w lemma="'" pos="Fw" n="6460">'</w>
+								<w lemma="’" pos="Fw" n="6460">’</w>
 								<w lemma="ÊTRE" pos="Vuc" n="6461">est</w>
 								<w lemma="RECEVABLE" pos="Ag" n="6462">recevable</w>
 								<lb facs="#morisse_facs_3_r5l6" />
@@ -7301,7 +7301,7 @@
 								<w lemma="INC" pos="Inconnu" n="6466">receulte</w>
 								<w lemma="IL" pos="Pp" n="6467">il</w>
 								<w lemma="NE" pos="Rp" n="6468">n</w>
-								<w lemma="'" pos="Fw" n="6469">'</w>
+								<w lemma="’" pos="Fw" n="6469">’</w>
 								<w lemma="A|À|AVOIR|A" pos="Nc|PREP|Vuc|Xe" n="6470">a</w>
 								<lb facs="#morisse_facs_3_r5l7" />
 								<w lemma="FAIRE" pos="Ge" n="6471">faict</w>
@@ -12510,7 +12510,7 @@
                 <w lemma="ESTER/ÊTRE|ÉTÉ|ÊTRE" pos="Ge|Nc|Vuc" n="11404">esté</w>
                 <w lemma="BAILLIR|BAILLI" pos="Ge|Nc" n="11405">bailli</w>
                 <w lemma="DE" pos="S" n="11406">d</w>
-                <w lemma="'" pos="Fw" n="11407">'</w>
+                <w lemma="’" pos="Fw" n="11407">’</w>
                 <w lemma="AVOIR" pos="Ge" n="11408">Eu</w>
                 <w lemma="," pos="Fw" n="11409">,</w>
                 <w lemma="ÊTRE" pos="Vuc" n="11410">estoit</w>
@@ -12543,10 +12543,10 @@
                 <w lemma="IL" pos="Pp" n="11436">elle</w>
                 <w lemma="CONTENIR" pos="Vvc" n="11437">contenoit</w>
                 <w lemma="QUE" pos="Cs" n="11438">qu</w>
-                <w lemma="'" pos="Fw" n="11439">'</w>
+                <w lemma="’" pos="Fw" n="11439">’</w>
                 <w lemma="IL" pos="Pp" n="11440">il</w><mod rend="strikethrough">en</mod>
                 <w lemma="NE" pos="Rp" n="11441">n</w>
-                <w lemma="'" pos="Fw" n="11442">'</w>
+                <w lemma="’" pos="Fw" n="11442">’</w>
                 <w lemma="EN" pos="Pp" cert="medium" n="11443">en</w>
                 <lb facs="#morisse_facs_4_r2l3" />
                 <w lemma="AVOIR" pos="Vuc" n="11444">avoit</w>
@@ -12570,7 +12570,7 @@
                 <w lemma="FAIRE" pos="Ga" n="11462">faisant</w>
                 <w lemma="MENTION" pos="Nc" n="11463">mencion</w>
                 <w lemma="QUE" pos="Cs" n="11464">qu</w>
-                <w lemma="'" pos="Fw" n="11465">'</w>
+                <w lemma="’" pos="Fw" n="11465">’</w>
                 <w lemma="IL" pos="Pp" n="11466">il</w>
                 <lb facs="#morisse_facs_4_r2l4" />
                 <w lemma="AVOIR" pos="Vuc" n="11467">avoit</w>
@@ -12582,7 +12582,7 @@
                 <w lemma="DONT" pos="Pr" n="11473">dont</w>
                 <w lemma="IL" pos="Pp" n="11474">il</w>
                 <w lemma="NE" pos="Rp" n="11475">n</w>
-                <w lemma="'" pos="Fw" n="11476">'</w>
+                <w lemma="’" pos="Fw" n="11476">’</w>
                 <w lemma="AVOIR" pos="Vuc" n="11477">avoit</w>
                 <w lemma="POING" pos="Rp" n="11478">point</w>
                 <w lemma="AVOIR" pos="Ge" n="11479">eu</w>
@@ -12592,7 +12592,7 @@
                 <w lemma="IL" pos="Pp" n="11483">il</w>
                 <w lemma="NE" pos="Rp" n="11484">ne</w>
                 <w lemma="SE" pos="Pp" cert="medium" n="11485">s</w>
-                <w lemma="'" pos="Fw" n="11486">'</w>
+                <w lemma="’" pos="Fw" n="11486">’</w>
                 <w lemma="EN" pos="Pp" cert="medium" n="11487">en</w>
                 <w lemma="AIDER" pos="Vvc" n="11488">aidoit</w>
                 <w lemma="PAS" pos="Rp" n="11489">pas</w>
@@ -12604,16 +12604,16 @@
                 <w lemma="," pos="Fw" n="11494">,</w>
                 <w lemma="DONT" pos="Pr" n="11495">dont</w>
                 <w lemma="LE" pos="Da" n="11496">l</w>
-                <w lemma="'" pos="Fw" n="11497">'</w>
+                <w lemma="’" pos="Fw" n="11497">’</w>
                 <w lemma="ON" pos="Pp" n="11498">on</w>
                 <w lemma="DIRE" pos="Vvc" n="11499">disoit</w>
                 <w lemma="QUE" pos="Cs" n="11500">qu</w>
-                <w lemma="'" pos="Fw" n="11501">'</w>
+                <w lemma="’" pos="Fw" n="11501">’</w>
                 <w lemma="IL" pos="Pp" n="11502">il</w>
                 <w lemma="AVOIR" pos="Vuc" n="11503">avoit</w>
                 <w lemma="CONFESSÉ|CONFESSER|CONFESSÉ" pos="Ag|Ge|Nc" n="11504">confessé</w>
                 <w lemma="QUE" pos="Cs" n="11505">qu</w>
-                <w lemma="'" pos="Fw" n="11506">'</w>
+                <w lemma="’" pos="Fw" n="11506">’</w>
                 <w lemma="IL" pos="Pp" n="11507">il</w>
                 <w lemma="EN" pos="Pp" cert="medium" n="11508">en</w>
                 <w lemma="AVOIR" pos="Vuc" n="11509">avoit</w>
@@ -12631,16 +12631,16 @@
                 <w lemma="MAIS" pos="Cc" n="11521">maiz</w>
                 <lb facs="#morisse_facs_4_r2l6" />
                 <w lemma="LE" pos="Da" n="11522">l</w>
-                <w lemma="'" pos="Fw" n="11523">'</w>
+                <w lemma="’" pos="Fw" n="11523">’</w>
                 <w lemma="AVOIR" pos="Vuc" n="11524">avoit</w>
                 <w lemma="CONFESSÉ|CONFESSER|CONFESSÉ" pos="Ag|Ge|Nc" n="11525">confessé</w>
                 <w lemma="EN" pos="S" cert="medium" n="11526">en</w>
                 <w lemma="JUGEMENT" pos="Nc" n="11527">jugement</w>
                 <w lemma="QUE" pos="Cs" n="11528">qu</w>
-                <w lemma="'" pos="Fw" n="11529">'</w>
+                <w lemma="’" pos="Fw" n="11529">’</w>
                 <w lemma="IL" pos="Pp" n="11530">il</w>
                 <w lemma="NE" pos="Rp" n="11531">n</w>
-                <w lemma="'" pos="Fw" n="11532">'</w>
+                <w lemma="’" pos="Fw" n="11532">’</w>
                 <w lemma="AVOIR" pos="Vuc" n="11533">avoit</w>
                 <w lemma="POING" pos="Rp" n="11534">point</w>
                 <w lemma="ESTER/ÊTRE|ÉTÉ|ÊTRE" pos="Ge|Nc|Vuc" n="11535">esté</w>
@@ -12668,14 +12668,14 @@
                 <w lemma="," pos="Fw" n="11556">,</w>
                 <w lemma="OÙ" pos="Pr" n="11557">où</w>
                 <w lemma="LE" pos="Da" n="11558">l</w>
-                <w lemma="'" pos="Fw" n="11559">'</w>
+                <w lemma="’" pos="Fw" n="11559">’</w>
                 <w lemma="ON" pos="Pp" n="11560">on</w>
                 <w lemma="IL" pos="Pp" cert="medium" n="11561">les</w>
                 <w lemma="MENER" pos="Vvc" n="11562">maine</w>
                 <w lemma="POUR" pos="S" n="11563">pour</w>
                 <w lemma="QUESTIONNER" pos="Vvn" n="11564">questionner</w>
                 <w lemma="QUE" pos="Cs" n="11565">qu</w>
-                <w lemma="'" pos="Fw" n="11566">'</w>
+                <w lemma="’" pos="Fw" n="11566">’</w>
                 <w lemma="IL" pos="Pp" n="11567">il</w>
                 <w lemma="AVOIR" pos="Vuc" n="11568">avoit</w>
                 <w lemma="FAIRE" pos="Ge" n="11569">fait</w>
@@ -12685,7 +12685,7 @@
                 <w lemma="LETTRE" pos="Nc" n="11572">lectres</w>
                 <w lemma="ET" pos="Cc" n="11573">et</w>
                 <w lemma="QUE" pos="Cs" n="11574">qu</w>
-                <w lemma="'" pos="Fw" n="11575">'</w>
+                <w lemma="’" pos="Fw" n="11575">’</w>
                 <w lemma="IL" pos="Pp" n="11576">il</w>
                 <w lemma="EN" pos="Pp" cert="medium" n="11577">en</w>
                 <w lemma="AVOIR" pos="Vuc" n="11578">avoit</w>
@@ -12693,12 +12693,12 @@
                 <w lemma="PROFIT" pos="Nc" n="11580">prouffit</w>
                 <w lemma="ET" pos="Cc" n="11581">et</w>
                 <w lemma="NE" pos="Rp" n="11582">n</w>
-                <w lemma="'" pos="Fw" n="11583">'</w>
+                <w lemma="’" pos="Fw" n="11583">’</w>
                 <w lemma="Y" pos="Pp" n="11584">y</w>
                 <w lemma="AVOIR" pos="Vuc" n="11585">avoit</w>
                 <w lemma="LORS" pos="Rg" n="11586">lors</w>
                 <w lemma="QUE" pos="Cs" n="11587">qu</w>
-                <w lemma="'" pos="Fw" n="11588">'</w>
+                <w lemma="’" pos="Fw" n="11588">’</w>
                 <w lemma="IL" pos="Pp" n="11589">il</w>
                 <w lemma="IL" pos="Pp" cert="medium" n="11590">le</w>
                 <w lemma="CONFESSER" pos="Vvc" n="11591">confessa</w>
@@ -12745,7 +12745,7 @@
                 <w lemma="ET" pos="Cc" n="11630">et</w>
                 <w lemma="INC" pos="Inconnu" n="11631">regnyoit</w>
                 <w lemma="QUE" pos="Cs" n="11632">qu</w>
-                <w lemma="'" pos="Fw" n="11633">'</w>
+                <w lemma="’" pos="Fw" n="11633">’</w>
                 <w lemma="IL" pos="Pp" n="11634">il</w>
                 <w lemma="AVOIR" pos="Vuc" n="11635">eust</w>
                 <w lemma="ONC/ONCQUES/ONQUES" pos="Rg" n="11636">oncques</w>
@@ -12797,10 +12797,10 @@
                 <w lemma="CHEVALIER" pos="Nc" n="11680">chevaliers</w>
                 <lb facs="#morisse_facs_4_r2l13" />
                 <w lemma="QUE" pos="Cs" n="11681">qu</w>
-                <w lemma="'" pos="Fw" n="11682">'</w>
+                <w lemma="’" pos="Fw" n="11682">’</w>
                 <w lemma="IL" pos="Pp" n="11683">il</w>
                 <w lemma="NE" pos="Rp" n="11684">n</w>
-                <w lemma="'" pos="Fw" n="11685">'</w>
+                <w lemma="’" pos="Fw" n="11685">’</w>
                 <w lemma="Y" pos="Pp" n="11686">y</w>
                 <w lemma="ÊTRE" pos="Vuc" n="11687">seroit</w>
                 <w lemma="POING" pos="Rp" n="11688">point</w>
@@ -12839,7 +12839,7 @@
                 <w lemma="HAUT" pos="Ag|Nc|Rg" n="11720">hault</w>
                 <w lemma="NE" pos="Rp" n="11721">ne</w>
                 <w lemma="NE" pos="Rp" n="11722">n</w>
-                <w lemma="'" pos="Fw" n="11723">'</w>
+                <w lemma="’" pos="Fw" n="11723">’</w>
                 <w lemma="EN" pos="Pp" cert="medium" n="11724">en</w>
                 <w lemma="DEMANDER" pos="Vvc" n="11725">demanda</w>
                 <w lemma="ON" pos="Pp" n="11726">on</w>
@@ -12879,7 +12879,7 @@
                 <w lemma="À+LE" pos="S+Da" n="11758">aux</w>
                 <w lemma="AVOCAT" pos="Nc" n="11759">advocas</w>
                 <w lemma="QUE" pos="Cs" n="11760">qu</w>
-                <w lemma="'" pos="Fw" n="11761">'</w>
+                <w lemma="’" pos="Fw" n="11761">’</w>
                 <w lemma="ILS" pos="Pp" n="11762">ilz</w>
                 <w lemma="INC" pos="Inconnu" n="11763">jugassent</w>
                 <w lemma="SON" pos="Ds" n="11764">sa</w>
@@ -13118,14 +13118,14 @@
 							<w lemma="RENDRE" pos="Ge" n="11983">rendu</w>
 							<w lemma="À" pos="S" n="11984">à</w>
 							<w lemma="LE" pos="Da" n="11985">l</w>
-	<w lemma="'" pos="Fw" n="11986">'</w>
+	<w lemma="’" pos="Fw" n="11986">’</w>
 							<w lemma="ÉGLISE" pos="Nc" n="11987">eglise</w>
 							<w lemma="ET" pos="Cc" n="11988">et</w>
 							<w lemma="LE" pos="Da" n="11989">le</w>
 	<w lemma="JUGE" pos="Nc" n="11990">juge</w>
 							<w lemma="DE" pos="S" n="11991">de</w>
 							<w lemma="LE" pos="Da" n="11992">l</w>
-	<w lemma="'" pos="Fw" n="11993">'</w>
+	<w lemma="’" pos="Fw" n="11993">’</w>
 							<w lemma="ÉGLISE" pos="Nc" n="11994">eglise</w>
 							<w lemma="IL" pos="Pp" cert="medium" n="11995">le</w>
 	<w lemma="DÉLIVRER" pos="Vvc" n="11996">delivre</w>
@@ -13154,14 +13154,14 @@
 							<w lemma="JUSTICE" pos="Nc" n="12018">justice</w>
 							<w lemma="DE" pos="S" n="12019">de</w>
 							<w lemma="LE" pos="Da" n="12020">l</w>
-	<w lemma="'" pos="Fw" n="12021">'</w>
+	<w lemma="’" pos="Fw" n="12021">’</w>
 							<w lemma="ÉGLISE" pos="Nc" n="12022">eglise</w>
 							<w lemma="IL" pos="Pp" cert="medium" n="12023">le</w>
 							<lb facs="#morisse_facs_5_r4l4" />
 							<w lemma="REQUÉRIR" pos="Vvc" n="12024">requiert</w>
 							<w lemma="À" pos="S" n="12025">à</w>
 							<w lemma="LE" pos="Da" n="12026">l</w>
-	<w lemma="'" pos="Fw" n="12027">'</w>
+	<w lemma="’" pos="Fw" n="12027">’</w>
 							<w lemma="AUTRE" pos="Pi" cert="medium" n="12028">autre</w>
 							<w lemma="," pos="Fw" n="12029">,</w>
 							<w lemma="IL" pos="Pp" n="12030">il</w>
@@ -13219,7 +13219,7 @@
 							<w lemma="," pos="Fw" n="12080">,</w>
 							<w lemma="QUE" pos="Cs" n="12081">que</w>
 							<w lemma="LE" pos="Da" n="12082">l</w>
-	<w lemma="'" pos="Fw" n="12083">'</w>
+	<w lemma="’" pos="Fw" n="12083">’</w>
 							<w lemma="INCONVÉNIENT" pos="Ag|Nc" n="12084">inconvenient</w>
 							<w lemma="ET" pos="Cc" n="12085">et</w>
 							<w lemma="LE" pos="Da" n="12086">le</w>
@@ -13265,7 +13265,7 @@
 							<w lemma="PARLEMENT" pos="Nc" n="12121">Parlement</w>
 							<w lemma="," pos="Fw" n="12122">,</w>
 							<w lemma="SE" pos="Cs" n="12123">s</w>
-							<w lemma="'" pos="Fw" n="12124">'</w>
+							<w lemma="’" pos="Fw" n="12124">’</w>
 							<w lemma="IL" pos="Pp" n="12125">il</w>
 							<w lemma="ÊTRE" pos="Vuc" n="12126">est</w>
 							<w lemma="CONNAÎTRE" pos="Ge" n="12127">congnu</w>
@@ -13275,7 +13275,7 @@
 							<w lemma="PRÉ" pos="Nc" n="12131">prez</w>
 							<w lemma="DE" pos="S" n="12132">de</w>
 							<w lemma="LE" pos="Da" n="12133">l</w>
-	<w lemma="'" pos="Fw" n="12134">'</w>
+	<w lemma="’" pos="Fw" n="12134">’</w>
 							<w lemma="ÉGLISE" pos="Nc" n="12135">eglise</w>
 							<w lemma="FACE/FASCE|FACER/FAIRE/FASCER|FACE" pos="Nc|Vvc|Xe" n="12136">face</w>
 							<w lemma="INC" pos="Inconnu" n="12137">malleffice</w>
@@ -13284,7 +13284,7 @@
 							<w lemma="PRÉ" pos="Nc" n="12140">prez</w>
 							<w lemma="DE" pos="S" n="12141">de</w>
 							<w lemma="LE" pos="Da" n="12142">l</w>
-	<w lemma="'" pos="Fw" n="12143">'</w>
+	<w lemma="’" pos="Fw" n="12143">’</w>
 							<w lemma="ÉGLISE" pos="Nc" n="12144">eglise</w>
 							<lb facs="#morisse_facs_5_r4l10" />
 							<w lemma="EN" pos="S" cert="medium" n="12145">en</w>
@@ -13300,7 +13300,7 @@
 							<w lemma="PARTIR" pos="Vvc" n="12155">partoit</w>
 							<w lemma="DE" pos="S" n="12156">de</w>
 							<w lemma="LE" pos="Da" n="12157">l</w>
-	<w lemma="'" pos="Fw" n="12158">'</w>
+	<w lemma="’" pos="Fw" n="12158">’</w>
 							<w lemma="ÉGLISE" pos="Nc" n="12159">eglise</w>
 							<w lemma="POUR" pos="S" n="12160">pour</w>
 							<w lemma="FAIRE" pos="Vvc|Vvn|Xe" n="12161">faire</w>
@@ -13318,7 +13318,7 @@
 	<w lemma="FRANCHIR" pos="Vvc" n="12172">franchisse</w>
 							<w lemma="," pos="Fw" n="12173">,</w>
 							<w lemma="LE" pos="Da" n="12174">l</w>
-	<w lemma="'" pos="Fw" n="12175">'</w>
+	<w lemma="’" pos="Fw" n="12175">’</w>
 							<w lemma="ÉGLISE" pos="Nc" n="12176">eglise</w>
 							<w lemma="NE" pos="Rp" n="12177">ne</w>
 							<w lemma="IL" pos="Pp" cert="medium" n="12178">le</w>
@@ -13627,7 +13627,7 @@
                 <lb facs="#morisse_facs_6_r2l1" />
                 <w lemma="EN" pos="S" cert="medium" n="12460">En</w>
                 <w lemma="LE" pos="Da" n="12461">l</w>
-                <w lemma="'" pos="Fw" n="12462">'</w>
+                <w lemma="’" pos="Fw" n="12462">’</w>
                 <w lemma="ÉCHIQUIER" pos="Nc" n="12463">Eschiquier</w>
                 <w lemma="DE" pos="S" n="12464">de</w>
                 <w lemma="NORMANDIE" pos="Np" n="12465">Normandie</w>
@@ -13650,7 +13650,7 @@
                 <lb facs="#morisse_facs_6_r2l2" />
                 <w lemma="TOURNEDOS" pos="Nc" n="12482">Tournedos</w>
                 <w lemma="DE" pos="S" n="12483">d</w>
-                <w lemma="'" pos="Fw" n="12484">'</w>
+                <w lemma="’" pos="Fw" n="12484">’</w>
                 <w lemma="UN" pos="Dn" n="12485">une</w>
                 <w lemma="PART" pos="Nc" n="12486">part</w>
                 <w lemma="ET" pos="Cc" n="12487">et</w>
@@ -13660,7 +13660,7 @@
                 <w lemma="ÉCUYER" pos="Nc" n="12491">escuyer</w>
                 <w lemma="," pos="Fw" n="12492">,</w>
                 <w lemma="DE" pos="S" n="12493">d</w>
-                <w lemma="'" pos="Fw" n="12494">'</w>
+                <w lemma="’" pos="Fw" n="12494">’</w>
                 <w lemma="AUTRE" pos="Pi" cert="medium" n="12495">autre</w>
                 <w lemma="," pos="Fw" n="12496">,</w>
                 <w lemma="APRÈS" pos="S" n="12497">aprez</w>
@@ -13803,7 +13803,7 @@
                     <w lemma="QUE" pos="Cs" n="12623">que</w>
                     <w lemma="VOUS" pos="Pp" n="12624">vous</w>
                     <w lemma="NE" pos="Rp" n="12625">n</w>
-                    <w lemma="'" pos="Fw" n="12626">'</w>
+                    <w lemma="’" pos="Fw" n="12626">’</w>
                     <w lemma="AVOIR" pos="Vuc" n="12627">e<add rend="over-line">u</add>stes</w>
                     <w lemma="PAS" pos="Rp" n="12628">pas</w>
                     <w lemma="CAUSER" pos="Ge" n="12629">cause</w>
@@ -13816,7 +13816,7 @@
                     <w lemma="AVOIR" pos="Ge" n="12635">eu</w>
                     <w lemma="CAUSER" pos="Ge" n="12636">cause</w>
                     <w lemma="DE" pos="S" n="12637">d</w>
-                    <w lemma="'" pos="Fw" n="12638">'</w>
+                    <w lemma="’" pos="Fw" n="12638">’</w>
                     <w lemma="Y" pos="Pp" n="12639">y</w>
                     <w lemma="METTRE" pos="Vvn" n="12640">mectre</w>
                     <w lemma="EMPÊCHEMENT|EMPÊCHÉMENT" pos="Nc|Rg" n="12641">empeschement</w>
@@ -13876,7 +13876,7 @@
                     <w lemma="FAIRE" pos="Ge" n="12691">fait</w>
                     <w lemma="CONNAÎTRE" pos="Ge" n="12692">congnu</w>
                     <w lemma="NE" pos="Rp" n="12693">n</w>
-                    <w lemma="'" pos="Fw" n="12694">'</w>
+                    <w lemma="’" pos="Fw" n="12694">’</w>
                     <w lemma="Y" pos="Pp" n="12695">y</w>
                     <w lemma="POUER|POUÉ|POUER/POUVOIR" pos="Ge|Nc|Vvc" n="12696">povez</w>
                     <w lemma="SUCCÉDER" pos="Vvc" n="12697">suceder</w>
@@ -13915,7 +13915,7 @@
                     <w lemma="NOM" pos="Nc" n="12726">nom</w>
                     <w lemma="JE" pos="Pp" n="12727">je</w>
                     <w lemma="NE" pos="Rp" n="12728">n</w>
-                    <w lemma="'" pos="Fw" n="12729">'</w>
+                    <w lemma="’" pos="Fw" n="12729">’</w>
                     <w lemma="Y" pos="Pp" n="12730">y</w>
                     <w lemma="INC" pos="Inconnu" n="12731">veuit</w>
                     <w lemma="ENTENDRE" pos="Vvc|Vvn" n="12732">entendre</w>
@@ -13928,7 +13928,7 @@
                     <w lemma="LARGE" pos="Ag|Nc|Rg|Xe" n="12739">large</w>
                     <lb facs="#morisse_facs_7_r4l2" />
                     <w lemma="QUE" pos="Cs" n="12740">qu</w>
-                    <w lemma="'" pos="Fw" n="12741">'</w>
+                    <w lemma="’" pos="Fw" n="12741">’</w>
                     <w lemma="IL" pos="Pp" n="12742">il</w>
                     <w lemma="ÊTRE" pos="Vuc" n="12743">fust</w>
                     <w lemma="DAMNER" pos="Ge" n="12744">dampné</w>
@@ -13946,7 +13946,7 @@
                     <w lemma="," pos="Fw" n="12756">,</w>
                     <w lemma="PUIS" pos="Cs" n="12757">puis</w>
                     <w lemma="QUE" pos="Cs" n="12758">qu</w>
-                    <w lemma="'" pos="Fw" n="12759">'</w>
+                    <w lemma="’" pos="Fw" n="12759">’</w>
                     <w lemma="IL" pos="Pp" n="12760">il</w>
                     <w lemma="NE" pos="Rp" n="12761">ne</w>
                     <w lemma="VENIR/VIER" pos="Vvc" n="12762">vient</w>
@@ -13968,7 +13968,7 @@
                     <w lemma="," pos="Fw" n="12777">,</w>
                     <w lemma="QUE" pos="Cs" n="12778">que</w>
                     <w lemma="LE" pos="Da" n="12779">l</w>
-                    <w lemma="'" pos="Fw" n="12780">'</w>
+                    <w lemma="’" pos="Fw" n="12780">’</w>
                     <w lemma="HÉRITAGE" pos="Nc" n="12781">eritage</w>
                     <w lemma="VENIR/VIER" pos="Vvc" n="12782">vient</w>
                     <w lemma="DE+LE" pos="S+Da" n="12783">du</w>
@@ -14046,7 +14046,7 @@
                 <w lemma="," pos="Fw" n="12851">,</w>
                 <w lemma="AFIN" pos="Cs" n="12852">affin</w>
                 <w lemma="DE" pos="S" n="12853">d</w>
-                <w lemma="'" pos="Fw" n="12854">'</w>
+                <w lemma="’" pos="Fw" n="12854">’</w>
                 <w lemma="ÊTRE" pos="Vun" n="12855">estre</w>
                 <w lemma="RENDRE" pos="Ge" n="12856">rendu</w>
                 <lb facs="#morisse_facs_7_r4l7" />
@@ -14183,7 +14183,7 @@
 							<w lemma=":" pos="Fw" n="12972">:</w>
 							<lb facs="#morisse_facs_7_r3l6" />
 							<w lemma="LE" pos="Da" n="12973">L</w>
-							<w lemma="'" pos="Fw" n="12974">'</w>
+							<w lemma="’" pos="Fw" n="12974">’</w>
 							<w lemma="ARRÊT" pos="Nc" n="12975">arrest</w>
 							<w lemma="INTERVENIR" pos="Ge" n="12976">intervenu</w>
 							<w lemma="SUR" pos="S" n="12977">sur</w>
@@ -14378,7 +14378,7 @@
 							<w lemma="GENT|GENS/GENT|GENS" pos="Ag|Nc|Xe" n="13152">gens</w>
 							<w lemma="TENIR" pos="Ga" n="13153">tenans</w>
 							<w lemma="LE" pos="Da" n="13154">l</w>
-	<w lemma="'" pos="Fw" n="13155">'</w>
+	<w lemma="’" pos="Fw" n="13155">’</w>
 							<w lemma="ÉCHIQUIER" pos="Nc" n="13156">Eschiquier</w>
 							<w lemma="DE" pos="S" n="13157">de</w>
 							<w lemma="NORMANDIE" pos="Np" n="13158">Normandie</w>
@@ -14413,7 +14413,7 @@
 							<w lemma="GUILLAUME" pos="Nc|Np" n="13185">Guillaume</w>
 							<w lemma="POSTEL" pos="Np" n="13186">Postel</w>
 							<w lemma="DE" pos="S" n="13187">d</w>
-							<w lemma="'" pos="Fw" n="13188">'</w>
+							<w lemma="’" pos="Fw" n="13188">’</w>
 							<w lemma="UN" pos="Dn" n="13189">une</w>
 							<w lemma="PART" pos="Nc" n="13190">part</w>
 							<w lemma="ET" pos="Cc" n="13191">et</w>
@@ -14428,7 +14428,7 @@
 								<w lemma="ET_CAETERA" pos="Xa" n="13200">etc</w></add>
 							<w lemma="," pos="Fw" n="13201">,</w>
 							<w lemma="DE" pos="S" n="13202">d</w>
-							<w lemma="'" pos="Fw" n="13203">'</w>
+							<w lemma="’" pos="Fw" n="13203">’</w>
 							<w lemma="AUTRE" pos="Di" cert="medium" n="13204">autre</w>
 							<w lemma="PART" pos="Nc" n="13205">part</w>
 							<w lemma="," pos="Fw" n="13206">,</w>
@@ -14444,7 +14444,7 @@
 							<w lemma="PAR" pos="S" n="13215">par</w>
 							<w lemma="INC" pos="Inconnu" n="13216">gaigement</w>
 							<w lemma="DE" pos="S" n="13217">d</w>
-							<w lemma="'" pos="Fw" n="13218">'</w>
+							<w lemma="’" pos="Fw" n="13218">’</w>
 							<w lemma="ASSISE" pos="Nc" n="13219">assise</w>
 							<w lemma="EN" pos="S" cert="medium" n="13220">en</w>
 	<w lemma="ÉCHIQUIER" pos="Nc" n="13221">Eschiquier</w>
@@ -14504,7 +14504,7 @@
 							<w lemma="POUR" pos="S" n="13272">pour</w>
 							<w lemma="CE" pos="Pd" n="13273">ce</w>
 	<w lemma="QUE" pos="Pr" cert="medium" n="13274">qu</w>
-							<w lemma="'" pos="Fw" n="13275">'</w>
+							<w lemma="’" pos="Fw" n="13275">’</w>
 							<w lemma="IL" pos="Pp" n="13276">il</w>
 							<w lemma="ÊTRE" pos="Vuc" n="13277">estoit</w>
 							<w lemma="FIL/FILS" pos="Nc" n="13278">filz</w>
@@ -14596,7 +14596,7 @@
 							<w lemma="," pos="Fw" n="13360">,</w>
 							<w lemma="CONTENIR" pos="Ga" n="13361">contenant</w>
 							<w lemma="QUE" pos="Cs" n="13362">qu</w>
-							<w lemma="'" pos="Fw" n="13363">'</w>
+							<w lemma="’" pos="Fw" n="13363">’</w>
 							<w lemma="IL" pos="Pp" n="13364">il</w>
 							<w lemma="ÊTRE" pos="Vuc" n="13365">feust</w>
 							<w lemma="ISSIR" pos="Ge" n="13366">yssu</w>
@@ -14922,7 +14922,7 @@
                 <lb facs="#morisse_facs_10_r2l1" />
                 <w lemma="EN" pos="S" cert="medium" n="13666">En</w>
                 <w lemma="LE" pos="Da" n="13667">l</w>
-                <w lemma="'" pos="Fw" n="13668">'</w>
+                <w lemma="’" pos="Fw" n="13668">’</w>
                 <w lemma="ÉCHIQUIER" pos="Nc" n="13669">Eschiquier</w>
                 <w lemma="DE" pos="S" n="13670">de</w>
                 <w lemma="LE" pos="Da" n="13671">la</w>
@@ -14949,12 +14949,12 @@
                 <w lemma="NOTRE" pos="Ds" n="13691">nostre</w>
                 <w lemma="SIRE" pos="Nc" n="13692">sire</w>
                 <w lemma="DE" pos="S" n="13693">d</w>
-                <w lemma="'" pos="Fw" n="13694">'</w>
+                <w lemma="’" pos="Fw" n="13694">’</w>
                 <w lemma="UN" pos="Dn" n="13695">une</w>
                 <w lemma="PART" pos="Nc" n="13696">part</w>
                 <w lemma="ET" pos="Cc" n="13697">et</w>
                 <w lemma="LE" pos="Da" n="13698">l</w>
-                <w lemma="'" pos="Fw" n="13699">'</w>
+                <w lemma="’" pos="Fw" n="13699">’</w>
                 <w lemma="ACTIONNER" pos="Ge" n="13700">actionné</w>
                 <w lemma="MESSIRE" pos="Nc" n="13701">messire</w>
                 <w lemma="JEHAN" pos="Np" n="13702">Jehan</w>
@@ -14978,7 +14978,7 @@
                 <w lemma="GUILLAUME" pos="Nc|Np" n="13719">Guillaume</w>
                 <w lemma="INC" pos="Inconnu" n="13720">Ruault</w>
                 <w lemma="DE" pos="S" n="13721">d</w>
-                <w lemma="'" pos="Fw" n="13722">'</w>
+                <w lemma="’" pos="Fw" n="13722">’</w>
                 <w lemma="AUTRE" pos="Pi" cert="medium" n="13723">autre</w>
                 <w lemma="." pos="Fs" n="13724">.</w>
                 <w lemma="SUR" pos="S" n="13725">Sur</w>
@@ -15101,7 +15101,7 @@
                 <w lemma="LEDIT" pos="Dd" n="13835">ladite</w>
                 <w lemma="VOIR" pos="Ge" n="13836">veue</w>
                 <w lemma="SE" pos="Pp" cert="medium" n="13837">s</w>
-                <w lemma="'" pos="Fw" n="13838">'</w>
+                <w lemma="’" pos="Fw" n="13838">’</w>
                 <w lemma="ÊTRE" pos="Vuc" n="13839">estoit</w>
                 <w lemma="TERMER|TERMÉE" pos="Ge|Nc" n="13840">termée</w>
                 <w lemma="." pos="Fs" n="13841">.</w>
@@ -15144,7 +15144,7 @@
                 <w lemma="EN" pos="Pp" cert="medium" n="13876">en</w>
                 <w lemma="RETENIR" pos="Vvn" n="13877">retenir</w>
                 <w lemma="LE" pos="Da" n="13878">l</w>
-                <w lemma="'" pos="Fw" n="13879">'</w>
+                <w lemma="’" pos="Fw" n="13879">’</w>
                 <w lemma="INC" pos="Inconnu" n="13880">omage</w>
                 <w lemma="," pos="Fw" n="13881">,</w>
                 <w lemma="QUE" pos="Pr" cert="medium" n="13882">que</w>
@@ -15165,7 +15165,7 @@
                 <w lemma="RETENIR" pos="Ge" n="13897">retenue</w>
                 <lb facs="#morisse_facs_10_r2l11" />
                 <w lemma="DE" pos="S" n="13898">d</w>
-                <w lemma="'" pos="Fw" n="13899">'</w>
+                <w lemma="’" pos="Fw" n="13899">’</w>
                 <w lemma="ICELUI" pos="Dd" n="13900">iceulx</w>
                 <w lemma="DEUX" pos="Mc" n="13901">II</w>
                 <w lemma="SOL" pos="Nc" n="13902">solz</w>
@@ -15208,7 +15208,7 @@
                 <w lemma="JUGER" pos="Vvc" n="13938">jugié</w>
                 <w lemma="EN" pos="S" cert="medium" n="13939">en</w>
                 <w lemma="LE" pos="Da" n="13940">l</w>
-                <w lemma="'" pos="Fw" n="13941">'</w>
+                <w lemma="’" pos="Fw" n="13941">’</w>
                 <w lemma="ASSISE" pos="Nc" n="13942">assise</w>
                 <w lemma="DE" pos="S" n="13943">de</w>
                 <w lemma="SAINT" pos="Ag" n="13944">Saint</w>
@@ -15409,7 +15409,7 @@
 							<lb facs="#morisse_facs_11_r3l1" />
 							<w lemma="EN" pos="S" cert="medium" n="14128">En</w>
 							<w lemma="LE" pos="Da" n="14129">l</w>
-	<w lemma="'" pos="Fw" n="14130">'</w>
+	<w lemma="’" pos="Fw" n="14130">’</w>
 							<w lemma="ÉCHIQUIER" pos="Nc" n="14131">Eschiquier</w>
 							<w lemma="DE" pos="S" n="14132">de</w>
 							<w lemma="PÂQUES" pos="Np" n="14133">Pasques</w>
@@ -15447,7 +15447,7 @@
 							<w lemma="JEHAN" pos="Np" n="14164">Jehan</w>
 							<w lemma="INC" pos="Inconnu" n="14165">Maincois</w>
 							<w lemma="DE" pos="S" n="14166">d</w>
-							<w lemma="'" pos="Fw" n="14167">'</w>
+							<w lemma="’" pos="Fw" n="14167">’</w>
 							<w lemma="UN" pos="Dn" n="14168">une</w>
 							<w lemma="PART" pos="Nc" n="14169">part</w>
 							<w lemma="ET" pos="Cc" n="14170">et</w>
@@ -15459,7 +15459,7 @@
 							<w lemma="LE" pos="Da" n="14175">le</w>
 	<w lemma="DROIT" pos="Nc" n="14176">droit</w>
 							<w lemma="DE" pos="S" n="14177">d</w>
-							<w lemma="'" pos="Fw" n="14178">'</w>
+							<w lemma="’" pos="Fw" n="14178">’</w>
 							<w lemma="UN" pos="Dn" n="14179">un</w>
 							<w lemma="NOMMER" pos="Ge" n="14180">nommé</w>
 							<w lemma="BICHET" pos="Nc" n="14181">Bichet</w>
@@ -15467,12 +15467,12 @@
 							<w lemma="SON" pos="Ds" n="14183">sa</w>
 							<w lemma="FEMME" pos="Nc" n="14184">femme</w>
 							<w lemma="DE" pos="S" n="14185">d</w>
-							<w lemma="'" pos="Fw" n="14186">'</w>
+							<w lemma="’" pos="Fw" n="14186">’</w>
 							<w lemma="AUTRE" pos="Di" cert="medium" n="14187">autre</w>
 							<w lemma="PART" pos="Nc" n="14188">part</w>
 							<w lemma="." pos="Fs" n="14189">.</w>
 							<w lemma="CENT|C|C" pos="Mc|Nc|Xe" n="14190">C</w>
-							<w lemma="'" pos="Fw" n="14191">'</w>
+							<w lemma="’" pos="Fw" n="14191">’</w>
 							<w lemma="ÊTRE" pos="Vuc" n="14192">est</w>
 							<w lemma="ASSAVOIR" pos="Vvn" n="14193">assavoir</w>
 	<w lemma="QUE" pos="Cs" n="14194">que</w>
@@ -15556,7 +15556,7 @@
 							<w lemma="INC" pos="Inconnu" n="14266">Troussebourg</w>
 							<lb facs="#morisse_facs_11_r3l8" />
 							<w lemma="NE" pos="Rp" n="14267">n</w>
-							<w lemma="'" pos="Fw" n="14268">'</w>
+							<w lemma="’" pos="Fw" n="14268">’</w>
 							<w lemma="AVOIR" pos="Vuc" n="14269">auroit</w>
 							<w lemma="AUCUN" pos="Di" cert="medium" n="14270">aucune</w>
 							<w lemma="PARTIE" pos="Nc" n="14271">partie</w><mod rend="strikethrough">des</mod>
@@ -15692,7 +15692,7 @@
 							<lb facs="#morisse_facs_12_r2l2" />
 							<w lemma="EN" pos="S" cert="medium" n="14395">En</w>
 							<w lemma="LE" pos="Da" n="14396">l</w>
-	<w lemma="'" pos="Fw" n="14397">'</w>
+	<w lemma="’" pos="Fw" n="14397">’</w>
 							<w lemma="ÉCHIQUIER" pos="Nc" n="14398">Eschiquier</w>
 							<w lemma="DE" pos="S" n="14399">de</w>
 							<w lemma="PÂQUES" pos="Np" n="14400">Pasques</w>
@@ -15933,7 +15933,7 @@
 							<w lemma="À+LE" pos="S" n="14620">au</w>
 							<w lemma="CHAPITRE" pos="Nc" n="14621">chapitre</w>
 							<w lemma="DE" pos="S" n="14622">d</w>
-							<w lemma="'" pos="Fw" n="14623">'</w>
+							<w lemma="’" pos="Fw" n="14623">’</w>
 							<w lemma="ASSISE" pos="Nc" n="14624">assise</w>
 							<w lemma="." pos="Fs" n="14625">.</w>
 						</p>
@@ -16496,7 +16496,7 @@
 							<lb facs="#morisse_facs_16_r1l16" />
 							<w lemma="SORTIR" pos="Ge" n="15143">sortis</w>
 							<w lemma="DE" pos="S" n="15144">d</w>
-							<w lemma="'" pos="Fw" n="15145">'</w>
+							<w lemma="’" pos="Fw" n="15145">’</w>
 							<w lemma="ILS" pos="Pp" n="15146">eux</w>
 							<w lemma="," pos="Fw" n="15147">,</w>
 							<w lemma="ENCORE" pos="Rg" n="15148">encores</w>
@@ -16511,7 +16511,7 @@
 							<w lemma="MÈRE" pos="Nc" n="15156">mere</w>
 							<lb facs="#morisse_facs_16_r1l18" />
 							<w lemma="NE" pos="Rp" n="15157">n</w>
-							<w lemma="'" pos="Fw" n="15158">'</w>
+							<w lemma="’" pos="Fw" n="15158">’</w>
 							<w lemma="EN" pos="Pp" cert="medium" n="15159">en</w>
 							<w lemma="RESTER" pos="Vvc" n="15160">restent</w>
 							<w lemma="AUCUN" pos="Di" cert="medium" n="15161">aucuns</w>
@@ -16620,7 +16620,7 @@
 							<w lemma="," pos="Fw" n="15249">,</w>
 							<w lemma="ENCORE" pos="Rg" n="15250">encores</w>
 							<w lemma="QUE" pos="Cs" n="15251">qu</w>
-							<w lemma="'" pos="Fw" n="15252">'</w>
+							<w lemma="’" pos="Fw" n="15252">’</w>
 							<w lemma="ILS" pos="Pp" n="15253">ilz</w>
 							<w lemma="NE" pos="Rp" n="15254">ne</w>
 							<w lemma="ÊTRE" pos="Vuc" n="15255">soient</w>
@@ -16699,7 +16699,7 @@
 							<w lemma="DE" pos="S" n="15317">de</w>
 							<lb facs="#morisse_facs_16_r2l13" />
 							<w lemma="LE" pos="Da" n="15318">l</w>
-	<w lemma="'" pos="Fw" n="15319">'</w>
+	<w lemma="’" pos="Fw" n="15319">’</w>
 							<w lemma="ONCLE" pos="Nc" n="15320">oncle</w>
 							<w lemma="," pos="Fw" n="15321">,</w>
 							<w lemma="SANS" pos="S" n="15322">sans</w>
@@ -16707,7 +16707,7 @@
 							<w lemma="POUR" pos="S" n="15324">pour</w>
 							<w lemma="CE" pos="Pd" n="15325">ce</w>
 	<w lemma="QUE" pos="Pr" cert="medium" n="15326">qu</w>
-							<w lemma="'" pos="Fw" n="15327">'</w>
+							<w lemma="’" pos="Fw" n="15327">’</w>
 							<w lemma="IL" pos="Pp" n="15328">il</w>
 							<w lemma="ÊTRE" pos="Vuc" n="15329">soit</w>
 							<w lemma="MALE/MALLÉ/MÂLE|MALLER|MALLE/MÂLE|MALER/MALLER|MALLE" pos="Ag|Ge|Nc|Vvc|Xe" n="15330">malle</w>
@@ -16845,7 +16845,7 @@
 							<w lemma="VALOIR" pos="Vvc" n="15446">vaut</w>
 							<w lemma="À" pos="S" n="15447">à</w>
 							<w lemma="LE" pos="Da" n="15448">l</w>
-	<w lemma="'" pos="Fw" n="15449">'</w>
+	<w lemma="’" pos="Fw" n="15449">’</w>
 							<w lemma="AEL" pos="Xe" n="15450">ael</w>
 							<w lemma="QUAND" pos="Cs" n="15451">quand</w>
 							<lb facs="#morisse_facs_17_r2l4" />
@@ -16947,7 +16947,7 @@
 							<lb facs="#morisse_facs_17_r3l10" />
 							<w lemma="DEGRÉ" pos="Nc" n="15525">degrés</w>
 	<w lemma="QUE" pos="Pr" cert="medium" n="15526">qu</w>
-							<w lemma="'" pos="Fw" n="15527">'</w>
+							<w lemma="’" pos="Fw" n="15527">’</w>
 							<w lemma="ILS" pos="Pp" n="15528">ilz</w>
 							<w lemma="ÊTRE" pos="Vuc" n="15529">soient</w>
 							<w lemma="EN" pos="S" cert="medium" n="15530">en</w>
@@ -16960,7 +16960,7 @@
 							<lb facs="#morisse_facs_17_r3l12" />
 							<w lemma="CONQUÊT" pos="Nc" n="15536">conquest</w>
 							<w lemma="DE" pos="S" n="15537">d</w>
-							<w lemma="'" pos="Fw" n="15538">'</w>
+							<w lemma="’" pos="Fw" n="15538">’</w>
 							<w lemma="ENTRE" pos="S" n="15539">entre</w>
 							<w lemma="ILS" pos="Pp" n="15540">eux</w>
 							<w lemma="SEUL" pos="Ag" n="15541">seulx</w>
@@ -17044,7 +17044,7 @@
 	<w lemma="QUELQUE" pos="Di" n="15583">quelque</w>
 							<w lemma="DEGRÉ" pos="Nc" n="15584">degrés</w>
 	<w lemma="QUE" pos="Pr" cert="medium" n="15585">qu</w>
-							<w lemma="'" pos="Fw" n="15586">'</w>
+							<w lemma="’" pos="Fw" n="15586">’</w>
 							<w lemma="ILS" pos="Pp" n="15587">ilz</w>
 							<w lemma="ÊTRE|SAIER/SAYER" pos="Vuc|Vvc" n="15588">soint</w>
 							<w lemma="," pos="Fw" n="15589">,</w>
@@ -17055,7 +17055,7 @@
 							<w lemma="DE" pos="S" n="15593">de</w>
 							<w lemma="SOUCHE" pos="Nc" n="15594">souche</w>
 							<w lemma="SE" pos="Pp" cert="medium" n="15595">s</w>
-							<w lemma="'" pos="Fw" n="15596">'</w>
+							<w lemma="’" pos="Fw" n="15596">’</w>
 							<w lemma="ÉTENDER/ÉTENDRE" pos="Vvc" n="15597">extendent</w>
 							<w lemma="," pos="Fw" n="15598">,</w>
 							<w lemma="EXCLURE" pos="Vvc" n="15599">excluent</w>
@@ -17093,7 +17093,7 @@
 							<w lemma="DE" pos="S" n="15628">de</w>
 							<w lemma="PROCHAIN" pos="Ag" n="15629">prochaine</w>
 							<w lemma="DE" pos="S" n="15630">d</w>
-							<w lemma="'" pos="Fw" n="15631">'</w>
+							<w lemma="’" pos="Fw" n="15631">’</w>
 							<w lemma="ANCÊTRE" pos="Nc" n="15632">ancesseur</w>
 							<w lemma="." pos="Fs" n="15633">.</w>
 						</p>
@@ -17106,7 +17106,7 @@
 								<w lemma="SUCCESSION" pos="Nc" n="15637">succession</w>
 								<lb facs="#morisse_facs_17_r4l2" />
 								<w lemma="SE" pos="Pp" cert="medium" n="15638">s</w>
-								<w lemma="'" pos="Fw" n="15639">'</w>
+								<w lemma="’" pos="Fw" n="15639">’</w>
 								<w lemma="EXTENT" pos="Xe" n="15640">extent</w>
 								<w lemma="JUSQUE" pos="PREP" n="15641">jusques</w>
 								<w lemma="À+LE" pos="S" n="15642">au</w>
@@ -17152,7 +17152,7 @@
 								<w lemma="DE" pos="S" n="15675">de</w>
 								<w lemma="MANIÈRE" pos="Nc" n="15676">maniere</w>
 								<w lemma="QUE" pos="Cs" n="15677">qu</w>
-								<w lemma="'" pos="Fw" n="15678">'</w>
+								<w lemma="’" pos="Fw" n="15678">’</w>
 								<w lemma="IL" pos="Pp" n="15679">il</w>
 								<lb facs="#morisse_facs_17_r4l10" />
 								<w lemma="ÊTRE" pos="Vuc" n="15680">est</w>
@@ -17215,7 +17215,7 @@
 							<lb facs="#morisse_facs_17_r3l10" />
 							<w lemma="DEGRÉ" pos="Nc" n="15721">degrés</w>
 	<w lemma="QUE" pos="Pr" cert="medium" n="15722">qu</w>
-							<w lemma="'" pos="Fw" n="15723">'</w>
+							<w lemma="’" pos="Fw" n="15723">’</w>
 							<w lemma="ILS" pos="Pp" n="15724">ilz</w>
 							<w lemma="ÊTRE" pos="Vuc" n="15725">soient</w>
 							<w lemma="EN" pos="S" cert="medium" n="15726">en</w>
@@ -17228,7 +17228,7 @@
 							<lb facs="#morisse_facs_17_r3l12" />
 							<w lemma="CONQUÊT" pos="Nc" n="15732">conquest</w>
 							<w lemma="DE" pos="S" n="15733">d</w>
-							<w lemma="'" pos="Fw" n="15734">'</w>
+							<w lemma="’" pos="Fw" n="15734">’</w>
 							<w lemma="ENTRE" pos="S" n="15735">entre</w>
 							<w lemma="ILS" pos="Pp" n="15736">eux</w>
 							<w lemma="SEUL" pos="Ag" n="15737">seulx</w>
@@ -17312,7 +17312,7 @@
 	<w lemma="QUELQUE" pos="Di" n="15779">quelque</w>
 							<w lemma="DEGRÉ" pos="Nc" n="15780">degrés</w>
 	<w lemma="QUE" pos="Pr" cert="medium" n="15781">qu</w>
-							<w lemma="'" pos="Fw" n="15782">'</w>
+							<w lemma="’" pos="Fw" n="15782">’</w>
 							<w lemma="ILS" pos="Pp" n="15783">ilz</w>
 							<w lemma="ÊTRE|SAIER/SAYER" pos="Vuc|Vvc" n="15784">soint</w>
 							<w lemma="," pos="Fw" n="15785">,</w>
@@ -17323,7 +17323,7 @@
 							<w lemma="DE" pos="S" n="15789">de</w>
 							<w lemma="SOUCHE" pos="Nc" n="15790">souche</w>
 							<w lemma="SE" pos="Pp" cert="medium" n="15791">s</w>
-							<w lemma="'" pos="Fw" n="15792">'</w>
+							<w lemma="’" pos="Fw" n="15792">’</w>
 							<w lemma="ÉTENDER/ÉTENDRE" pos="Vvc" n="15793">extendent</w>
 							<w lemma="," pos="Fw" n="15794">,</w>
 							<w lemma="EXCLURE" pos="Vvc" n="15795">excluent</w>
@@ -17361,7 +17361,7 @@
 							<w lemma="DE" pos="S" n="15824">de</w>
 							<w lemma="PROCHAIN" pos="Ag" n="15825">prochaine</w>
 							<w lemma="DE" pos="S" n="15826">d</w>
-							<w lemma="'" pos="Fw" n="15827">'</w>
+							<w lemma="’" pos="Fw" n="15827">’</w>
 							<w lemma="ANCÊTRE" pos="Nc" n="15828">ancesseur</w>
 							<w lemma="." pos="Fs" n="15829">.</w>
 						</p>
@@ -17374,7 +17374,7 @@
 								<w lemma="SUCCESSION" pos="Nc" n="15833">succession</w>
 								<lb facs="#morisse_facs_17_r4l2" />
 								<w lemma="SE" pos="Pp" cert="medium" n="15834">s</w>
-								<w lemma="'" pos="Fw" n="15835">'</w>
+								<w lemma="’" pos="Fw" n="15835">’</w>
 								<w lemma="EXTENT" pos="Xe" n="15836">extent</w>
 								<w lemma="JUSQUE" pos="PREP" n="15837">jusques</w>
 								<w lemma="À+LE" pos="S" n="15838">au</w>
@@ -17420,7 +17420,7 @@
 								<w lemma="DE" pos="S" n="15871">de</w>
 								<w lemma="MANIÈRE" pos="Nc" n="15872">maniere</w>
 								<w lemma="QUE" pos="Cs" n="15873">qu</w>
-								<w lemma="'" pos="Fw" n="15874">'</w>
+								<w lemma="’" pos="Fw" n="15874">’</w>
 								<w lemma="IL" pos="Pp" n="15875">il</w>
 								<lb facs="#morisse_facs_17_r4l10" />
 								<w lemma="ÊTRE" pos="Vuc" n="15876">est</w>
@@ -17506,7 +17506,7 @@
 				<w lemma="," pos="Fw" n="15940">,</w>
 				<w lemma="AINSI" pos="Cs|Rg" n="15941">ainsy</w>
 				<w lemma="QUE" pos="Cs" n="15942">qu</w>
-				<w lemma="'" pos="Fw" n="15943">'</w>
+				<w lemma="’" pos="Fw" n="15943">’</w>
 				<w lemma="ILS" pos="Pp" n="15944">ilz</w>
 				<w lemma="AVOIR" pos="Vuc" n="15945">ont</w>
 				<lb facs="#morisse_facs_18_r1l9" />
@@ -17557,7 +17557,7 @@
 				<lb facs="#morisse_facs_18_r1l17" />
 				<w lemma="RACQUIT" pos="Nc" n="15981">racquict</w>
 				<w lemma="SE" pos="Pp" cert="medium" n="15982">s</w>
-				<w lemma="'" pos="Fw" n="15983">'</w>
+				<w lemma="’" pos="Fw" n="15983">’</w>
 				<w lemma="EN" pos="S" cert="medium" n="15984">en</w>
 	<w lemma="DEVOIR" pos="Vvc" n="15985">doibt</w>
 				<w lemma="FERÉ/FERRÉ|FERRER|FERE/FÈRES|FAIRE/FERRER|FERE" pos="Ag|Ge|Nc|Vvc|Xe" n="15986">fere</w>
@@ -17600,7 +17600,7 @@
 								<lb facs="#morisse_facs_18_r3l1" />
 								<w lemma="EN" pos="S" cert="medium" n="16015">En</w>
 								<w lemma="LE" pos="Da" n="16016">l</w>
-	<w lemma="'" pos="Fw" n="16017">'</w>
+	<w lemma="’" pos="Fw" n="16017">’</w>
 								<w lemma="INC" pos="Inconnu" n="16018">Eschicquier</w>
 								<w lemma="DE" pos="S" n="16019">de</w>
 								<w lemma="LE" pos="Da" n="16020">la</w>
@@ -17635,7 +17635,7 @@
 								<w lemma="LEUR" pos="Ds" n="16047">leurs</w>
 								<w lemma="INC" pos="Inconnu" n="16048">porcions</w>
 								<w lemma="DE" pos="S" n="16049">d</w>
-								<w lemma="'" pos="Fw" n="16050">'</w>
+								<w lemma="’" pos="Fw" n="16050">’</w>
 								<w lemma="HÉRITAGE" pos="Nc" n="16051">eritages</w>
 								<w lemma="DE" pos="S" n="16052">de</w>
 								<w lemma="LEUR" pos="Ds" n="16053">leurs</w>
@@ -17694,7 +17694,7 @@
 								<w lemma="PUÎNÉ" pos="Nc" n="16100">puisnez</w>
 								<w lemma="DE" pos="S" n="16101">de</w>
 								<w lemma="LE" pos="Da" n="16102">l</w>
-	<w lemma="'" pos="Fw" n="16103">'</w>
+	<w lemma="’" pos="Fw" n="16103">’</w>
 								<w lemma="ÉCHOITE" pos="Nc" n="16104">eschaeste</w>
 								<w lemma="QUI" pos="Pr" n="16105">qui</w>
 								<w lemma="IL" pos="Pp" n="16106">lui</w>
@@ -17721,11 +17721,11 @@
 								<lb facs="#morisse_facs_18_r3l9" />
 								<w lemma="JUGER" pos="Vvc" n="16123">Jugié</w>
 								<w lemma="DE" pos="S" n="16124">d</w>
-								<w lemma="'" pos="Fw" n="16125">'</w>
+								<w lemma="’" pos="Fw" n="16125">’</w>
 								<w lemma="ÉCHIQUIER" pos="Nc" n="16126">Eschiquier</w>
 								<w lemma="DE" pos="S" n="16127">de</w>
 								<w lemma="LE" pos="Da" n="16128">l</w>
-	<w lemma="'" pos="Fw" n="16129">'</w>
+	<w lemma="’" pos="Fw" n="16129">’</w>
 								<w lemma="AN" pos="Nc" n="16130">an</w>
 								<w lemma="MILLE" pos="Mc" n="16131">mil</w>
 								<w lemma="INC" pos="Inconnu" n="16132">IIII<hi rend="superscript">C</hi>et</w>
@@ -17779,7 +17779,7 @@
 								<w lemma="POUR" pos="S" n="16178">pour</w>
 								<w lemma="CE" pos="Pd" n="16179">ce</w>
 	<w lemma="QUE" pos="Pr" cert="medium" n="16180">qu</w>
-								<w lemma="'" pos="Fw" n="16181">'</w>
+								<w lemma="’" pos="Fw" n="16181">’</w>
 								<w lemma="IL" pos="Pp" n="16182">elle</w>
 								<w lemma="ÊTRE" pos="Vuc" n="16183">est</w>
 								<w lemma="LE" pos="Da" n="16184">la</w>
@@ -17797,7 +17797,7 @@
 								<w lemma="LEUR" pos="Ds" n="16195">leur</w>
 								<w lemma="FRÈRE" pos="Nc" n="16196">frere</w>
 								<w lemma="NE" pos="Rp" n="16197">n</w>
-								<w lemma="'" pos="Fw" n="16198">'</w>
+								<w lemma="’" pos="Fw" n="16198">’</w>
 								<w lemma="ÊTRE" pos="Vuc" n="16199">est</w>
 	<w lemma="QUE" pos="Cs" n="16200">que</w>
 								<w lemma="DE" pos="S" n="16201">de</w>
@@ -17832,7 +17832,7 @@
 								<w lemma="SE" pos="Pp" cert="medium" n="16226">se</w>
 								<w lemma="CE" pos="Pd" n="16227">ce</w>
 								<w lemma="NE" pos="Rp" n="16228">n</w>
-								<w lemma="'" pos="Fw" n="16229">'</w>
+								<w lemma="’" pos="Fw" n="16229">’</w>
 								<w lemma="ÊTRE" pos="Vuc" n="16230">estoit</w>
 	<w lemma="QUE" pos="Cs" n="16231">que</w>
 								<w lemma="DE" pos="S" n="16232">de</w>
@@ -18153,7 +18153,7 @@
 							<lb facs="#morisse_facs_19_r2l1" />
 							<w lemma="EN" pos="S" cert="medium" n="16525">En</w>
 							<w lemma="LE" pos="Da" n="16526">l</w>
-	<w lemma="'" pos="Fw" n="16527">'</w>
+	<w lemma="’" pos="Fw" n="16527">’</w>
 							<w lemma="ÉCHIQUIER" pos="Nc" n="16528">Eschiquier</w>
 							<w lemma="DE" pos="S" n="16529">de</w>
 							<w lemma="PÂQUES" pos="Np" n="16530">Pasques</w>
@@ -18162,7 +18162,7 @@
 							<w lemma="FALAISE" pos="Nc" n="16533">Falaise</w>
 							<w lemma="," pos="Fw" n="16534">,</w>
 							<w lemma="LE" pos="Da" n="16535">l</w>
-	<w lemma="'" pos="Fw" n="16536">'</w>
+	<w lemma="’" pos="Fw" n="16536">’</w>
 							<w lemma="AN" pos="Nc" n="16537">an</w>
 							<w lemma="MILLE" pos="Mc" n="16538">mil</w>
 							<w lemma="CENT/DEUX" pos="Mc" n="16539">II<hi rend="superscript">C</hi></w>
@@ -18181,7 +18181,7 @@
 							<w lemma="TENIR" pos="Ga" n="16552">tenant</w>
 							<lb facs="#morisse_facs_19_r2l2" />
 							<w lemma="DE" pos="S" n="16553">d</w>
-							<w lemma="'" pos="Fw" n="16554">'</w>
+							<w lemma="’" pos="Fw" n="16554">’</w>
 							<w lemma="HÉRITAGE" pos="Nc" n="16555">eritage</w>
 							<w lemma="À" pos="S" n="16556">à</w>
 							<w lemma="AVOIR" pos="Vun" n="16557">avoir</w>
@@ -18211,7 +18211,7 @@
 							<w lemma="SAVOIR" pos="Ge" n="16580">sceu</w>
 							<w lemma="PAR" pos="S" n="16581">par</w>
 							<w lemma="LE" pos="Da" n="16582">l</w>
-	<w lemma="'" pos="Fw" n="16583">'</w>
+	<w lemma="’" pos="Fw" n="16583">’</w>
 							<w lemma="ENQUÊTER|ENQUÊTE/ENQUÊTÉ|ENQUÊTER" pos="Ge|Nc|Vvc" n="16584">enqueste</w>
 							<w lemma="SE" pos="Pp" cert="medium" n="16585">se</w>
 							<w lemma="LE" pos="Da" n="16586">le</w>
@@ -18223,16 +18223,16 @@
 							<w lemma="NOM" pos="Nc" n="16592">nom</w>
 							<w lemma="ET" pos="Cc" n="16593">et</w>
 							<w lemma="SE" pos="Cs" n="16594">s</w>
-							<w lemma="'" pos="Fw" n="16595">'</w>
+							<w lemma="’" pos="Fw" n="16595">’</w>
 							<w lemma="IL" pos="Pp" n="16596">il</w>
 							<w lemma="ÊTRE" pos="Vuc" n="16597">est</w>
 							<w lemma="TROUVÉ|TROUVER" pos="Ag|Ge" n="16598">trouvé</w>
 							<w lemma="PAR" pos="S" n="16599">par</w>
 							<w lemma="LE" pos="Da" n="16600">l</w>
-	<w lemma="'" pos="Fw" n="16601">'</w>
+	<w lemma="’" pos="Fw" n="16601">’</w>
 							<w lemma="ENQUÊTE" pos="Nc" n="16602">enqueste</w>
 							<w lemma="QUE" pos="Cs" n="16603">qu</w>
-							<w lemma="'" pos="Fw" n="16604">'</w>
+							<w lemma="’" pos="Fw" n="16604">’</w>
 							<w lemma="IL" pos="Pp" n="16605">il</w>
 							<w lemma="ÊTRE" pos="Vuc" n="16606">soit</w>
 							<lb facs="#morisse_facs_19_r2l4" />
@@ -18241,7 +18241,7 @@
 							<w lemma="OU" pos="Cc" n="16609">ou</w>
 							<w lemma="DEGRÉ" pos="Nc" n="16610">degré</w>
 	<w lemma="QUE" pos="Pr" cert="medium" n="16611">qu</w>
-							<w lemma="'" pos="Fw" n="16612">'</w>
+							<w lemma="’" pos="Fw" n="16612">’</w>
 							<w lemma="IL" pos="Pp" n="16613">il</w>
 							<w lemma="DIRE" pos="Vvc" n="16614">disoit</w>
 							<w lemma="," pos="Fw" n="16615">,</w>
@@ -18263,7 +18263,7 @@
 							<lb facs="#morisse_facs_19_r2l5" />
 							<w lemma="EN" pos="S" cert="medium" n="16627">En</w>
 							<w lemma="LE" pos="Da" n="16628">l</w>
-	<w lemma="'" pos="Fw" n="16629">'</w>
+	<w lemma="’" pos="Fw" n="16629">’</w>
 							<w lemma="ÉCHIQUIER" pos="Nc" n="16630">Eschiquier</w>
 							<w lemma="DE" pos="S" n="16631">de</w>
 							<w lemma="LE" pos="Da" n="16632">la</w>
@@ -18275,7 +18275,7 @@
 							<w lemma="FALAISE" pos="Nc" n="16638">Falaise</w>
 							<w lemma="EN" pos="S" cert="medium" n="16639">en</w>
 	<w lemma="LE" pos="Da" n="16640">l</w>
-	<w lemma="'" pos="Fw" n="16641">'</w>
+	<w lemma="’" pos="Fw" n="16641">’</w>
 							<w lemma="AN" pos="Nc" n="16642">an</w>
 							<w lemma="MILLE" pos="Mc" n="16643">mil</w>
 							<w lemma="CENT/DEUX" pos="Mc" n="16644">II<hi rend="superscript">C</hi></w>
@@ -18362,7 +18362,7 @@
 							<w lemma="PRÉSENTEMENT" pos="Rg" n="16722">presentement</w>
 							<w lemma="JÀ" pos="Rg" n="16723">jà</w>
 							<w lemma="NE" pos="Rp" n="16724">n</w>
-							<w lemma="'" pos="Fw" n="16725">'</w>
+							<w lemma="’" pos="Fw" n="16725">’</w>
 							<w lemma="Y" pos="Pp" n="16726">y</w>
 							<lb facs="#morisse_facs_19_r2l9" />
 							<w lemma="AVOIR" pos="Vuc" n="16727">aura</w>
@@ -18536,7 +18536,7 @@
 								<w lemma="DIT|DIRE|DIT|DIRE" pos="Ag|Ge|Nc|Vvc" n="16883">dit</w>
 								<w lemma="EN" pos="S" cert="medium" n="16884">en</w>
 	<w lemma="LE" pos="Da" n="16885">l</w>
-	<w lemma="'" pos="Fw" n="16886">'</w>
+	<w lemma="’" pos="Fw" n="16886">’</w>
 								<w lemma="ÉCHIQUIER" pos="Nc" n="16887">Eschiquier</w>
 	<w lemma="QUE" pos="Pr" cert="medium" n="16888">que</w>
 								<w lemma="PERSONNE" pos="Nc" n="16889">personne</w>
@@ -18615,7 +18615,7 @@
 								<w lemma="SUCCESSION" pos="Nc" n="16959">succession</w>
 								<w lemma="DE" pos="S" n="16960">de</w>
 								<w lemma="LE" pos="Da" n="16961">l</w>
-	<w lemma="'" pos="Fw" n="16962">'</w>
+	<w lemma="’" pos="Fw" n="16962">’</w>
 								<w lemma="ANCÊTRE" pos="Nc" n="16963">ancestre</w>
 								<w lemma="," pos="Fw" n="16964">,</w>
 								<w lemma="MAIS" pos="Cc" n="16965">maiz</w>
@@ -18651,13 +18651,13 @@
 								<w lemma="PUÎNÉ" pos="Nc" n="16991">puisné</w>
 								<w lemma="SAISINE" pos="Nc" n="16992">saisine</w>
 								<w lemma="DE" pos="S" n="16993">d</w>
-								<w lemma="'" pos="Fw" n="16994">'</w>
+								<w lemma="’" pos="Fw" n="16994">’</w>
 								<w lemma="HÉRITAGE" pos="Nc" n="16995">eritage</w>
 								<w lemma="POUR" pos="S" n="16996">pour</w>
 								<w lemma="LOTHIER" pos="Np" n="16997">lothier</w>
 								<w lemma="APRÈS" pos="S" n="16998">aprez</w>
 								<w lemma="QUE" pos="Cs" n="16999">qu</w>
-								<w lemma="'" pos="Fw" n="17000">'</w>
+								<w lemma="’" pos="Fw" n="17000">’</w>
 								<w lemma="IL" pos="Pp" n="17001">il</w>
 								<w lemma="AVOIR" pos="S" n="17002">a</w>
 								<w lemma="CONNAÎTRE" pos="Ge" n="17003">congnu</w>
@@ -18671,7 +18671,7 @@
 								<w lemma="FAIRE" pos="Ge" n="17010">faiz</w>
 								<w lemma="," pos="Fw" n="17011">,</w>
 								<w lemma="LE" pos="Da" n="17012">l</w>
-	<w lemma="'" pos="Fw" n="17013">'</w>
+	<w lemma="’" pos="Fw" n="17013">’</w>
 								<w lemma="AÎNÉ" pos="Ag" n="17014">ainsné</w>
 								<w lemma="DIT|DIRE|DIT|DIRE" pos="Ag|Ge|Nc|Vvc" n="17015">dit</w>
 								<w lemma="OU" pos="Cc" n="17016">ou</w>
@@ -18682,7 +18682,7 @@
 								<w lemma="," pos="Fw" n="17021">,</w>
 								<w lemma="QUE" pos="Cs" n="17022">que</w>
 								<w lemma="LE" pos="Da" n="17023">l</w>
-	<w lemma="'" pos="Fw" n="17024">'</w>
+	<w lemma="’" pos="Fw" n="17024">’</w>
 								<w lemma="EN" pos="S" cert="medium" n="17025">en</w>
 	<w lemma="A|À|AVOIR|A" pos="Nc|PREP|Vuc|Xe" n="17026">a</w>
 								<w lemma="METTRE" pos="Ge" n="17027">mis</w>
@@ -18696,7 +18696,7 @@
 								<w lemma="ILS" pos="Pp" n="17035">eulx</w>
 								<w lemma="QUI" pos="Pr" n="17036">qui</w>
 								<w lemma="NE" pos="Rp" n="17037">n</w>
-								<w lemma="'" pos="Fw" n="17038">'</w>
+								<w lemma="’" pos="Fw" n="17038">’</w>
 								<w lemma="ÊTRE" pos="Vuc" n="17039">est</w>
 								<w lemma="PAS" pos="Rp" n="17040">pas</w>
 								<lb facs="#morisse_facs_20_r3l8" />
@@ -18705,7 +18705,7 @@
 								<w lemma="CÔTÉ" pos="Nc" n="17043">costé</w>
 								<w lemma="OU" pos="Cc" n="17044">ou</w>
 								<w lemma="DE" pos="S" n="17045">d</w>
-								<w lemma="'" pos="Fw" n="17046">'</w>
+								<w lemma="’" pos="Fw" n="17046">’</w>
 								<w lemma="ICELUI" pos="Nc" n="17047">icelle</w>
 								<w lemma="SUCCESSION" pos="Nc" n="17048">succession</w>
 								<w lemma="," pos="Fw" n="17049">,</w>
@@ -18865,7 +18865,7 @@
 							<w lemma="ET" pos="Cc" n="17183">et</w>
 							<lb facs="#morisse_facs_21_r4l4" />
 							<w lemma="SE" pos="Cs" n="17184">s</w>
-							<w lemma="'" pos="Fw" n="17185">'</w>
+							<w lemma="’" pos="Fw" n="17185">’</w>
 							<w lemma="IL" pos="Pp" n="17186">il</w>
 							<w lemma="PLAIDER|PLAIDÉ|PLAIDER" pos="Ge|Nc|Vvc" n="17187">plaide</w>
 							<w lemma="EN" pos="S" cert="medium" n="17188">en</w>
@@ -18874,7 +18874,7 @@
 							<w lemma="DÉLAI" pos="Nc" n="17191">delay</w>
 							<lb facs="#morisse_facs_21_r4l5" />
 							<w lemma="DE" pos="S" n="17192">d</w>
-							<w lemma="'" pos="Fw" n="17193">'</w>
+							<w lemma="’" pos="Fw" n="17193">’</w>
 							<w lemma="ASSEOIR" pos="Vvc" n="17194">assisse</w>
 							<w lemma="." pos="Fs" n="17195">.</w>
 						</p>
@@ -18922,7 +18922,7 @@
 									<lb facs="#morisse_facs_21_r5l1" />
 									<w lemma="EN" pos="S" cert="medium" n="17232">En</w>
 									<w lemma="LE" pos="Da" n="17233">l</w>
-	<w lemma="'" pos="Fw" n="17234">'</w>
+	<w lemma="’" pos="Fw" n="17234">’</w>
 									<w lemma="ÉCHIQUIER" pos="Nc" n="17235">Eschiquier</w>
 									<w lemma="DE" pos="S" n="17236">de</w>
 									<w lemma="PÂQUES" pos="Np" n="17237">Pasques</w>
@@ -19214,10 +19214,10 @@
 							<lb facs="#morisse_facs_23_r2l1" />
 							<w lemma="À+LE" pos="S" n="17507">Au</w>
 							<w lemma="JOUR" pos="Nc" n="17508">jourd</w>
-							<w lemma="'" pos="Fw" n="17509">'</w>
+							<w lemma="’" pos="Fw" n="17509">’</w>
 							<w lemma="SIX|OUI|UY" pos="Mc|Rg|Xe" n="17510">uy</w>
 							<w lemma="LE" pos="Da" n="17511">l</w>
-	<w lemma="'" pos="Fw" n="17512">'</w>
+	<w lemma="’" pos="Fw" n="17512">’</w>
 							<w lemma="ON" pos="Pp" n="17513">on</w>
 							<w lemma="PRATIQUE|PRATIQUER|PRATIQUE|PRATIQUER" pos="Ag|Ge|Nc|Vvc" n="17514">pratique</w>
 							<lb facs="#morisse_facs_23_r2l2" />
@@ -19233,7 +19233,7 @@
 							<w lemma="VEUVAGE" pos="Nc" n="17523">veuesvage</w>
 							<w lemma="DE" pos="S" n="17524">de</w>
 							<w lemma="LE" pos="Da" n="17525">l</w>
-	<w lemma="'" pos="Fw" n="17526">'</w>
+	<w lemma="’" pos="Fw" n="17526">’</w>
 							<w lemma="HÉRITAGE" pos="Nc" n="17527">herit<lb break="no" facs="#morisse_facs_23_r2l4" />age</w>
 							<w lemma="DE" pos="S" n="17528">de</w>
 							<w lemma="SON" pos="Ds" n="17529">sa</w>
@@ -19242,7 +19242,7 @@
 							<w lemma="MANIÈRE" pos="Nc" n="17532">ma<lb break="no" facs="#morisse_facs_23_r2l5" />niere</w>
 							<w lemma="QUE" pos="Pr" cert="medium" n="17533">que</w>
 							<w lemma="LE" pos="Da" n="17534">l</w>
-	<w lemma="'" pos="Fw" n="17535">'</w>
+	<w lemma="’" pos="Fw" n="17535">’</w>
 							<w lemma="ON" pos="Pp" n="17536">on</w>
 							<w lemma="CRAINDRE" pos="Vvc" n="17537">craigne</w>
 	<w lemma="QUE" pos="Cs" n="17538">que</w>
@@ -19250,17 +19250,17 @@
 							<w lemma="CE" pos="Dd" n="17539">ceste</w>
 							<w lemma="COUTUME" pos="Nc" n="17540">coustume</w>
 							<w lemma="NE" pos="Rp" n="17541">n</w>
-							<w lemma="'" pos="Fw" n="17542">'</w>
+							<w lemma="’" pos="Fw" n="17542">’</w>
 							<w lemma="ÊTRE" pos="Vuc" n="17543">est</w>
 							<w lemma="LIEU" pos="Nc" n="17544">lieu</w>
 							<w lemma="," pos="Fw" n="17545">,</w>
 							<lb facs="#morisse_facs_23_r2l7" />
 							<w lemma="LE" pos="Da" n="17546">l</w>
-	<w lemma="'" pos="Fw" n="17547">'</w>
+	<w lemma="’" pos="Fw" n="17547">’</w>
 							<w lemma="AÎNÉ" pos="Nc" n="17548">aisné</w>
 							<w lemma="DÉCLARER" pos="Vvc" n="17549">declare</w>
 							<w lemma="QUE" pos="Cs" n="17550">qu</w>
-							<w lemma="'" pos="Fw" n="17551">'</w>
+							<w lemma="’" pos="Fw" n="17551">’</w>
 							<w lemma="IL" pos="Pp" n="17552">il</w>
 							<w lemma="PRENDRE" pos="Vvc" n="17553">prent</w>
 							<lb facs="#morisse_facs_23_r2l8" />
@@ -19291,7 +19291,7 @@
 							<w lemma="LE" pos="Da" n="17574">l</w>
 							<w n="17575">une</w>
 							<w lemma="LE" pos="Da" n="17576">l</w>
-	<w lemma="'" pos="Fw" n="17577">'</w>
+	<w lemma="’" pos="Fw" n="17577">’</w>
 							<w lemma="AUTRE" pos="Pi" cert="medium" n="17578">autre</w>
 	<w lemma="." pos="Fs" n="17579">.</w>
 						</p>
@@ -19432,13 +19432,13 @@
 							<w lemma="LEQUEL" pos="Dr" n="17696">Lequel</w>
 							<w lemma="DROIT" pos="Nc" n="17697">droict</w>
 							<w lemma="DE" pos="S" n="17698">d</w>
-							<w lemma="'" pos="Fw" n="17699">'</w>
+							<w lemma="’" pos="Fw" n="17699">’</w>
 							<w lemma="AÎNESSE" pos="Nc" n="17700">aisnesse</w>
 							<w lemma="NE" pos="Rp" n="17701">ne</w>
 							<w lemma="SORTIR" pos="Vvc" n="17702">sortit</w>
 							<w lemma="DE" pos="S" n="17703">de</w>
 							<w lemma="LE" pos="Da" n="17704">l</w>
-	<w lemma="'" pos="Fw" n="17705">'</w>
+	<w lemma="’" pos="Fw" n="17705">’</w>
 							<w lemma="AÎNÉ" pos="Nc" n="17706">aisné</w>
 							<w lemma="ET" pos="Cc" n="17707">et</w>
 							<w lemma="SON" pos="Ds" n="17708">ses</w>
@@ -19480,7 +19480,7 @@
 							<w lemma="." pos="Fs" n="17737">.</w>
 							<w lemma="SI" pos="Cs" n="17738">Sy</w>
 							<w lemma="LE" pos="Da" n="17739">l</w>
-	<w lemma="'" pos="Fw" n="17740">'</w>
+	<w lemma="’" pos="Fw" n="17740">’</w>
 							<w lemma="AÎNÉ" pos="Nc" n="17741">aisné</w>
 							<w lemma="PRENDRE" pos="Vvc" n="17742">prent</w>
 							<w lemma="UN" pos="Dn" n="17743">ung</w>
@@ -19517,13 +19517,13 @@
 							<w lemma="DÉCÈS" pos="Nc" n="17770">decès</w>
 							<w lemma="DE" pos="S" n="17771">de</w>
 							<w lemma="LE" pos="Da" n="17772">l</w>
-	<w lemma="'" pos="Fw" n="17773">'</w>
+	<w lemma="’" pos="Fw" n="17773">’</w>
 							<w lemma="UN" pos="Dn" n="17774">un</w>
 							<w lemma="DE+LE" pos="S+Da" n="17775">des</w>
 							<w lemma="PUÎNÉ" pos="Nc" n="17776">puisnés</w>
 							<w lemma="." pos="Fs" n="17777">.</w>
 							<w lemma="LE" pos="Da" n="17778">L</w>
-							<w lemma="'" pos="Fw" n="17779">'</w>
+							<w lemma="’" pos="Fw" n="17779">’</w>
 							<w lemma="AÎNÉ" pos="Nc" n="17780">aisné</w>
 							<lb facs="#morisse_facs_23_r5l15" />
 							<w lemma="NE" pos="Rp" n="17781">ne</w>
@@ -19675,12 +19675,12 @@
 							<w lemma="FIEF" pos="Nc" n="17908">fiefz</w>
 	<w lemma="QUE" pos="Pr" cert="medium" n="17909">que</w>
 							<w lemma="DE" pos="S" n="17910">d</w>
-							<w lemma="'" pos="Fw" n="17911">'</w>
+							<w lemma="’" pos="Fw" n="17911">’</w>
 							<w lemma="ENFANT" pos="Nc" n="17912">enfans</w>
 							<lb facs="#morisse_facs_24_r1l3" />
 							<w lemma="ET" pos="Cc" n="17913">et</w>
 							<w lemma="LE" pos="Da" n="17914">l</w>
-	<w lemma="'" pos="Fw" n="17915">'</w>
+	<w lemma="’" pos="Fw" n="17915">’</w>
 							<w lemma="AÎNÉ" pos="Nc" n="17916">aisné</w>
 							<w lemma="EN" pos="S" cert="medium" n="17917">en</w>
 	<w lemma="PRENDRE" pos="Vvc" n="17918">print</w>
@@ -19725,19 +19725,19 @@
 							<lb facs="#morisse_facs_24_r1l11" />
 							<w lemma="DE" pos="S" n="17951">de</w>
 							<w lemma="LE" pos="Da" n="17952">l</w>
-	<w lemma="'" pos="Fw" n="17953">'</w>
+	<w lemma="’" pos="Fw" n="17953">’</w>
 							<w lemma="UN" pos="Dn" n="17954">un</w>
 							<w lemma="DE+LE" pos="S+Da" n="17955">des</w>
 							<w lemma="PUÎNÉ" pos="Nc" n="17956">puisnés</w>
 							<w lemma="," pos="Fw" n="17957">,</w>
 							<w lemma="LE" pos="Da" n="17958">l</w>
-	<w lemma="'" pos="Fw" n="17959">'</w>
+	<w lemma="’" pos="Fw" n="17959">’</w>
 							<w lemma="AÎNÉ" pos="Nc" n="17960">aisné</w>
 							<lb facs="#morisse_facs_24_r1l12" />
 							<w lemma="À+LE" pos="S" n="17961">au</w>
 							<w lemma="DROIT" pos="Nc" n="17962">droict</w>
 							<w lemma="DE" pos="S" n="17963">d</w>
-							<w lemma="'" pos="Fw" n="17964">'</w>
+							<w lemma="’" pos="Fw" n="17964">’</w>
 							<w lemma="AÎNESSE" pos="Nc" n="17965">aisnesse</w>
 							<w lemma="SUCCÉDER" pos="Vvc" n="17966">succede</w>
 							<lb facs="#morisse_facs_24_r1l13" />
@@ -19770,7 +19770,7 @@
 							<w lemma="PAREIL" pos="Ag|Di|Nc|Rg" n="17987">pareil</w>
 							<w lemma="," pos="Fw" n="17988">,</w>
 							<w lemma="LE" pos="Da" n="17989">l</w>
-	<w lemma="'" pos="Fw" n="17990">'</w>
+	<w lemma="’" pos="Fw" n="17990">’</w>
 							<w lemma="AÎNÉ" pos="Nc" n="17991">aisné</w>
 							<w lemma="SUCCÉDER" pos="Vvc" n="17992">succede</w>
 							<lb facs="#morisse_facs_24_r1l18" />
@@ -19933,7 +19933,7 @@
 							<w lemma="," pos="Fw" n="18125">,</w>
 							<w lemma="SI" pos="Cs" n="18126">si</w>
 							<w lemma="LE" pos="Da" n="18127">l</w>
-	<w lemma="'" pos="Fw" n="18128">'</w>
+	<w lemma="’" pos="Fw" n="18128">’</w>
 							<w lemma="AÎNÉ" pos="Nc" n="18129">aisné</w>
 							<w lemma="EN" pos="Pp" cert="medium" n="18130">en</w>
 							<lb facs="#morisse_facs_24_r3l3" />
@@ -19941,7 +19941,7 @@
 							<w lemma="PRENDRE" pos="Ge" n="18132">prins</w>
 							<w lemma="," pos="Fw" n="18133">,</w>
 							<w lemma="LE" pos="Da" n="18134">l</w>
-	<w lemma="'" pos="Fw" n="18135">'</w>
+	<w lemma="’" pos="Fw" n="18135">’</w>
 							<w lemma="UN" pos="Dn" n="18136">ung</w>
 							<w lemma="PAR" pos="S" n="18137">par</w>
 							<w lemma="PRÉCIPUT" pos="Nc" n="18138">preciput</w>
@@ -19974,7 +19974,7 @@
 							<w lemma="ENSEMBLE|ENSEMBLER|ENSEMBLE|ENSEMBLE|ENSEMBLER" pos="Ag|Ge|Nc|Rg|Vvc" n="18162">ensemble</w>
 							<w lemma="OU" pos="Cc" n="18163">ou</w>
 							<w lemma="LE" pos="Da" n="18164">l</w>
-	<w lemma="'" pos="Fw" n="18165">'</w>
+	<w lemma="’" pos="Fw" n="18165">’</w>
 							<w lemma="UN" pos="Dn" n="18166">ung</w>
 							<w lemma="DE+LE" pos="S+Da" n="18167">des</w>
 							<w lemma="PUÎNÉ" pos="Nc" n="18168">puisnés</w>
@@ -19982,14 +19982,14 @@
 							<lb facs="#morisse_facs_24_r3l7" />
 							<w lemma="NI" pos="Cs" n="18170">ni</w>
 							<w lemma="LE" pos="Da" n="18171">l</w>
-	<w lemma="'" pos="Fw" n="18172">'</w>
+	<w lemma="’" pos="Fw" n="18172">’</w>
 							<w lemma="AÎNÉ" pos="Nc" n="18173">aisné</w>
 							<w lemma="NE" pos="Rp" n="18174">ne</w>
 							<w lemma="LE" pos="Da" n="18175">le</w>
 	<w lemma="SECOND" pos="Mo" n="18176">segont</w>
 							<w lemma="AÎNÉ" pos="Nc" n="18177">aisné</w>
 							<w lemma="NE" pos="Rp" n="18178">n</w>
-							<w lemma="'" pos="Fw" n="18179">'</w>
+							<w lemma="’" pos="Fw" n="18179">’</w>
 							<w lemma="AVOIR" pos="Vuc" n="18180">ont</w>
 							<w lemma="PART" pos="Nc" n="18181">part</w>
 							<w lemma="À" pos="S" n="18182">à</w>
@@ -20021,7 +20021,7 @@
 							<lb facs="#morisse_facs_24_r3l11" />
 							<w lemma="IL" pos="Pp" n="18203">il</w>
 							<w lemma="NE" pos="Rp" n="18204">n</w>
-							<w lemma="'" pos="Fw" n="18205">'</w>
+							<w lemma="’" pos="Fw" n="18205">’</w>
 							<w lemma="Y" pos="Pp" n="18206">i</w>
 							<w lemma="AVOIR" pos="Vuc" n="18207">auroit</w>
 							<w lemma="POUR" pos="S" n="18208">pour</w>
@@ -20049,10 +20049,10 @@
 							<w lemma="ENCORE" pos="Rg" n="18228">encores</w>
 	<w lemma="QUE" pos="Cs" n="18229">que</w>
 							<w lemma="LE" pos="Da" n="18230">l</w>
-	<w lemma="'" pos="Fw" n="18231">'</w>
+	<w lemma="’" pos="Fw" n="18231">’</w>
 							<w lemma="UN" pos="Dn" n="18232">ung</w>
 							<w lemma="DE" pos="S" n="18233">d</w>
-							<w lemma="'" pos="Fw" n="18234">'</w>
+							<w lemma="’" pos="Fw" n="18234">’</w>
 							<w lemma="ICELUI" pos="Pd" n="18235">iceux</w>
 							<lb facs="#morisse_facs_24_r3l14" />
 							<w lemma="DÉCÉDER" pos="Vvc" n="18236">decede</w>
@@ -20062,7 +20062,7 @@
 							<w lemma="DE+LE" pos="S+Da" n="18240">des</w>
 							<w lemma="AUTRE|AUTRE|AUTRES" pos="Ag|Pi|Xe" n="18241">autres</w>
 							<w lemma="NE" pos="Rp" n="18242">n</w>
-							<w lemma="'" pos="Fw" n="18243">'</w>
+							<w lemma="’" pos="Fw" n="18243">’</w>
 							<w lemma="EN" pos="Pp" cert="medium" n="18244">en</w>
 							<w lemma="ACCROÎTRE" pos="Vvc" n="18245">acroist</w>
 							<w lemma="," pos="Fw" n="18246">,</w>
@@ -20071,7 +20071,7 @@
 							<w lemma="REVENIR" pos="Vvc" n="18248">revient</w>
 							<w lemma="COMME" pos="Cc" n="18249">comme</w>
 							<w lemma="DE" pos="S" n="18250">d</w>
-							<w lemma="'" pos="Fw" n="18251">'</w>
+							<w lemma="’" pos="Fw" n="18251">’</w>
 							<w lemma="EXEMPTION|EXEMPTER" pos="Nc|Vvc" n="18252">exemption</w>
 							<w lemma="DE" pos="S" n="18253">de</w>
 							<w lemma="PENSION" pos="Nc" n="18254">pension</w>
@@ -20080,7 +20080,7 @@
 							<w lemma="PROFIT" pos="Nc|Xe" n="18256">profit</w>
 							<w lemma="DE" pos="S" n="18257">de</w>
 							<w lemma="LE" pos="Da" n="18258">l</w>
-	<w lemma="'" pos="Fw" n="18259">'</w>
+	<w lemma="’" pos="Fw" n="18259">’</w>
 							<w lemma="AÎNÉ" pos="Nc" n="18260">aisné</w>
 							<w lemma="SAVOIR" pos="Vvc" n="18261">seult</w>
 							<w lemma="." pos="Fs" n="18262">.</w>
@@ -20280,17 +20280,17 @@
 							<w lemma="FIEF" pos="Nc" n="18444">fiefz</w>
 							<w lemma="," pos="Fw" n="18445">,</w>
 							<w lemma="LE" pos="Da" n="18446">l</w>
-	<w lemma="'" pos="Fw" n="18447">'</w>
+	<w lemma="’" pos="Fw" n="18447">’</w>
 							<w lemma="UN" pos="Dn" n="18448">ung</w>
 							<w lemma="PRENDRE" pos="Ge" n="18449">prins</w>
 							<w lemma="PAR" pos="S" n="18450">par</w>
 							<w lemma="LE" pos="Da" n="18451">l</w>
-	<w lemma="'" pos="Fw" n="18452">'</w>
+	<w lemma="’" pos="Fw" n="18452">’</w>
 							<w lemma="AÎNÉ" pos="Nc" n="18453">aisné</w>
 							<lb facs="#morisse_facs_25_r3l2" />
 							<w lemma="ET" pos="Cc" n="18454">et</w>
 							<w lemma="LE" pos="Da" n="18455">l</w>
-	<w lemma="'" pos="Fw" n="18456">'</w>
+	<w lemma="’" pos="Fw" n="18456">’</w>
 							<w lemma="AUTRE" pos="Pi" cert="medium" n="18457">autre</w>
 							<w lemma="PAR" pos="S" n="18458">par</w>
 							<w lemma="LE" pos="Da" n="18459">le</w>
@@ -20303,7 +20303,7 @@
 							<w lemma="IL" pos="Pp" n="18466">il</w>
 							<lb facs="#morisse_facs_25_r3l3" />
 							<w lemma="NE" pos="Rp" n="18467">n</w>
-							<w lemma="'" pos="Fw" n="18468">'</w>
+							<w lemma="’" pos="Fw" n="18468">’</w>
 							<w lemma="Y" pos="Pp" n="18469">i</w>
 							<w lemma="AVOIR" pos="Vuc" n="18470">auroit</w>
 							<w lemma="ÉCHOITE" pos="Nc" n="18471">eschettes</w>
@@ -20312,12 +20312,12 @@
 							<w lemma="PENSION" pos="Nc" n="18474">pension</w>
 							<w lemma="SUR" pos="S" n="18475">sur</w>
 							<w lemma="LE" pos="Da" n="18476">l</w>
-	<w lemma="'" pos="Fw" n="18477">'</w>
+	<w lemma="’" pos="Fw" n="18477">’</w>
 							<w lemma="UN" pos="Dn" n="18478">ung</w>
 							<lb facs="#morisse_facs_25_r3l4" />
 							<w lemma="ET" pos="Cc" n="18479">et</w>
 							<w lemma="LE" pos="Da" n="18480">l</w>
-	<w lemma="'" pos="Fw" n="18481">'</w>
+	<w lemma="’" pos="Fw" n="18481">’</w>
 							<w lemma="AUTRE" pos="Di" cert="medium" n="18482">autre</w>
 							<w lemma="FIEF" pos="Nc" n="18483">fief</w>
 							<w lemma="." pos="Fs" n="18484">.</w>
@@ -20346,7 +20346,7 @@
 							<w lemma="CHOISIR" pos="Vvc" n="18503">choisit</w>
 							<w lemma="ET" pos="Cc" n="18504">et</w>
 							<w lemma="SE" pos="Pp" cert="medium" n="18505">s</w>
-							<w lemma="'" pos="Fw" n="18506">'</w>
+							<w lemma="’" pos="Fw" n="18506">’</w>
 							<w lemma="ARRÊTER" pos="Vvc" n="18507">arrestat</w>
 							<lb facs="#morisse_facs_25_r3l7" />
 							<w lemma="À" pos="S" n="18508">à</w>
@@ -20404,10 +20404,10 @@
 							<w lemma="," pos="Fw" n="18553">,</w>
 							<w lemma="SUR" pos="S" n="18554">sur</w>
 							<w lemma="LE" pos="Da" n="18555">l</w>
-	<w lemma="'" pos="Fw" n="18556">'</w>
+	<w lemma="’" pos="Fw" n="18556">’</w>
 							<w lemma="HÉRITAGE" pos="Nc" n="18557">heritage</w>
 	<w lemma="QUE" pos="Pr" cert="medium" n="18558">qu</w>
-							<w lemma="'" pos="Fw" n="18559">'</w>
+							<w lemma="’" pos="Fw" n="18559">’</w>
 							<w lemma="IL" pos="Pp" n="18560">il</w>
 							<lb facs="#morisse_facs_25_r3l13" />
 							<w lemma="AVOIR" pos="Vuc" n="18561">eust</w>
@@ -20424,14 +20424,14 @@
 							<w lemma="SUCCESSION" pos="Nc" n="18571">succession</w>
 							<w lemma="." pos="Fs" n="18572">.</w>
 							<w lemma="LE" pos="Da" n="18573">L</w>
-							<w lemma="'" pos="Fw" n="18574">'</w>
+							<w lemma="’" pos="Fw" n="18574">’</w>
 							<w lemma="AÎNÉ" pos="Nc" n="18575">aisné</w>
 							<w lemma="," pos="Fw" n="18576">,</w>
 							<w lemma="NÉANMOINS" pos="Rg" n="18577">neanmoins</w>
 							<w lemma="," pos="Fw" n="18578">,</w>
 							<w lemma="RETENIR" pos="Vvc" n="18579">retient</w>
 							<w lemma="LE" pos="Da" n="18580">l</w>
-	<w lemma="'" pos="Fw" n="18581">'</w>
+	<w lemma="’" pos="Fw" n="18581">’</w>
 							<w lemma="HÉRITAGE" pos="Nc" n="18582">heritage</w>
 							<lb facs="#morisse_facs_25_r3l15" />
 							<w lemma="ET" pos="Cc" n="18583">et</w>
@@ -20454,14 +20454,14 @@
 							<w lemma="ÉCHOITE" pos="Nc" n="18598">eschetes</w>
 							<w lemma="DE" pos="S" n="18599">de</w>
 							<w lemma="LE" pos="Da" n="18600">l</w>
-	<w lemma="'" pos="Fw" n="18601">'</w>
+	<w lemma="’" pos="Fw" n="18601">’</w>
 							<w lemma="ESTIMATION" pos="Nc" n="18602">estimation</w>
 							<w lemma="DE" pos="S" n="18603">de</w>
 							<w lemma="LE" pos="Da" n="18604">l</w>
-	<w lemma="'" pos="Fw" n="18605">'</w>
+	<w lemma="’" pos="Fw" n="18605">’</w>
 							<w lemma="HÉRITAGE" pos="Nc" n="18606">heritage</w>
 	<w lemma="QUE" pos="Pr" cert="medium" n="18607">qu</w>
-							<w lemma="'" pos="Fw" n="18608">'</w>
+							<w lemma="’" pos="Fw" n="18608">’</w>
 							<w lemma="IL" pos="Pp" n="18609">il</w>
 							<w lemma="VALOIR" pos="Vvc" n="18610">valloit</w>
 							<w lemma="," pos="Fw" n="18611">,</w>
@@ -20469,7 +20469,7 @@
 							<w lemma="LORS" pos="Rg" n="18612">lors</w>
 							<w lemma="DE" pos="S" n="18613">de</w>
 							<w lemma="LE" pos="Da" n="18614">l</w>
-	<w lemma="'" pos="Fw" n="18615">'</w>
+	<w lemma="’" pos="Fw" n="18615">’</w>
 							<w lemma="ACHAT" pos="Nc" n="18616">achast</w>
 							<w lemma="FAIRE" pos="Ge" n="18617">faict</w>
 							<w lemma="PAR" pos="S" n="18618">par</w>
@@ -20559,7 +20559,7 @@
 							<w lemma="DEDANS" pos="Rg" n="18693">dedans</w>
 							<lb facs="#morisse_facs_26_r1l4" />
 							<w lemma="LE" pos="Da" n="18694">l</w>
-	<w lemma="'" pos="Fw" n="18695">'</w>
+	<w lemma="’" pos="Fw" n="18695">’</w>
 							<w lemma="AN" pos="Nc" n="18696">an</w>
 							<w lemma="," pos="Fw" n="18697">,</w>
 							<w lemma="FAIRE" pos="Vvc" n="18698">facent</w>
@@ -20606,7 +20606,7 @@
 							<w lemma="FAUTE" pos="Nc" n="18733">faute</w>
 							<lb facs="#morisse_facs_26_r1l11" />
 							<w lemma="DE" pos="S" n="18734">d</w>
-							<w lemma="'" pos="Fw" n="18735">'</w>
+							<w lemma="’" pos="Fw" n="18735">’</w>
 							<w lemma="HAÏR" pos="Vvc" n="18736">hoys</w>
 							<w lemma="MALE/MALET/MALLÉ/MÂLE|MALLER|MALLE/MÂLE|MALLES|MALER/MALLER|MALLES" pos="Ag|Ge|Nc|Np|Vvc|Xe" n="18737">malles</w>
 							<w lemma="," pos="Fw" n="18738">,</w>
@@ -20645,7 +20645,7 @@
 							<w lemma="DÉCÉDER" pos="Ga" n="18764">decedans</w>
 							<lb facs="#morisse_facs_26_r1l17" />
 							<w lemma="LE" pos="Da" n="18765">l</w>
-	<w lemma="'" pos="Fw" n="18766">'</w>
+	<w lemma="’" pos="Fw" n="18766">’</w>
 							<w lemma="UN" pos="Pi" n="18767">une</w>
 							<w lemma="DE+LEDIT" pos="S+Dr" n="18768">desdictes</w>
 							<w lemma="SOEUR" pos="Nc" n="18769">soeurs</w>
@@ -20682,7 +20682,7 @@
 							<lb facs="#morisse_facs_26_r1l22" />
 							<w lemma="ENCORE" pos="Rg" n="18794">encores</w>
 							<w lemma="QUE" pos="Cs" n="18795">qu</w>
-							<w lemma="'" pos="Fw" n="18796">'</w>
+							<w lemma="’" pos="Fw" n="18796">’</w>
 							<w lemma="IL" pos="Pp" n="18797">elle</w>
 							<w lemma="ÊTRE" pos="Vuc" n="18798">soit</w>
 <w lemma="DÉCÉDER" pos="Ge" n="18799">decedée</w>

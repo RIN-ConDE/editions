@@ -177,7 +177,7 @@
 <w lemma="SON" pos="Ds" n="46">son</w>
 <w lemma="DOUAIRE" pos="Nc" n="47">doere</w>
 <w lemma="SÛR" pos="Ag" n="48">seur</w>
-<w lemma="LE" pos="Da" n="49">l</w><w lemma="'" pos="Fw" n="50">'</w><w lemma="INC" pos="Inconnu" n="51">eritage</w>
+<w lemma="LE" pos="Da" n="49">l</w><w lemma="’" pos="Fw" n="50">’</w><w lemma="INC" pos="Inconnu" n="51">eritage</w>
 							
 <w lemma="À+LE" pos="S+Da" n="52">au</w>
 <w lemma="PÈRE" pos="Nc" n="53">pere</w>
@@ -191,7 +191,7 @@
 <w lemma="." pos="Fs" n="60">.</w>
 <w lemma="ET" pos="Cc" n="61">et</w>
 <w lemma="SI" pos="Cs" n="62">s</w>
-							<w lemma="'" pos="Fw" n="63">'</w>
+							<w lemma="’" pos="Fw" n="63">’</w>
 							<w lemma="IL" pos="Pp" n="64">il</w>
 <w lemma="NE" pos="Rp" n="65">n</w>
 <w lemma="Y" pos="Pp" n="66">i</w>
@@ -606,7 +606,7 @@
 <w lemma="ET" pos="Cc" n="418">et</w>
 <w lemma="DE" pos="S" n="419">de</w>
 <w lemma="LE" pos="Da" n="420">l</w>
-							<w lemma="'" pos="Fw" n="421">'</w>
+							<w lemma="’" pos="Fw" n="421">’</w>
 							<w lemma="ARCHEVÊQUE" pos="Nc" n="422">arceuesqie</w>
 <w lemma="À" pos="S" n="423">a</w>
 <w lemma="INC" pos="Inconnu" n="424">lapostoile</w>

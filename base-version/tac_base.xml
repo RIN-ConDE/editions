@@ -711,7 +711,7 @@
 <w lemma="SON" pos="Ds" n="46"><choice><orig>ſ</orig><reg>s</reg></choice>on</w>
 <w lemma="DOUAIRE" pos="Nc" n="47"><choice><orig></orig><reg>d</reg></choice>oere</w>
 <w lemma="SÛR" pos="Ag" n="48"><choice><orig>ſ</orig><reg>s</reg></choice>eur</w>
-<w lemma="LE" pos="Da" n="49">l</w><w lemma="'" pos="Fw" n="50">'</w><w lemma="HÉRITAGE" pos="Nc" n="51">er<choice><orig>ı</orig><reg>i</reg></choice>tage</w>
+<w lemma="LE" pos="Da" n="49">l</w><w lemma="’" pos="Fw" n="50">’</w><w lemma="HÉRITAGE" pos="Nc" n="51">er<choice><orig>ı</orig><reg>i</reg></choice>tage</w>
 							<lb facs="#facs_1_r1l9" />
 <w lemma="À+LE" pos="S+Da" n="52">au</w>
 <w lemma="PÈRE" pos="Nc" n="53">pere</w>
@@ -725,7 +725,7 @@
 <w lemma="." pos="Fs" n="60">.</w>
 <w lemma="ET" pos="Cc" n="61"><choice><am>⁊</am><expan>et</expan></choice></w>
 <w lemma="SI" pos="Cs" n="62"><choice><orig>ſ</orig><reg>s</reg></choice></w>
-							<w lemma="'" pos="Fw" n="63">'</w>
+							<w lemma="’" pos="Fw" n="63">’</w>
 							<w lemma="IL" pos="Pp" n="64"><choice><orig>ı</orig><reg>i</reg></choice>l</w>
 <w lemma="NE" pos="Rp" n="65">n</w>
 <w lemma="Y" pos="Pp" n="66"><choice><orig>ı</orig><reg>i</reg></choice></w>
@@ -1140,7 +1140,7 @@
 <w lemma="ET" pos="Cc" n="418"><choice><am>⁊</am><expan>et</expan></choice></w>
 <w lemma="DE" pos="S" n="419"><choice><orig></orig><reg>d</reg></choice>e</w>
 <w lemma="LE" pos="Da" n="420">l</w>
-							<w lemma="'" pos="Fw" n="421">'</w>
+							<w lemma="’" pos="Fw" n="421">’</w>
 							<w lemma="ARCHEVÊQUE" pos="Nc" n="422">arceue<choice><orig>ſqı</orig><reg>sqi</reg></choice>e</w>
 <w lemma="À" pos="S" cert="medium" n="423">a</w>
 <w lemma="LE" pos="Da" n="424">l</w>
@@ -17306,7 +17306,7 @@ angu<choice><orig>ı</orig><reg>i</reg></choice>er</w>
 <w lemma="CONTRE" pos="S" n="14021">contre</w>
 <w lemma="IL" pos="Pp" n="14022">lu<choice><orig>ı</orig><reg>i</reg></choice></w>
 <w lemma="DE+LE" pos="S+Da" n="14023"><choice><orig></orig><reg>d</reg></choice>el</w>
-<w lemma="DERNIER" pos="Ag" n="14024"><choice><orig></orig><reg>d</reg></choice>erren<choice><am>'</am><expan>ier</expan></choice></w>
+<w lemma="DERNIER" pos="Ag" n="14024"><choice><orig></orig><reg>d</reg></choice>erren<choice><am>’</am><expan>ier</expan></choice></w>
 					<lb facs="#facs_45_r2l14" />
 <w lemma="PRÉSENTEMENT" pos="Nc" n="14025">p<choice><orig>ꝛeſ</orig><reg>res</reg></choice>entement</w>
 <w lemma="." pos="Fs" n="14026">.</w>
