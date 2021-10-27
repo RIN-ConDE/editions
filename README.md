@@ -1,3 +1,7 @@
+# Cite this repository
+
+Larrivée, Pierre et Mathieu Goux (dir.), 2021, corpus ConDÉ, Caen, CRISCO EA4255. URL : https://github.com/RIN-ConDE/editions/
+
 # Repository description
 
 This repository contains the database produced by the RIN ConDÉ project. The project, funded by the Normandy Region and based in the Caen and Rouen universities, started in december 2018. It is lead by :
@@ -47,3 +51,8 @@ Toutes les coquilles n'ont pas été trouvées à la révision de l'HTR. Si vous
 L'encodage de "base" inclut une structuration logique du texte en parties, chapitres et sections, ainsi que les liens vers la structuration originelle des images facsimiles. L'on peut ainsi facilement reconstruire un affichage facsimile du texte. Nous avons également inclus des éléments <choice> avec les formes originelles et modernisées. Nous pensons que ces informations permettront l'usage de ces données pour autant de disciplines et buts que possible.
 
 Les liens vers les images IIIF disponibles ne sont pas encore implémentés : les liens montrent toujours le nom des images utilisées. En attendant les liens finaux, si vous souhaitez utiliser les informations graphiques, contactez 'morgane.pica'<at>'unicaen.fr' or  'mathieu.goux'<at>'unicaen.fr' qui vous donneront accès aux dossiers de cloud ou aux collections Transkribus correspondants, pour que vous puissiez télécharger les images correctement nommées et organisées.
+
+ 
+# Vers le site du projet - To the project website
+  
+[À venir -- soon]
