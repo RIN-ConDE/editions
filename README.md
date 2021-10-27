@@ -1,6 +1,9 @@
 # Cite this repository
 
-Larrivée, Pierre et Mathieu Goux (dir.), 2021, corpus ConDÉ, Caen, CRISCO EA4255. URL : https://github.com/RIN-ConDE/editions/
+```Larrivée, Pierre et Mathieu Goux (dir.), 2021, corpus ConDÉ, Caen, CRISCO EA4255, version ******. URL : https://github.com/RIN-ConDE/editions/```
+
+Current version is ```"alpha" 0.4```. Version is mentionned in `//TEI/teiHeader/fileDesc/editionStmt/edition`.
+La version actuelle est ```"alpha" 0.4```. La version est mentionnée dans les `//TEI/teiHeader/fileDesc/editionStmt/edition`.
 
 # Repository description
 
