@@ -13,6 +13,8 @@ La version actuelle est ```"alpha" 0.4```. La version est mentionnée dans les `
 * [Project GitLab repository](https://git.unicaen.fr/morgane.pica/editions)
 * The ConDÉ corpus on Nakala (soon)
 
+---------------------------------------------------------
+
 # Repository description
 
 This repository contains the database produced by the RIN ConDÉ project. The project, funded by the Normandy Region and based in the Caen and Rouen universities, started in december 2018. It is lead by :
