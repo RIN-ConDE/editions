@@ -5,7 +5,7 @@
 	<teiHeader xml:lang="fr">
 		<fileDesc>
 			<titleStmt>
-				<title>Notes de Charles Morisse sur le Grand Coutumier (15e s.)</title>
+				<title>Notes de Charles Morisse sur le Grand Coutumier</title>
 				<editor>M. Goux</editor>
 				<editor>B. Étienne</editor>
 				<editor>J.-B. Viel</editor>
@@ -50,18 +50,18 @@
 					<orgName>CRISCO (Centre de Recherche Interlangue sur la Signification en COntexte) EA 4255, <orgName>Université de Caen Normandie</orgName></orgName>
 				</respStmt>
 				<respStmt>
-					<resp>Paléographe, transcription des <ref corresp="#morisse">notes de Charles Morisse</ref></resp>
-					<resp xml:lang="en">Paleographer, transcription for <ref corresp="#morisse">Charles Morisse's notes</ref></resp>
+					<resp>Paléographe, transcription des <ref corresp="#temoin">notes de Charles Morisse</ref></resp>
+					<resp xml:lang="en">Paleographer, transcription for <ref corresp="#temoin">Charles Morisse's notes</ref></resp>
 					<persName xml:id="be">Baptiste Étienne</persName>
 				</respStmt>
 				<respStmt>
-					<resp>Paléographe, transcription des <ref corresp="#morisse">notes de Charles Morisse</ref></resp>
-					<resp xml:lang="en">Paleographer, transcription for <ref corresp="#morisse">Charles Morisse's notes</ref></resp>
+					<resp>Paléographe, transcription des <ref corresp="#temoin">notes de Charles Morisse</ref></resp>
+					<resp xml:lang="en">Paleographer, transcription for <ref corresp="#temoin">Charles Morisse's notes</ref></resp>
 					<persName xml:id="jbv">Jean-Baptiste Viel</persName>
 				</respStmt>
 				<respStmt>
-					<resp>Stagiaire - pour les <ref corresp="#morisse">notes de Charles Morisse</ref>, synchronisation de la transcription et des images</resp>
-					<resp xml:lang="en">Intern - for <ref corresp="#morisse">Charles Morisse's notes</ref>, transcription to image synchronisation</resp>
+					<resp>Stagiaire - pour les <ref corresp="#temoin">notes de Charles Morisse</ref>, synchronisation de la transcription et des images</resp>
+					<resp xml:lang="en">Intern - for <ref corresp="#temoin">Charles Morisse's notes</ref>, transcription to image synchronisation</resp>
 					<persName xml:id="picart">Marie Picart</persName>
 				</respStmt>
 				<sponsor>Région Normandie</sponsor>
@@ -78,7 +78,7 @@
 				</availability>
 			</publicationStmt>
 			<sourceDesc>
-				<bibl type="source" xml:id="morisse" source="https://ccfr.bnf.fr/portailccfr/ark:/06871/004D08A12153">
+				<bibl type="source" xml:id="temoin" source="https://ccfr.bnf.fr/portailccfr/ark:/06871/004D08A12153">
 					<objectIdentifier>
 						<idno type="classificationMark">Y. 194a</idno>
 						<institution xml:id="bmr">
@@ -109,7 +109,7 @@
 					<p>This digital document was extracted and encoded as part of the ConDÉ project. The present document structure therefore corresponds to the encoding model of the project, based on the TEI P5 rules and designed to be compatible with every witness in a long diachrony corpus (13th-19th c.).</p>
 				</projectDesc>
 				<editorialDecl xml:lang="fr">
-					<p><ref corresp="#morisse">Le document original du Grand Coutumier de Charles Morisse</ref> est conservé à la Bibliothèque Municipale de Rouen. Il comprend des notes marginales ultérieures au texte (15e s.), cependant le texte du Grand Coutumier est très similaire, souvent même identique, à celui du <ref corresp="gc_base.xml/#temoin">Grand Coutumier de Harvard</ref> édité dans le cadre du projet ConDÉ. Pour cette raison, seules les notes attribuées à Morisse sont contenues ici. Elles ont été transcrites intégralement par <ref corresp="#be">Baptiste Étienne</ref> et <ref corresp="#jbv">Jean-Baptiste Viel</ref>, et par <ref corresp="#eb">Éric Barré</ref> pour le folio 74. Après une synchronisation avec les images via <ref corresp="https://transkribus.eu/Transkribus/">Transkribus</ref> par <ref corresp="#picart">Marie Picart</ref>, les notes ont été transformées par XSLT et Python pour être conformes au modèle du projet. Le fichier est ainsi enrichi d'informations structurelles visant uniquement à restituer la structure du document original. Les abréviations ont été résolues tout en conservant l'expression originelle.</p>
+					<p><ref corresp="#temoin">Le document original du Grand Coutumier de Charles Morisse</ref> est conservé à la Bibliothèque Municipale de Rouen. Il comprend des notes marginales ultérieures au texte (15e s.), cependant le texte du Grand Coutumier est très similaire, souvent même identique, à celui du <ref corresp="gc_base.xml/#temoin">Grand Coutumier de Harvard</ref> édité dans le cadre du projet ConDÉ. Pour cette raison, seules les notes attribuées à Morisse sont contenues ici. Elles ont été transcrites intégralement par <ref corresp="#be">Baptiste Étienne</ref> et <ref corresp="#jbv">Jean-Baptiste Viel</ref>, et par <ref corresp="#eb">Éric Barré</ref> pour le folio 74. Après une synchronisation avec les images via <ref corresp="https://transkribus.eu/Transkribus/">Transkribus</ref> par <ref corresp="#picart">Marie Picart</ref>, les notes ont été transformées par XSLT et Python pour être conformes au modèle du projet. Le fichier est ainsi enrichi d'informations structurelles visant uniquement à restituer la structure du document original. Les abréviations ont été résolues tout en conservant l'expression originelle.</p>
 					<p>La structuration reprend celle du Grand Coutumier, ainsi que les titres des chapitres et sections. Les fragments du Grand Coutumier visés par les notes ont été inclus comme citations dans les notes concernées.</p>
 					<p> La lemmatisation a été effectuée grâce au logiciel Analog développé à l'Université de Poitiers par Marie-Hélène Laye, selon les règles établies par le projet <ref corresp="http://presto.ens-lyon.fr/?page_id=197">PRESTO</ref>. Le résultat de la lemmatisation a été désambiguïsé via une première passe automatisée en langage Python puis une révision semi-automatisée en expressions régulières.</p>
 					<p>Pour certains caractères anciens, l'installation de la police <ref corresp="https://sourceforge.net/p/junicode/wiki/Home/">Junicode</ref> peut être nécessaire à l'affichage du texte.</p>
@@ -129,7 +129,7 @@
 			</encodingDesc>
 		
 	</teiHeader>
-	<facsimile corresp="#morisse">
+	<facsimile corresp="#temoin">
 		<surface xml:id="morisse_facs_1" ulx="0" uly="0" lrx="3456" lry="4608" n="18r">
 			<graphic url="BMR_Y194a_37.jpg" width="3456px" height="4608px"/>
 			<zone ulx="3112" uly="12" lrx="3265" lry="140" rendition="TextRegion" xml:id="morisse_facs_1_r1">
@@ -860,8 +860,8 @@
 				<div type="chapter" xml:id="morisse-base-beta-001-001" corresp="gc_base.xml/#gc-base-beta-001-001">
 					<div type="section" xml:id="morisse-base-beta-001-001-007" corresp="gc_base.xml/#gc-base-beta-001-001-007">
 						<head source="gc_base.xml/#gc-base-beta-001-001-007">De deliurer nans</head>
-						<note source="#morisse" place="right-margin" xml:id="morisse-1" type="main-1">
-							<quote source="#morisse">
+						<note place="right-margin" xml:id="morisse-1" type="main-1">
+							<quote source="#temoin">
 								<p>Se le querelle aprez la deliurance de sez namps se deffault au jour assigné. Ilz doiuent estre restituez a cellui qui les print.</p>
 								<p>Et se le preuenu se deffault le querelé sen yra sans *** en la saisine de ses namps et ne respondra de ce neant plus au deffaillant.</p>
 								<p>Et se pourra pourchasser contre lui ses d*** qu'il aura soustenue par la raison de la prinse des namps.</p>
@@ -888,7 +888,7 @@
 								<w join="left" lemma="ICELLE|ICELUI|ICELUI" pos="Pd" n="16">icelle</w>
 								<w lemma="." join="left" pos="Fs" n="17">.</w>
 							</p>
-							<note source="#morisse" xml:id="morisse-2" type="main-1">
+							<note xml:id="morisse-2" type="main-1">
 								<p>
 									<lb facs="#morisse_facs_1_r3l1"/>
 									<w lemma="NOTA" pos="Xe" n="18">Nota</w>
@@ -1100,7 +1100,7 @@
 								</p>
 							</note>
 						</note>
-						<note source="#morisse" place="margin" xml:id="morisse-3" type="main-1">
+						<note place="margin" xml:id="morisse-3" type="main-1">
 							<p>
 								<lb facs="#morisse_facs_1_r4l1"/>
 								<w lemma="EN" pos="S" cert="medium" n="212">En</w>
@@ -1516,7 +1516,7 @@
 					</div>
 					<div type="section" xml:id="morisse-base-beta-001-001-008" corresp="gc_base.xml/#gc-base-beta-001-001-008">
 						<head source="gc_base.xml/#gc-base-beta-001-001-008">De  <choice><am>t</am><expan>ter</expan></choice>res  <choice><am>qͥ</am><expan>qui</expan></choice>  s<choice><am>ū</am><expan>un</expan></choice>t en defens.  ⸿  viii</head>
-						<note xml:id="morisse-4" source="#morisse" place="margin">
+						<note xml:id="morisse-4" source="#temoin" place="margin">
 							<quote source="gc_base.xml/#gc-base-beta-001-001-008"><p>
 								<w rend="red" lemma="⸿" pos="Xe" n="597">⸿ Aucunes bestes sunt qui n <choice><am>ō</am><expan>on</expan></choice>t po<choice><am>ī</am><expan>in</expan></choice>t de banon. ains doiuent en tous tens estre gardees <choice><am>⁊</am><expan>et</expan></choice> les damages que eles font doiuent estre restores si comme chieures qui brostent les borions des arbres <choice><am>⁊</am><expan>et</expan></choice> des uignes <choice><am>⁊</am><expan>et</expan></choice> porceaus qui foillent les pres <choice><am>⁊</am><expan>et</expan></choice> les bles semes <choice><am>⁊</am><expan>et</expan></choice> totes beste<choice><orig> ᷤ</orig><reg>s</reg></choice> fraitieres <choice><am>⁊</am><expan>et</expan></choice> malfesans qui tous iors doiuent estre gardees <choice><am>⁊</am><expan>et</expan></choice> les damages que eles font doiuent estre restores.</w>
 							</p></quote>
@@ -1724,7 +1724,7 @@
 					<head source="gc_base.xml/#gc-base-beta-001-003">Des tenemens et des eschaietes et des choses qui appartienent.</head>
 					<div type="section" xml:id="morisse-base-beta-001-003-003" corresp="gc_base.xml/#gc-base-beta-001-003-003">
 						<head source="gc_base.xml/#gc-base-beta-001-003-003">De assise.  xxii.</head>
-						<note xml:id="morisse-5" source="#morisse">
+						<note xml:id="morisse-5" source="#temoin">
 							<quote source="gc_base.xml/#gc-base-beta-001-003-003">
 								<p>⸿  Nos forbanisson de par le duc Pierres por la mort Thomas que il ocist.  si que qui le trouera apres ceste assise rende le mort ou uif a  la iustise.   <choice><am>⁊</am><expan>et</expan></choice>  se il ne le poet prendre si crit harou a haute uoiz apres lui.</p>
 							</quote>
@@ -2155,7 +2155,7 @@
 								<w lemma="." join="left" pos="Fs" n="1170">.</w>
 							</p>
 						</note>
-						<note xml:id="morisse-6" source="#morisse">
+						<note xml:id="morisse-6" source="#temoin">
 							<quote source="gc_base.xml/#gc-base-beta-001-003-003"><p> ⸿  Celui qui s en fuit a  l  iglyse ou a  se<choice><am>ī</am><expan>in</expan></choice>t lieu.  il ipoet demorer  <choice><orig>.viii.</orig><reg>viii</reg></choice>  iors  <choice><am>⁊</am><expan>et</expan></choice>  au noeme ior l  en li doit demander se il se uelt rendre a  la iustise laie ou se il se uelt tenir a  l iglise.</p></quote>
 							<p>
 								<lb facs="#morisse_facs_5_r4l1"/>
@@ -2430,7 +2430,7 @@
 								<w lemma="." join="left" pos="Fs" n="1425">.</w>
 							</p>
 						</note>
-						<note xml:id="morisse-7" source="#morisse">
+						<note xml:id="morisse-7" source="#temoin">
 							<quote source="gc_base.xml/#gc-base-beta-001-003-003"><p> ⸿  Leduc de  <choice><am>normend'</am><expan>Normendie</expan></choice>  aura  <choice><orig>.i.</orig><reg>i</reg></choice>  an  <choice><am>⁊</am><expan>et</expan></choice>   <choice><orig>.i.</orig><reg>i</reg></choice>  ior les  <choice><am>t</am><expan>ter</expan></choice>res as dampnez  <choice><am>⁊</am><expan>et</expan></choice>  les iessues.   <choice><am>⁊</am><expan>et</expan></choice>  apres eles doiuent estre rendues a  celui a  qui il auoit fet h<choice><am>ō</am><expan>om</expan></choice>mage  <choice><am>⁊</am><expan>et</expan></choice>  de qui iltenoit nu a  nu.</p></quote>
 							<p>
 								<lb facs="#morisse_facs_6_r1l1"/>
@@ -2461,7 +2461,7 @@
 								<w lemma="." join="left" pos="Fs" n="1447">.</w>
 							</p>
 						</note>
-						<note xml:id="morisse-8" source="#morisse">
+						<note xml:id="morisse-8" source="#temoin">
 							<quote source="gc_base.xml/#gc-base-beta-001-003-003"><p>⸿  Les esfanz a  cels qui sunt dampnez ne poent en nule maniere auoir lor heritage.  mes se il en auoient aucune chose auant que celui feist le fet de quoi il est dampne celui ne perdroient il pas.</p></quote>
 							<p>
 								<lb facs="#morisse_facs_6_r2l1"/>
@@ -2902,7 +2902,7 @@
 								<w lemma="." join="left" pos="Fs" n="1854">.</w>
 							</p>
 						</note>
-						<note xml:id="morisse-9" source="#morisse">
+						<note xml:id="morisse-9" source="#temoin">
 							<quote source="gc_base.xml/#gc-base-beta-001-003-003"><p>⸿  Nul du lignage a  celui qui est dampne n  aura rien en son fieu.</p></quote>
 							<p>
 								<lb facs="#morisse_facs_7_r3l1"/>
@@ -2962,7 +2962,7 @@
 								<w lemma="." join="left" pos="Fs" n="1899">.</w>
 							</p>
 						</note>
-						<note xml:id="morisse-10" source="#morisse">
+						<note xml:id="morisse-10" source="#temoin">
 							<quote source="gc_base.xml/#gc-base-beta-001-003-003"><p>⸿  Les mesons as forbaniz  <choice><am>⁊</am><expan>et</expan></choice>  as foriurez  <choice><am>⁊</am><expan>et</expan></choice>  as d<choice><am>ā</am><expan>am</expan></choice>p nez doiuent estre arses en tesmo<choice><am>ī</am><expan>in</expan></choice>g de lor dampnement si que la remembrance de lor felonnie soit a  cels qui seront apres essample  <choice><am>⁊</am><expan>et</expan></choice>  peour.</p></quote>
 							<p>
 								<lb facs="#morisse_facs_8_r2l1"/>
@@ -3211,7 +3211,7 @@
 					</div>
 					<div type="section" xml:id="morisse-base-beta-001-003-004" corresp="gc_base.xml/#gc-base-beta-001-003-004">
 						<head source="gc_base.xml/#gc-base-beta-001-003-004">De escheance d <choice><reg>’</reg></choice>eritage</head>
-						<note xml:id="morisse-11" source="#morisse">
+						<note xml:id="morisse-11" source="#temoin">
 							  		<quote source="gc_base.xml/#gc-base-beta-001-003-004"><p>⸿  Escheance par grace est  <choice><am>qᵅ</am><expan>qua</expan></choice>nt un euesque ou un abe tient le fieu  <choice><am>q̄</am><expan>que</expan></choice>  son anceisor tint qui apartient a  son benefice a  quoi il est esleu par grace .</p></quote>
 								<p>
 									<lb facs="#morisse_facs_10_r2l1"/>
@@ -3529,7 +3529,7 @@
 									<w lemma="." join="left" pos="Fs" n="2427">.</w>
 								</p>
 							</note>
-						<note xml:id="morisse-12" source="#morisse">
+						<note xml:id="morisse-12" source="#temoin">
 						  		<quote source="gc_base.xml/#gc-base-beta-001-003-004"><p>⸿  Et por ce doit l  en sauoir  <choice><am>q̄</am><expan>que</expan></choice>  l  ainzne fuiz est heir son pere.   <choice><am>⁊</am><expan>et</expan></choice>  touz doiu<choice><am>ē</am><expan>en</expan></choice>t estre ses h<choice><am>ō</am><expan>om</expan></choice>mes qui sunt puisnez en cele ligne meisme.  Ja soit ce que plusors sunt encontre ceste costume qui anciennement selt estre gardee en  <choice><orig>n</orig><reg>N</reg></choice>ormendie que l  eritage qui uient a  lenfant au fuiz que il ne doit pas auoir l  eritage son aiel.  ia soit ce que il soit fuiz a  l  ainzne qui morut au uiuant son pere.</p></quote>
 								<p>
 									<lb facs="#morisse_facs_11_r3l1"/>
@@ -3722,7 +3722,7 @@
 									<w lemma="." join="left" pos="Fs" n="2604">.</w>
 								</p>
 							</note>
-						<note xml:id="morisse-13" source="#morisse">
+						<note xml:id="morisse-13" source="#temoin">
 							<quote source="gc_base.xml/#gc-base-beta-001-003-004"><p>quer le fuiz a  l  ainzne doit touz iors auoir l  ainsneesce .   <choice><am>⁊</am><expan>et</expan></choice>  sanz lui ne doit est<choice><am>ᵉ</am><expan>re</expan></choice>  nul or achalengier l  eritage ne a  defendre . </p></quote>
 								<p>
 									<lb facs="#morisse_facs_12_r2l1"/>
@@ -3831,7 +3831,7 @@
 									<w lemma="." join="left" pos="Fs" n="2703">.</w>
 								</p>
 							</note>
-						<note xml:id="morisse-14" source="#morisse">
+						<note xml:id="morisse-14" source="#temoin">
 							<quote><p>⸿  Descheances qui uienent d  auenture l  une est par fieu  <choice><am>⁊</am><expan>et</expan></choice>  l  autre par establissement.  la tierce par condition.  ⸿  Cele par fieu est quant le fieu repaire  <choice><am>p̲</am><expan>par</expan></choice>  faute doir ou quant celui qui tenoit<choice><am>;</am><expan>est</expan></choice>  dampne.  le fieu remaindra  <choice><am>q̄</am><expan>que</expan></choice>  il tient a  celui de qui il est tenu.</p></quote>
 								<p>
 									<lb facs="#morisse_facs_13_r2l1"/>
@@ -3859,7 +3859,7 @@
 									<w lemma="." join="left" pos="Fs" n="2722">.</w>
 								</p>
 							</note>
-						<note xml:id="morisse-15" source="#morisse">
+						<note xml:id="morisse-15" source="#temoin">
 							<quote source="gc_base.xml/#gc-base-beta-001-003-004"><p>⸿  Lainsne fiz a  l  eritage son pere  <choice><am>⁊</am><expan>et</expan></choice>  sa mere.   <choice><am>⁊</am><expan>et</expan></choice>  se il moert ainz que lepere ne la mere ses fiz ou ses plus  <choice><am>ꝓ</am><expan>prou</expan></choice>chains heirs du lignage auront l  eritage.  Et se il ne remaint nul qui soit desc<choice><am>ē</am><expan>en</expan></choice>du de l  ainsne.  l  ainsne apres ou le plus  <choice><am>ꝓ</am><expan>prou</expan></choice>chain qui soit descendu de lui aura l  eritage.   <choice><am>⁊</am><expan>et</expan></choice>  autresi doit l  en entendre des autres puisnez.  Et se touz les enfanz sunt mors ainz que le pere son autre frere aura l  eritage ou le plus  <choice><am>ꝓ</am><expan>pro</expan></choice>chein qui est de lui iessu.  Et se il ni a  nul des freres ne de lor enfanz l  eritage reuient au pere de qui les freres partirent.  Et se il moert il uendra a  celui qui est son frere.   <choice><am>⁊</am><expan>et</expan></choice>  oncle a  celui de  <choice><am>qͥ</am><expan>qui</expan></choice>  il eschiet.  Et se il nia nul des oncles ne de lor enfanz il uendra a  l  aiel.  Et autresi doit l  en entendre de cels qui sunt en cele ligne.  mes ce ne doit estre  <choice><am>ē</am><expan>en</expan></choice>tendu fors de cels de qui l  eritage descendi.</p></quote>
 								<p>
 									<lb facs="#morisse_facs_15_r2l1"/>
@@ -3878,7 +3878,7 @@
 									<w lemma="." join="left" pos="Fs" n="2734">.</w>
 								</p>
 							</note>
-						<note xml:id="morisse-16" source="#morisse">
+						<note xml:id="morisse-16" source="#temoin">
 							<quote source="gc_base.xml/#gc-base-beta-001-003-004"><p>⸿  L  en doit sauoir que se l  eritage a  aucun desc<choice><am>ē</am><expan>en</expan></choice>t de par son pere.   <choice><am>⁊</am><expan>et</expan></choice>  il a  eu  <choice><orig>.i.</orig><reg>i</reg></choice>  frere ou  <choice><orig>.i.</orig><reg>i</reg></choice>  cousin qui soit de sa mere tant soule<choice><am>m̄</am><expan>men</expan></choice>t.  cel frere ou cel cousin n  aura pas l  eritage.  quer il ne uint pas de ses anceisors.  a<choice><am>ī</am><expan>in</expan></choice>z remaindra au segnor du fieu.  mes il est autre<choice><am>m̄</am><expan>men</expan></choice>t des conquez si c<choice><am>ō</am><expan>om</expan></choice>me nos diron apres.</p></quote>
 								<label facs="#morisse_facs_16_r1l1">
 									<w lemma="CONQUÊT" pos="Nc" n="2735">Conquestz</w>
@@ -4017,7 +4017,7 @@
 									<w lemma="." join="left" pos="Fs" n="2844">.</w>
 								</p>
 							</note>
-						<note xml:id="morisse-17" source="#morisse">
+						<note xml:id="morisse-17" source="#temoin">
 							<quote source="gc_base.xml/#gc-base-beta-001-003-004"><p>⸿  Leritage doit descendre a  celui qui est plus prechain a celui qui le tient apres la mort.  por quoi il soit du lignage de quoi l  eritage descent.</p></quote>
 								<p>
 									<lb facs="#morisse_facs_16_r2l1"/>
@@ -4201,7 +4201,7 @@
 									<w lemma="." join="left" pos="Fs" n="2997">.</w>
 								</p>
 							</note>
-						<note xml:id="morisse-18" source="#morisse">
+						<note xml:id="morisse-18" source="#temoin">
 							<quote source="gc_base.xml/#gc-base-beta-001-003-004"><p>⸿  Se il ne remaint nul des freres l  eritage uendra as cousins.   <choice><am>⁊</am><expan>et</expan></choice>  si ne poet uenir a  l  aiel tant c<choice><am>ō</am><expan>om</expan></choice>me il iait nul de cels qui sunt descendus de lui.   <c rend="red">M</c>es se il ne nia nul l  eritage reu<choice><am>ē</am><expan>en</expan></choice>  dra a  lui  <choice><am>⁊</am><expan>et</expan></choice>  a  celui qui descendi de lui.  Et les conquez que les enfans ont fet uiennent touz iors as plus  <choice><am>ꝓ</am><expan>prou</expan></choice>chains du lignage.</p></quote>
 								<p>
 									<lb facs="#morisse_facs_17_r2l1"/>
@@ -4272,8 +4272,8 @@
 									<w lemma="." join="left" pos="Fs" n="3053">.</w>
 								</p>
 							</note>
-						<note xml:id="morisse-schema" source="#morisse">
-								<quote source="#morisse">Il est assavoir que se aucuns enffantz sont procreez d'un mesme pere et de diverses meres, se l'un d'eux se trespasse, sa succession retournera au frere, ainsi que en sera aux autres porcion comme il devra.</quote>
+						<note xml:id="morisse-schema" source="#temoin">
+								<quote source="#temoin">Il est assavoir que se aucuns enffantz sont procreez d'un mesme pere et de diverses meres, se l'un d'eux se trespasse, sa succession retournera au frere, ainsi que en sera aux autres porcion comme il devra.</quote>
 								<p>
 									<lb facs="#morisse_facs_17_r3l1"/>
 									<w lemma="LE" pos="Da" n="3054">La</w>
@@ -4540,8 +4540,8 @@
 									<w lemma="." join="left" pos="Fs" n="3249">.</w>
 								</p>
 							</note>
-						<note xml:id="morisse-20" source="#morisse">
-							<quote source="#morisse">Les enffantz qui sont de par les ***** ne les femmes mesmes n'auront pas heritage tant comme il y ait aucun qui soit descendu des *****.</quote>
+						<note xml:id="morisse-20" source="#temoin">
+							<quote source="#temoin">Les enffantz qui sont de par les ***** ne les femmes mesmes n'auront pas heritage tant comme il y ait aucun qui soit descendu des *****.</quote>
 							<p>
 								<lb facs="#morisse_facs_18_r1l0"/>
 								<w lemma="NOTA" pos="Xe" n="3250">N<choice><am>a</am><expan>ota</expan></choice></w> : 				<lb facs="#morisse_facs_18_r1l1"/>
@@ -4648,8 +4648,8 @@
 								<w lemma="." join="left" pos="Fs" n="3331">.</w>
 							</p>
 						</note>
-						<note xml:id="morisse-21" source="#morisse">
-								<quote source="#morisse">L'eritage des enfans revient au pere quant il n'y a nul qui soit descendu de, lui ainsy doit l'en *** de la mere de l'ael du besael et du tiers ael de l'aelle de la besaelle et de la tiers aelle. En povoir que on doit tousiours recourre a la chouc**** qui est de l'ainsne masle les enffanz qui yssent de lui ont la dignete d'avoir l'eritage. Et ce sera monstre plainement cy aprez.</quote>
+						<note xml:id="morisse-21" source="#temoin">
+								<quote source="#temoin">L'eritage des enfans revient au pere quant il n'y a nul qui soit descendu de, lui ainsy doit l'en *** de la mere de l'ael du besael et du tiers ael de l'aelle de la besaelle et de la tiers aelle. En povoir que on doit tousiours recourre a la chouc**** qui est de l'ainsne masle les enffanz qui yssent de lui ont la dignete d'avoir l'eritage. Et ce sera monstre plainement cy aprez.</quote>
 								<p>
 									<lb facs="#morisse_facs_18_r3l1"/>
 									<w lemma="EN" pos="S" cert="medium" n="3332">En</w>
@@ -4906,7 +4906,7 @@
 					</div>
 					<div type="section" xml:id="morisse-base-beta-001-003-005" corresp="gc_base.xml/#gc-base-beta-001-003-005">
 						<head source="gc_base.xml/#gc-base-beta-001-003-005">De parties d<choice><reg>’</reg></choice>eritage.  xxiii.</head>
-						<note xml:id="morisse-22" source="#morisse">
+						<note xml:id="morisse-22" source="#temoin">
 							<quote source="gc_base.xml/#gc-base-beta-001-003-005"><p>⸿   <choice><am>Qᵅnt</am><expan>Quant</expan></choice>  a  aucun est eschau l eritage son pere ou s<choice><am>ō</am><expan>on</expan></choice>  aiel.  se il ia freres qui soient du lignage a  celui de qui l  eritage descent.  le fieu doit estre baillie au puisne si enfera autretant parties c<choice><am>ō</am><expan>om</expan></choice>me il sunt principax parch<choice><am>ō</am><expan>on</expan></choice>nier<choice><orig> ᷤ</orig><reg>s</reg></choice>.  selon la costume del pais.</p></quote>
 							<p>
 								<lb facs="#morisse_facs_19_r2l1"/>
@@ -5017,7 +5017,7 @@
 								<w lemma="." join="left" pos="Fs" n="3662">.</w>
 							</p>
 						</note>
-						<note xml:id="morisse-23" source="#morisse">
+						<note xml:id="morisse-23" source="#temoin">
 							<p>
 								<lb facs="#morisse_facs_19_r2l5"/>
 								<w lemma="EN" pos="S" cert="medium" n="3663">En</w>
@@ -5139,7 +5139,7 @@
 								<w lemma="." join="left" pos="Fs" n="3775">.</w>
 							</p>
 						</note>
-						<note xml:id="morisse-24" source="#morisse">
+						<note xml:id="morisse-24" source="#temoin">
 							<quote source="gc_base.xml/#gc-base-beta-001-003-005"><p>⸿  le puisne doit fere les parties que il ne departe pas les fieux de hauberc ne les autres fieux la ou il a  garde ne ne meslent pas les choses qui sunt en une vile o  celes qui sunt en autres viles.   <choice><am>⁊</am><expan>et</expan></choice>  que il ne retaillent pas ne ne recoupent les pieces de  <choice><am>t</am><expan>ter</expan></choice>re por tant que oue les parties  <choice><am>ē</am><expan>en</expan></choice>  puissent estre fetes. </p></quote>
 							<p>
 								<lb facs="#morisse_facs_20_r3l1"/>
@@ -5331,7 +5331,7 @@
 								<w lemma="." join="left" pos="Fs" n="3952">.</w>
 							</p>
 						</note>
-						<note xml:id="morisse-25" source="#morisse">
+						<note xml:id="morisse-25" source="#temoin">
 							<quote source="gc_base.xml/#gc-base-beta-001-003-005"><p>⸿  Lechief de l  eritage remaindra a  lainsne si c<choice><am>ō</am><expan>om</expan></choice>me le herberge<choice><am>m̄</am><expan>men</expan></choice>t .   <choice><am>⁊</am><expan>et</expan></choice>  le clos  <choice><am>⁊</am><expan>et</expan></choice>  le gardin  <choice><am>⁊</am><expan>et</expan></choice>  le cortil.</p></quote>
 							<p>
 								<lb facs="#morisse_facs_21_r2l1"/>
@@ -5362,7 +5362,7 @@
 								<note resp="#be #jbv">N.d.T. : Numéro de chapitre non précisé par l'annotateur.</note>
 							</p>
 						</note>
-						<note xml:id="morisse-26" source="#morisse">
+						<note xml:id="morisse-26" source="#temoin">
 							<quote source="gc_base.xml/#gc-base-beta-001-003-005"><p>⸿  Quant les parties seront fetes  <choice><am>⁊</am><expan>et</expan></choice>  devisees le puisne les doit aporter a  cort .   <choice><am>⁊</am><expan>et</expan></choice>  doit dire a  ses ainsnez freres que il choisissent .   <choice><am>⁊</am><expan>et</expan></choice>  se il uoelent il choisiront maintenant ou il aront  <choice><am>t</am><expan>ter</expan></choice>me de  <choice><am>qͥ</am><expan>qui</expan></choice>  nzaine au me<choice><am>ī</am><expan>in</expan></choice>s</p></quote>
 							<p>
 								<lb facs="#morisse_facs_21_r4l1"/>
@@ -5399,7 +5399,7 @@
 								<w lemma="." join="left" pos="Fs" n="3999">.</w>
 							</p>
 						</note>
-						<note xml:id="morisse-27" source="#morisse">
+						<note xml:id="morisse-27" source="#temoin">
 							<quote source="gc_base.xml/#gc-base-beta-001-003-005"><p>o  sfessier ser de consellier sei  <choice><am>⁊</am><expan>et</expan></choice>  de choisir por quoi les plez soient en laquinzaine .  ou se il pledent en l  assise il aront ior  <choice><am>⁊</am><expan>et</expan></choice>  terme iusqu a  l  autre assise.</p></quote>
 							<p>
 								<lb facs="#morisse_facs_21_r5l1"/>
@@ -5477,7 +5477,7 @@
 								<w lemma="." join="left" pos="Fs" n="4066">.</w>
 							</p>
 						</note>
-						<note xml:id="morisse-28" source="#morisse">
+						<note xml:id="morisse-28" source="#temoin">
 							<quote source="gc_base.xml/#gc-base-beta-001-003-005"><p>⸿  Se tout l  eritage de pere  <choice><am>⁊</am><expan>et</expan></choice>  de mere as freres est ensemble les parties doiuent estre fetes de tout ensemble.</p></quote>
 							<p>
 								<lb facs="#morisse_facs_23_r2l1"/>
@@ -5565,7 +5565,7 @@
 								<w lemma="." join="left" pos="Fs" n="4139">.</w>
 							</p>
 						</note>
-						<note xml:id="morisse-29" source="#morisse">
+						<note xml:id="morisse-29" source="#temoin">
 							<quote source="gc_base.xml/#gc-base-beta-001-003-005"><p>⸿  Se les a<choice><am>ī</am><expan>in</expan></choice>snez ont recheu lor partie en cort  <choice><am>⁊</am><expan>et</expan></choice>  le menor ne uelt receuoir la soue.  il ne lor porra pas demander autre.   <choice><am>⁊</am><expan>et</expan></choice>  l  ainsne la doit tenir t<choice><am>ā</am><expan>an</expan></choice>t que il la requiere.  por ce que il estoit tenu a  fere partie as gregnors.</p></quote>
 							<p>
 								<lb facs="#morisse_facs_23_r5l1"/>
@@ -5755,7 +5755,7 @@
 								</note>
 							</p>
 						</note>
-						<note xml:id="morisse-30" source="#morisse">
+						<note xml:id="morisse-30" source="#temoin">
 							<quote source="gc_base.xml/#gc-base-beta-001-003-005"><p>⸿  L  en doit sauoir que se l  ainsne choisist le fieu qui n  est pas partable  <choice><am>⁊</am><expan>et</expan></choice>  il baille as autres les eschaietes .  se l  un des autres muert l  eschaiete ne reui<choice><am>ē</am><expan>en</expan></choice>t pas a  l  ainsne .  mes a  celui qui en auoit  <choice><am>p̲</am><expan>par</expan></choice>tie .</p></quote>
 							<label facs="#morisse_facs_24_r2l1">
 								<w lemma="NOTA" pos="Xe" n="4292">Nota</w>
@@ -5941,7 +5941,7 @@
 								<w lemma="." join="left" pos="Fs" n="4439">.</w>
 							</p>
 						</note>
-						<note xml:id="morisse-31" source="#morisse">
+						<note xml:id="morisse-31" source="#temoin">
 							<quote source="gc_base.xml/#gc-base-beta-001-003-005"><p>⸿  Et se il ne les ueolent marier eles aront le tierz de l  eritage en lieu de mariage.</p></quote>
 							<p>
 								<lb facs="#morisse_facs_24_r3l1"/>
@@ -6114,7 +6114,7 @@
 								<w lemma="." join="left" pos="Fs" n="4589">.</w>
 							</p>
 						</note>
-						<note xml:id="morisse-32" source="#morisse">
+						<note xml:id="morisse-32" source="#temoin">
 							<quote source="gc_base.xml/#gc-base-beta-001-003-005"><p>⸿  Se aucune est mariee a  aucun h<choice><am>ō</am><expan>om</expan></choice>me ele ne porra nule riens demander a  ses freres par reson de mariage fors ce que pere  <choice><am>⁊</am><expan>et</expan></choice>  mere li d<choice><am>ō</am><expan>on</expan></choice>nerent en mariage.</p></quote>
 							<label facs="#morisse_facs_25_r2l1">
 								<w lemma="NOTA" pos="Xe" n="4590">N<choice><am rend="superscript">a</am><expan>ota</expan></choice>.</w></label>
@@ -6337,7 +6337,7 @@
 								<w lemma="." join="left" pos="Fs" n="4784">.</w>
 							</p>
 						</note>
-						<note xml:id="morisse-33" source="#morisse">
+						<note xml:id="morisse-33" source="#temoin">
 							<quote source="gc_base.xml/#gc-base-beta-001-003-005"><p>⸿  Se la  <choice><am>pᵅ</am><expan>pra</expan></choice>messe est noiee ele doit estre recordee par cels qui furent au mariage.</p></quote>
 							<p>
 								<lb facs="#morisse_facs_26_r1l1"/>
