@@ -27,6 +27,13 @@
         </xsl:copy>
     </xsl:template>
     
+    <!-- Slightly changing the identifiers of divs. -->
+    <xsl:template match="//div/@xml:id">
+        <xsl:attribute name="xml:id">
+            <xsl:value-of select="replace(self::node(),'-base-', '-txmfull-')"/>
+        </xsl:attribute>
+    </xsl:template>
+    
     <xsl:template match="/TEI/teiHeader/encodingDesc">
         <xsl:copy copy-namespaces="no">
             <xsl:apply-templates/>
@@ -55,18 +62,18 @@
     
     <!-- Changing part of the <edition> description. -->
     <xsl:template match="/TEI//editionStmt/edition">
-        <xsl:copy copy-namespaces="no"><xsl:value-of select="replace(child::text(), 'complète', 'complète pour TXM')"/></>
+        <xsl:copy copy-namespaces="no"><xsl:value-of select="replace(child::text(), 'complète', 'complète pour TXM')"/></xsl:copy>
     </xsl:template>
     
     <!-- Replace now useless part of the French <projectDesc> text with explanations on transformations from "base" file. -->
     <xsl:template match="//projectDesc[@xml:lang='fr']/p[contains(self::p, 'am/orig')]">
-        <xsl:copy copy-namespaces="no"><xsl:text>Ce fichier est une modification du fichier dit de "base". Les informations morpho-syntaxiques et lemmes ont été modifiées pour permettre leur interrogation dans le logiciel TXM selon les modalités décrites dans l'élément classDecl ci-dessous.</xsl:text></>
+        <xsl:copy copy-namespaces="no"><xsl:text>Ce fichier est une modification du fichier dit de "base". Les informations morpho-syntaxiques et lemmes ont été modifiées pour permettre leur interrogation dans le logiciel TXM selon les modalités décrites dans l'élément classDecl ci-dessous.</xsl:text></xsl:copy>
     </xsl:template>
     
     
     <!-- Replace now useless part of the English <projectDesc> text with explanations on transformations from "base" file. -->
     <xsl:template match="//projectDesc[@xml:lang='en']/p[contains(self::p, 'am/orig')]">
-        <xsl:copy copy-namespaces="no"><xsl:text>This file is derived from said "base" file. The part-of-speech and lemma information was modified to allow its interrogation through the TXM program as described in the subsequent classDecl element.</xsl:text></>
+        <xsl:copy copy-namespaces="no"><xsl:text>This file is derived from said "base" file. The part-of-speech and lemma information was modified to allow its interrogation through the TXM program as described in the subsequent classDecl element.</xsl:text></xsl:copy>
     </xsl:template>
     
 </xsl:stylesheet>

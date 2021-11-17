@@ -24,6 +24,13 @@
         </xsl:copy>
     </xsl:template>
     
+    <!-- Slightly changing the identifiers of divs. -->
+    <xsl:template match="//div/@xml:id">
+        <xsl:attribute name="xml:id">
+            <xsl:value-of select="replace(self::node(),'-base-', '-lighter-')"/>
+        </xsl:attribute>
+    </xsl:template>
+    
     <!-- Keep only the contents of the second child of <choice> elements, which will necessarily be either <expan>, <reg> or <corr>. -->
     <xsl:template match="//choice"><xsl:value-of select="child::*[2]"/></xsl:template>
     

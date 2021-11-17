@@ -25,6 +25,13 @@
         </xsl:copy>
     </xsl:template>
     
+    <!-- Slightly changing the identifiers of divs. -->
+    <xsl:template match="//div/@xml:id">
+        <xsl:attribute name="xml:id">
+            <xsl:value-of select="replace(self::node(),'-base-', '-txm-')"/>
+        </xsl:attribute>
+    </xsl:template>
+    
     <!-- Copy root with namespace and add TXM namespace with "txm" prefix. -->
     <xsl:template match="/TEI">
         <xsl:copy copy-namespaces="yes">
