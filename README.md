@@ -1,3 +1,20 @@
+# Cite this repository
+
+```Larrivée, Pierre et Mathieu Goux (dir.), 2021, corpus ConDÉ, Caen, CRISCO EA4255, version ******. URL : https://github.com/RIN-ConDE/editions/```
+
+Current version is ```"alpha" 0.4```. Version is mentionned in `/TEI/teiHeader/fileDesc/editionStmt/edition`.
+
+La version actuelle est ```"alpha" 0.4```. La version est mentionnée dans les `/TEI/teiHeader/fileDesc/editionStmt/edition`.
+
+# External links
+
+* Project website (soon).
+* [Project blog](https://conde.hypotheses.org/)
+* [Project GitLab repository](https://git.unicaen.fr/morgane.pica/editions)
+* The ConDÉ corpus on Nakala (soon)
+
+---------------------------------------------------------
+
 # Repository description
 
 This repository contains the database produced by the RIN ConDÉ project. The project, funded by the Normandy Region and based in the Caen and Rouen universities, started in december 2018. It is lead by :
