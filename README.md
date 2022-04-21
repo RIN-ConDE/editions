@@ -8,7 +8,7 @@ La version actuelle est ```"beta" 1.0```. La version est mentionnée dans les `/
 
 # External links
 
-* Project website (soon).
+* [Project website](https://www.unicaen.fr/coutumiers/conde/accueil.html).
 * [Project blog](https://conde.hypotheses.org/)
 * [Project GitLab repository](https://git.unicaen.fr/morgane.pica/editions)
 * The ConDÉ corpus on Nakala (soon)
